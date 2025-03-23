@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subarray Sum Equals K,100.0,0.4493136382036012,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Subarray Sum Equals K,100.0,0.45002535723874587,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Roman to Integer,100.0,0.6427327853749472,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

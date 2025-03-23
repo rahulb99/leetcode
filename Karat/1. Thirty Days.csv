@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.47093350390662947,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Find Words That Can Be Formed by Characters,80.4,0.7090272206023366,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+HARD,Text Justification,100.0,0.4727220105156529,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Check if Every Row and Column Contains All Numbers,89.1,0.5254735911301568,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+EASY,Find Words That Can Be Formed by Characters,80.4,0.7090163735007177,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"

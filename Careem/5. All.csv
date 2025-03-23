@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5518582551425033,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Accounts Merge,83.0,0.5894535757296323,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+MEDIUM,3Sum,83.0,0.3653171100280093,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Design Hit Counter,83.0,0.6903231022260176,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

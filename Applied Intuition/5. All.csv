@@ -1,0 +1,9 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.48881864075185644,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Minesweeper,97.0,0.6778781233661452,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+HARD,Word Abbreviation,89.4,0.6169327871593379,https://leetcode.com/problems/word-abbreviation,"Array, String, Greedy, Trie, Sorting"
+MEDIUM,Range Sum Query 2D - Immutable,68.8,0.5609891293461006,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
+MEDIUM,Design Circular Queue,68.8,0.5240211927189931,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+HARD,Best Meeting Point,68.8,0.612048970371715,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"
+MEDIUM,Cyclically Rotating a Grid,68.8,0.5011382936436237,https://leetcode.com/problems/cyclically-rotating-a-grid,"Array, Matrix, Simulation"
+HARD,Maximum Number of Visible Points,68.8,0.37487851083106827,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"

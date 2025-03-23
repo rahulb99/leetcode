@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5477004477376146,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Longest Palindromic Substring,82.8,0.3529865993627295,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Container With Most Water,82.8,0.5717353463452212,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-EASY,Roman to Integer,82.8,0.6415430198713148,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Valid Palindrome,82.8,0.5015528096264289,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5482915676572683,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Palindromic Substring,82.7,0.3537837286792247,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Container With Most Water,82.7,0.5726821631957336,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Roman to Integer,82.7,0.6427335024316414,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Valid Palindrome,82.7,0.5028480919173222,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Spiral Matrix,82.7,0.5309660513116427,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

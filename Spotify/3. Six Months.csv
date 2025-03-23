@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Moving Average from Data Stream,100.0,0.7958760290957754,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Analyze User Website Visit Pattern,100.0,0.4323115117050953,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
-EASY,Two Sum,90.0,0.550738668371342,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Moving Average from Data Stream,100.0,0.7966804412883765,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Analyze User Website Visit Pattern,100.0,0.43295498962116297,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
+MEDIUM,Kth Largest Element in an Array,100.0,0.6767049507826169,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Two Sum,89.8,0.5518548932188538,https://leetcode.com/problems/two-sum,"Array, Hash Table"

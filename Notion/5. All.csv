@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Time Based Key-Value Store,100.0,0.4936991456917953,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Text Justification,90.4,0.4727303671020634,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Design a Todo List,90.4,0.5861735089078234,https://leetcode.com/problems/design-a-todo-list,"Array, Hash Table, String, Design, Sorting"

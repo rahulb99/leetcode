@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimize the Maximum Difference of Pairs,100.0,0.44014050538812055,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Greedy"
+MEDIUM,Minimum Number of Days to Make m Bouquets,81.0,0.5531141391931724,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+MEDIUM,Search in Rotated Sorted Array,66.7,0.4240145869908297,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+HARD,Trapping Rain Water,66.7,0.6439802978767674,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

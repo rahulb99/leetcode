@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Smallest String With A Given Numeric Value,100.0,0.6701149270058206,https://leetcode.com/problems/smallest-string-with-a-given-numeric-value,"String, Greedy"
+HARD,Smallest K-Length Subsequence With Occurrences of a Letter,72.6,0.3956553280670644,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter,"String, Stack, Greedy, Monotonic Stack"

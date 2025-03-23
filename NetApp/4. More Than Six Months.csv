@@ -1,1 +1,5 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,LRU Cache,100.0,0.44550496693514446,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Linked List,88.2,0.7873631941471767,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Basic Calculator II,88.2,0.4533792613985393,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Find First and Last Position of Element in Sorted Array,88.2,0.46241848041029593,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"

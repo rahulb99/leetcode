@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.41845208006648854,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Min Stack,100.0,0.5599611981413696,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.4240124133989969,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

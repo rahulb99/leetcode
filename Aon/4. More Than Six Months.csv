@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Classifying Triangles by Lengths,100.0,0.5064377682403434,https://leetcode.com/problems/classifying-triangles-by-lengths,Database
+HARD,Minimize OR of Remaining Elements Using Operations,100.0,0.3067925836076936,https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations,"Array, Greedy, Bit Manipulation"

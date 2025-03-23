@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.5518569933472875,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Number of Islands,90.3,0.6170209983608866,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

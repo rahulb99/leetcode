@@ -1,1 +1,7 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count Zero Request Servers,100.0,0.33401854091092303,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Rotting Oranges,87.8,0.5605323337580369,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,All Nodes Distance K in Binary Tree,87.8,0.6592945887631029,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Search in Rotated Sorted Array,87.8,0.42401457304494694,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Capacity To Ship Packages Within D Days,87.8,0.7149742385168394,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+HARD,Binary Tree Cameras,87.8,0.47033259556140455,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

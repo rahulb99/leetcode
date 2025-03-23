@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum White Tiles Covered by a Carpet,100.0,0.34679070107463994,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+HARD,Closest Subsequence Sum,89.9,0.41165660278288263,https://leetcode.com/problems/closest-subsequence-sum,"Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+MEDIUM,Count Zero Request Servers,89.9,0.33401854091092303,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"

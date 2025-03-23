@@ -1,4 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Most Common Word,100.0,0.4448633280451142,https://leetcode.com/problems/most-common-word,"Array, Hash Table, String, Counting"
-EASY,Maximum Depth of N-ary Tree,95.9,0.727825242176896,https://leetcode.com/problems/maximum-depth-of-n-ary-tree,"Tree, Depth-First Search, Breadth-First Search"
-EASY,Valid Word Abbreviation,90.8,0.3661181400638188,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+EASY,Maximum Depth of N-ary Tree,100.0,0.7279253891572732,https://leetcode.com/problems/maximum-depth-of-n-ary-tree,"Tree, Depth-First Search, Breadth-First Search"
+EASY,Most Common Word,96.5,0.44494707711747145,https://leetcode.com/problems/most-common-word,"Array, Hash Table, String, Counting"
+MEDIUM,House Robber,92.4,0.520237482126463,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+EASY,Valid Word Abbreviation,87.3,0.3665416142078604,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,House Robber II,80.8,0.43191095294259346,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+MEDIUM,Coin Change,71.6,0.4591454086244209,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,People Whose List of Favorite Companies Is Not a Subset of Another List,71.6,0.5935385418549083,https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list,"Array, Hash Table, String"

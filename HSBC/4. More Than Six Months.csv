@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Container With Most Water,100.0,0.5726823029261346,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,3Sum,100.0,0.36531535292875794,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Pascal's Triangle,100.0,0.7651495626469459,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Reverse Linked List,100.0,0.7873631279489834,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"

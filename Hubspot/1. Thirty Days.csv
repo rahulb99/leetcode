@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4880663853640899,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Merge Sorted Array,100.0,0.5235335013010773,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Merge Two Sorted Lists,100.0,0.6636956171170622,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"

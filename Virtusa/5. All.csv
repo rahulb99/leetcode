@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Apply Operations to Make String Empty,100.0,0.5650063151247238,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"
+EASY,Pascal's Triangle,74.8,0.7651525568401683,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Merge Sorted Array,66.4,0.523534679613479,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,66.4,0.36418970061607686,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

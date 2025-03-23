@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Shortest Word Distance III,100.0,0.5888972497339218,https://leetcode.com/problems/shortest-word-distance-iii,"Array, String"

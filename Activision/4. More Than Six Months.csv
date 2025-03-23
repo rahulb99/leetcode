@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Moving Average from Data Stream,100.0,0.7966804412883765,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Design Browser History,100.0,0.7795940888456641,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+EASY,Reformat Phone Number,100.0,0.6679035531457305,https://leetcode.com/problems/reformat-phone-number,String

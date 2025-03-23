@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6158098025257719,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Length of Last Word,87.9,0.5544611094840004,https://leetcode.com/problems/length-of-last-word,String
+MEDIUM,Number of Islands,100.0,0.6170177111754799,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Length of Last Word,87.7,0.5558302947867754,https://leetcode.com/problems/length-of-last-word,String
+EASY,Implement Queue using Stacks,87.7,0.678006304645215,https://leetcode.com/problems/implement-queue-using-stacks,"Stack, Design, Queue"
+EASY,Two Sum,87.7,0.5518542489577773,https://leetcode.com/problems/two-sum,"Array, Hash Table"

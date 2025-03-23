@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.40860609611684745,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Rotting Oranges,89.0,0.5596871680478486,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Fair Distribution of Cookies,89.0,0.6930948473908762,https://leetcode.com/problems/fair-distribution-of-cookies,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Number of Islands,89.0,0.6158095716254219,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Merge Intervals,89.0,0.4880655232188065,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Daily Temperatures,89.0,0.6696879068677921,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Maximum Number of Events That Can Be Attended,100.0,0.32781203196397857,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Group Anagrams,100.0,0.7043765561947491,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Dungeon Game,100.0,0.3915871605460829,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
+EASY,Buddy Strings,100.0,0.33544252382993667,https://leetcode.com/problems/buddy-strings,"Hash Table, String"
+MEDIUM,Subarray Sum Equals K,100.0,0.4500236356096835,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

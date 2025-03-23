@@ -1,0 +1,6 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.48881864075185644,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Word Abbreviation,100.0,0.6169327871593379,https://leetcode.com/problems/word-abbreviation,"Array, String, Greedy, Trie, Sorting"
+MEDIUM,Minesweeper,100.0,0.6778781233661452,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Design Circular Queue,89.2,0.5240211927189931,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+HARD,Best Meeting Point,89.2,0.612048970371715,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"

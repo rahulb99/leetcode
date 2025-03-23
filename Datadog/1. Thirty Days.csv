@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Word Abbreviation,100.0,0.3661181400638188,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
-EASY,Most Common Word,84.8,0.4448633280451142,https://leetcode.com/problems/most-common-word,"Array, Hash Table, String, Counting"
+MEDIUM,House Robber,100.0,0.520237482126463,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+EASY,Valid Word Abbreviation,88.5,0.3665416142078604,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,House Robber II,88.5,0.43191095294259346,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+EASY,Maximum Depth of N-ary Tree,79.4,0.7279253891572732,https://leetcode.com/problems/maximum-depth-of-n-ary-tree,"Tree, Depth-First Search, Breadth-First Search"

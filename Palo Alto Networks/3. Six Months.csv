@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4443110186522549,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Merge Two Sorted Lists,89.0,0.662895598755762,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Integer to Roman,89.0,0.6785824425620389,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,LRU Cache,100.0,0.44550529382467696,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Median of Two Sorted Arrays,87.5,0.43064316532592206,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Merge Two Sorted Lists,77.6,0.6636956996593131,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Integer to Roman,77.6,0.6798527215181545,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"

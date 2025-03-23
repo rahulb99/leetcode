@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Second Largest Digit in a String,100.0,0.516029637273027,https://leetcode.com/problems/second-largest-digit-in-a-string,"Hash Table, String"
+MEDIUM,Longest Palindromic Substring,76.2,0.35378658519250744,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Palindrome,68.2,0.5028510451024638,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,68.2,0.3641902423065952,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

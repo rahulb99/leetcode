@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36326751383863054,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Cost For Tickets,88.9,0.6740559574546877,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-HARD,Race Car,88.9,0.4397104140967535,https://leetcode.com/problems/race-car,Dynamic Programming
-MEDIUM,Jump Game,88.9,0.3911360991634624,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Validate IP Address,88.9,0.2769428040445537,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36418662286212805,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Cost For Tickets,92.6,0.6740295926210608,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+HARD,Race Car,82.2,0.4399047978565707,https://leetcode.com/problems/race-car,Dynamic Programming
+MEDIUM,Jump Game,82.2,0.3915385677517528,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Sum of Digit Differences of All Pairs,82.2,0.42778744922490264,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"

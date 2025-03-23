@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Reverse Vowels of a String,100.0,0.572438815967256,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,0.4191752228108199,https://leetcode.com/problems/valid-parentheses,"String, Stack"

@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Remove K Digits,100.0,0.345009146834396,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

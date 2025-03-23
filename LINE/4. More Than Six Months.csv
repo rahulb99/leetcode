@@ -1,0 +1,2 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Sudoku Solver,100.0,0.6367752366149491,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"

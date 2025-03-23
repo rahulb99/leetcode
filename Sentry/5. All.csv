@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Text Justification,100.0,0.4727313764821091,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Design Hit Counter,83.0,0.6903254493181279,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

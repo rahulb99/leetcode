@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,First Missing Positive,100.0,0.40706260326943455,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Longest Increasing Subsequence,100.0,0.5726239402602388,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"

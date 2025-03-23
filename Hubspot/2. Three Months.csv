@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4880663853640899,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Two Sum,76.5,0.5507386464621905,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Maximum Number of Occurrences of a Substring,76.5,0.5295250065628804,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Merge Intervals,100.0,0.4888158454829876,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Merge Sorted Array,88.4,0.5235335013010773,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Two Sum,79.2,0.5518549012424092,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Maximum Number of Occurrences of a Substring,79.2,0.5299351032448377,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
+EASY,Merge Two Sorted Lists,79.2,0.6636956613166929,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"

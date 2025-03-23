@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.41845274210973515,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Roman to Integer,82.1,0.6415429085954549,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Longest Common Prefix,82.1,0.4488796388172988,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Group Anagrams,82.1,0.7033739015376013,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Two Sum,82.1,0.550739855913629,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,100.0,0.41917195683680925,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Roman to Integer,81.8,0.6427332930995763,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Longest Common Prefix,81.8,0.44980546892442036,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Group Anagrams,81.8,0.7043779321513793,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,81.8,0.5518562954164715,https://leetcode.com/problems/two-sum,"Array, Hash Table"

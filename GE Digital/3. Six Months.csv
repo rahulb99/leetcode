@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Cost to Set Cooking Time,100.0,0.41310288450309474,https://leetcode.com/problems/minimum-cost-to-set-cooking-time,"Math, Enumeration"
+MEDIUM,Minimum Remove to Make Valid Parentheses,90.6,0.7030459018369658,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"

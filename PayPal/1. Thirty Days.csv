@@ -1,2 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Loud and Rich,100.0,0.6100672133919514,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph, Topological Sort"
+MEDIUM,Number of Islands,100.0,0.6170170115938888,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Loud and Rich,89.1,0.6100982207299087,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph, Topological Sort"
+MEDIUM,Course Schedule,89.1,0.48572005810121366,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,89.1,0.44550537056427847,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

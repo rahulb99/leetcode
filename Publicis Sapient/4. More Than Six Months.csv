@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Trapping Rain Water,100.0,0.6439806727258006,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Group Anagrams,100.0,0.7043799945887489,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

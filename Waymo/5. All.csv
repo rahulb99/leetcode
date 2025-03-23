@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Number of Islands,100.0,0.6170181086676988,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Longest Increasing Path in a Matrix,81.5,0.5496188657821749,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+MEDIUM,Possible Bipartition,81.5,0.5122237321446752,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Valid Sudoku,81.5,0.617542373101288,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Divide Array in Sets of K Consecutive Numbers,81.5,0.5859787065131099,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers,"Array, Hash Table, Greedy, Sorting"
+MEDIUM,Design Tic-Tac-Toe,81.5,0.584584996936857,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+HARD,Shortest Distance from All Buildings,81.5,0.4389221880474284,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"

@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotate Image,100.0,0.7717073703273204,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-EASY,Number of 1 Bits,88.6,0.7377342819646373,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
-EASY,Climbing Stairs,88.6,0.5334307746316251,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-EASY,Valid Parentheses,88.6,0.418452726884713,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Spiral Matrix,88.6,0.5293310731654117,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Rotate Image,100.0,0.7727260669856661,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+EASY,Number of 1 Bits,88.6,0.7389016808559683,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
+EASY,Climbing Stairs,88.6,0.533700766328007,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+EASY,Valid Parentheses,88.6,0.419171741732533,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Spiral Matrix,88.6,0.5309649147784228,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Number of Islands,88.6,0.6170194243389343,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

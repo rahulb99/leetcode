@@ -1,0 +1,3 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Find Edges in Shortest Paths,100.0,0.45927730667004174,https://leetcode.com/problems/find-edges-in-shortest-paths,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+HARD,Maximum Profit in Job Scheduling,100.0,0.543374168176724,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"

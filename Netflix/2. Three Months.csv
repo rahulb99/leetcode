@@ -1,5 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4880655232188065,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Logger Rate Limiter,100.0,0.7635642018282964,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-MEDIUM,Meeting Rooms II,89.4,0.5191547661608963,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Word Break,89.4,0.47875218380231854,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+HARD,Reconstruct Itinerary,100.0,0.4344605542239939,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Merge Intervals,74.6,0.4888151487116012,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Logger Rate Limiter,74.6,0.7637278475953447,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Word Search,74.6,0.447170757138274,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Meeting Rooms II,66.0,0.5195249088402523,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Word Break,66.0,0.4793526531067538,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Network Delay Time,66.0,0.5653109026088755,https://leetcode.com/problems/network-delay-time,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+MEDIUM,Longest Substring Without Repeating Characters,66.0,0.3641857487840536,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

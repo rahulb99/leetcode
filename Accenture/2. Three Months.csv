@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.517337265904731,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Reverse String,88.1,0.7951848086735819,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
-HARD,Divide Nodes Into the Maximum Number of Groups,88.1,0.6763394918199294,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Maximum Subarray,100.0,0.5179057172892951,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,Divide Nodes Into the Maximum Number of Groups,88.2,0.6756477029914529,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Number of Islands,88.2,0.6170176396279056,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Move Zeroes,88.2,0.6257723472865523,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"

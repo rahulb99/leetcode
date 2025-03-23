@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Mountain in Array,100.0,0.4090573618708352,https://leetcode.com/problems/longest-mountain-in-array,"Array, Two Pointers, Dynamic Programming, Enumeration"
+MEDIUM,Group Anagrams,90.3,0.7043798302508031,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Word Search,90.3,0.4471729648345547,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"

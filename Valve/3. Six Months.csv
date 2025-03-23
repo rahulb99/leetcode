@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,String to Integer (atoi),100.0,0.18788960311251343,https://leetcode.com/problems/string-to-integer-atoi,String
+MEDIUM,Deep Merge of Two Objects,80.8,0.6589002795899348,https://leetcode.com/problems/deep-merge-of-two-objects,
+EASY,Design Parking System,80.8,0.8804021346497383,https://leetcode.com/problems/design-parking-system,"Design, Simulation, Counting"

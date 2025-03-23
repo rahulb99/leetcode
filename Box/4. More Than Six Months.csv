@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Number of 1 Bits,100.0,0.7377342819646373,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
-HARD,Word Ladder,78.0,0.418468363777577,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
-MEDIUM,Top K Frequent Words,72.3,0.5892399554876226,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-EASY,Kth Largest Element in a Stream,64.1,0.5968285423536883,https://leetcode.com/problems/kth-largest-element-in-a-stream,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
-HARD,Word Ladder II,64.1,0.27118241260165094,https://leetcode.com/problems/word-ladder-ii,"Hash Table, String, Backtracking, Breadth-First Search"
-MEDIUM,Event Emitter,64.1,0.7428991714798712,https://leetcode.com/problems/event-emitter,
+EASY,Number of 1 Bits,100.0,0.7389014587674904,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
+HARD,Word Ladder,77.9,0.4198246893836001,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Top K Frequent Words,77.9,0.5897244768610717,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Kth Largest Element in a Stream,63.9,0.597188465022479,https://leetcode.com/problems/kth-largest-element-in-a-stream,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+HARD,Word Ladder II,63.9,0.27117187574124096,https://leetcode.com/problems/word-ladder-ii,"Hash Table, String, Backtracking, Breadth-First Search"
+MEDIUM,Event Emitter,63.9,0.7434442602745548,https://leetcode.com/problems/event-emitter,

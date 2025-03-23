@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Find Closest Number to Zero,100.0,0.4694359565271163,https://leetcode.com/problems/find-closest-number-to-zero,Array
+MEDIUM,Consecutive Numbers,74.8,0.4549828263261697,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Best Time to Buy and Sell Stock,66.4,0.5482913209718869,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

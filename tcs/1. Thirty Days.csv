@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5507379956352498,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Smallest Sufficient Team,100.0,0.5532652842655067,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+EASY,Single Number,83.1,0.7543137200276874,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"

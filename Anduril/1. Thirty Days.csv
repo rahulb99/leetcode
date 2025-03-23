@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Video Stitching,100.0,0.5177357456140351,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+MEDIUM,Video Stitching,100.0,0.5179816476318099,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+MEDIUM,Number of Islands,75.9,0.6170178224783933,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

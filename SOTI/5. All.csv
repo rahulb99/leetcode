@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Longest Valid Parentheses,100.0,0.35771206204588635,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+MEDIUM,Merge Intervals,89.1,0.4888181272323805,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Valid Parentheses,89.1,0.41917464371036106,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,89.1,0.36419115415833075,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

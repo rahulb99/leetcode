@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.42976871515675424,https://leetcode.com/problems/second-highest-salary,Database
-EASY,Longest Common Prefix,88.3,0.44887944888292625,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Second Highest Salary,100.0,0.4309696407699025,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Longest Common Prefix,88.1,0.449804954844509,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Minimum Time to Repair Cars,88.1,0.6033977583620157,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"

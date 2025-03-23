@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Majority Element,100.0,0.654976249447111,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-MEDIUM,Koko Eating Bananas,100.0,0.48824123318169,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,Set Matrix Zeroes,100.0,0.5893222092436896,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
-HARD,Median of Two Sorted Arrays,100.0,0.429394401155668,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Majority Element,100.0,0.6552305719628561,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Koko Eating Bananas,100.0,0.48903950102746385,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Set Matrix Zeroes,100.0,0.5906058751043447,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+HARD,Median of Two Sorted Arrays,100.0,0.4306446748954392,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Elimination Game,100.0,0.45397342905387467,https://leetcode.com/problems/elimination-game,"Math, Recursion"

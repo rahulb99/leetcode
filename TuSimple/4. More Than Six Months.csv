@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Intervals Between Identical Elements,100.0,0.44737199774770403,https://leetcode.com/problems/intervals-between-identical-elements,"Array, Hash Table, Prefix Sum"
+MEDIUM,Count the Number of Good Subsequences,100.0,0.515520694259012,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+HARD,Number of Ways to Earn Points,100.0,0.5813227279422596,https://leetcode.com/problems/number-of-ways-to-earn-points,"Array, Dynamic Programming"
+HARD,Maximum Good People Based on Statements,100.0,0.5129753383764714,https://leetcode.com/problems/maximum-good-people-based-on-statements,"Array, Backtracking, Bit Manipulation, Enumeration"

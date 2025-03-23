@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reverse Odd Levels of Binary Tree,100.0,0.8667908012028208,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Maximum Twin Sum of a Linked List,100.0,0.8131076439424813,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
