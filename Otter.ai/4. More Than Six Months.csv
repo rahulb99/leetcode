@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,The Number of the Smallest Unoccupied Chair,100.0,0.6056647588549151,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair,"Array, Hash Table, Heap (Priority Queue)"
-HARD,Trapping Rain Water II,100.0,0.5872036158614543,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+HARD,Trapping Rain Water II,100.0,0.5874033559651468,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+MEDIUM,The Number of the Smallest Unoccupied Chair,89.8,0.6050328714673685,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair,"Array, Hash Table, Heap (Priority Queue)"
+HARD,Frog Jump,89.8,0.4644193455698241,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
+MEDIUM,Word Break,89.8,0.4802096554655149,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"

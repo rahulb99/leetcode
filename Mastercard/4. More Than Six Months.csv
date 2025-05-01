@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.41917099940079194,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Fizz Buzz,88.4,0.7398642471368667,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
-MEDIUM,Subsets,88.4,0.8034800530016778,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
-EASY,Two Sum,88.4,0.5518550366589019,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,100.0,0.4202364531273588,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Fizz Buzz,88.4,0.7408554109839578,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+MEDIUM,Subsets,88.4,0.804725572728634,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+EASY,Two Sum,88.4,0.5533861332061331,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Anagram,88.4,0.6633043508804863,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

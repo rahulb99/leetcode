@@ -1,8 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Restore IP Addresses,100.0,0.5248448485909365,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Reverse Linked List II,82.9,0.4917597012879984,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-HARD,Reverse Nodes in k-Group,82.9,0.6218908835441825,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-EASY,Contains Duplicate II,82.9,0.4827275061104267,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
-EASY,Maximum Depth of Binary Tree,72.9,0.768123973492256,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,LRU Cache,72.9,0.44550516874881635,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Path Sum II,72.9,0.6011348763445216,https://leetcode.com/problems/path-sum-ii,"Backtracking, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Restore IP Addresses,100.0,0.5261737274660128,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+HARD,Reverse Nodes in k-Group,82.8,0.624021770923423,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+EASY,Contains Duplicate II,82.8,0.48481135406915804,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+EASY,Maximum Depth of Binary Tree,72.8,0.7689595729145299,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,LRU Cache,72.8,0.44717899732460326,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Path Sum II,72.8,0.601685527106667,https://leetcode.com/problems/path-sum-ii,"Backtracking, Tree, Depth-First Search, Binary Tree"

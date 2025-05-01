@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Smallest Range Covering Elements from K Lists,100.0,0.6979166322358439,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,"Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
-HARD,Regular Expression Matching,89.4,0.290064438573685,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-MEDIUM,Domino and Tromino Tiling,89.4,0.4854197060299045,https://leetcode.com/problems/domino-and-tromino-tiling,Dynamic Programming
+HARD,Smallest Range Covering Elements from K Lists,100.0,0.6972137784649248,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists,"Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+HARD,Regular Expression Matching,83.0,0.29067242333278703,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+MEDIUM,Domino and Tromino Tiling,83.0,0.48491536434324034,https://leetcode.com/problems/domino-and-tromino-tiling,Dynamic Programming

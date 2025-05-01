@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518559519966201,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Modify the Matrix,100.0,0.6857539500801465,https://leetcode.com/problems/modify-the-matrix,"Array, Matrix"
-EASY,Valid Anagram,100.0,0.662277888181942,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Two Sum,100.0,0.5533866900173052,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Modify the Matrix,100.0,0.6817817634904347,https://leetcode.com/problems/modify-the-matrix,"Array, Matrix"
+EASY,Valid Anagram,100.0,0.6633037144204158,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

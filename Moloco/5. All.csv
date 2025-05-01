@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sliding Puzzle,100.0,0.7300411728217745,https://leetcode.com/problems/sliding-puzzle,"Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix"
-MEDIUM,Design a Stack With Increment Operation,100.0,0.8046331653174482,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-HARD,Trapping Rain Water,100.0,0.6439816878110544,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Longest String Chain,100.0,0.6173054105120622,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
-MEDIUM,Meeting Rooms II,88.7,0.5195289597572403,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Single Element in a Sorted Array,88.7,0.5914998622605618,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+MEDIUM,Longest String Chain,100.0,0.6179124025176294,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+HARD,Sliding Puzzle,92.6,0.73031702317106,https://leetcode.com/problems/sliding-puzzle,"Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix"
+MEDIUM,Design a Stack With Increment Operation,92.6,0.8045036411125133,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+HARD,Trapping Rain Water,92.6,0.6456561382479652,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Meeting Rooms II,82.1,0.5200577883564653,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Single Element in a Sorted Array,82.1,0.5917997348846196,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"

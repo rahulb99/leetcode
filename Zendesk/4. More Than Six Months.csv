@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Evaluate Reverse Polish Notation,100.0,0.5419224445530628,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
-EASY,Categorize Box According to Criteria,100.0,0.37076420052651793,https://leetcode.com/problems/categorize-box-according-to-criteria,Math
-EASY,Distribute Money to Maximum Children,100.0,0.19645607025429726,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
+MEDIUM,Evaluate Reverse Polish Notation,100.0,0.543810011356291,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Categorize Box According to Criteria,100.0,0.3714646277188034,https://leetcode.com/problems/categorize-box-according-to-criteria,Math
+EASY,Distribute Money to Maximum Children,100.0,0.19333599462352008,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"

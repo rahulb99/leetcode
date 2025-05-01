@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Best Time to Buy and Sell Stock IV,100.0,0.46175703793866324,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv,"Array, Dynamic Programming"
-EASY,Happy Number,100.0,0.5763515750296493,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-HARD,Check If It Is a Good Array,100.0,0.6086642599277978,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
-EASY,Subtree of Another Tree,100.0,0.4954282724238005,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+HARD,Best Time to Buy and Sell Stock IV,100.0,0.46364351796031555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv,"Array, Dynamic Programming"
+EASY,Happy Number,100.0,0.5773623388476606,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+HARD,Check If It Is a Good Array,100.0,0.6092563855219562,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
+EASY,Subtree of Another Tree,100.0,0.4963561532575731,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"

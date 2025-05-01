@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Search in Rotated Sorted Array,100.0,0.4240113191411221,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-MEDIUM,Rotate List,100.0,0.39481304240196124,https://leetcode.com/problems/rotate-list,"Linked List, Two Pointers"
-MEDIUM,Maximize Greatness of an Array,78.9,0.5886807414015264,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Maximize Greatness of an Array,100.0,0.5798630918425556,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Maximum Subarray,83.2,0.5186405326038427,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

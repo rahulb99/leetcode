@@ -1,8 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Distance to Closest Person,100.0,0.48738703753934537,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-MEDIUM,Task Scheduler,95.7,0.6109260257224899,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Reorganize String,90.4,0.5584559174239699,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-EASY,Valid Parentheses,90.4,0.4191696874291557,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Rotating the Box,83.5,0.7916565712039714,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-MEDIUM,Spiral Matrix,73.9,0.5309628962431356,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Number of Adjacent Elements With the Same Color,73.9,0.5432905123045968,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+MEDIUM,Reorganize String,100.0,0.5593751448360371,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Task Scheduler,90.3,0.6111572835158688,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,87.0,0.4878947817454161,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,78.4,0.4202356730937813,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Rotating the Box,78.4,0.7901922069122498,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Spiral Matrix,63.5,0.5330334207583659,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Number of Adjacent Elements With the Same Color,63.5,0.5438915673610479,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+HARD,Trapping Rain Water,63.5,0.6456473522553633,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

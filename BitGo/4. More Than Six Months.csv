@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.50909292825515,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Gas Station,100.0,0.4601286041849464,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Longest Substring Without Repeating Characters,89.0,0.3641879049309767,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Substring with At Most K Distinct Characters,89.0,0.4935200521743057,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
-HARD,Check if an Original String Exists Given Two Encoded Strings,89.0,0.436290748475683,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+MEDIUM,Zigzag Conversion,100.0,0.5107281530962398,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Gas Station,100.0,0.46099827120381554,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Longest Substring with At Most K Distinct Characters,88.8,0.4938696567854459,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+HARD,Check if an Original String Exists Given Two Encoded Strings,88.8,0.43022134405946416,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"

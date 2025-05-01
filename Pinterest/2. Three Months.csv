@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Optimal Account Balancing,100.0,0.4970806027711026,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-HARD,Reconstruct Itinerary,94.7,0.4344605542239939,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-HARD,Meeting Rooms III,87.9,0.43919188511481705,https://leetcode.com/problems/meeting-rooms-iii,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
-HARD,Count Subarrays With Score Less Than K,87.9,0.5569364655025312,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Target Sum,78.3,0.5036135403638625,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
+HARD,Reconstruct Itinerary,100.0,0.43456952640611407,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+HARD,Optimal Account Balancing,75.5,0.49763629561609357,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+HARD,Count Subarrays With Score Less Than K,75.5,0.5572985537909052,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Target Sum,65.7,0.5044957351023016,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
+HARD,Meeting Rooms III,58.0,0.43898245939794023,https://leetcode.com/problems/meeting-rooms-iii,"Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+HARD,Design Search Autocomplete System,58.0,0.49306649351651255,https://leetcode.com/problems/design-search-autocomplete-system,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"

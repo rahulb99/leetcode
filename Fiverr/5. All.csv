@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subsets,100.0,0.8034849971150241,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
-MEDIUM,LRU Cache,100.0,0.4455075193430085,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Subsets,100.0,0.8047332179014375,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+MEDIUM,LRU Cache,100.0,0.44718365965669254,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

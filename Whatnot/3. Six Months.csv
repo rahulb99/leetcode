@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6170248061410176,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Search a 2D Matrix II,90.0,0.5453364975596651,https://leetcode.com/problems/search-a-2d-matrix-ii,"Array, Binary Search, Divide and Conquer, Matrix"
-EASY,Remove All Adjacent Duplicates In String,90.0,0.7114408270037521,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
-MEDIUM,Group Anagrams,90.0,0.7043815127288775,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Number of Islands,100.0,0.6186273035239616,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Remove All Adjacent Duplicates In String,100.0,0.7123362644579853,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Group Anagrams,100.0,0.7056769798794824,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reconstruct Itinerary,100.0,0.4344605542239939,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-MEDIUM,Word Search,75.9,0.447170757138274,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-EASY,Logger Rate Limiter,67.8,0.7637278475953447,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-MEDIUM,Longest Substring Without Repeating Characters,67.8,0.3641857487840536,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Reconstruct Itinerary,100.0,0.43456952640611407,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Cache With Time Limit,68.9,0.7561674587442982,https://leetcode.com/problems/cache-with-time-limit,

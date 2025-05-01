@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Detonate the Maximum Bombs,100.0,0.4903958139087329,https://leetcode.com/problems/detonate-the-maximum-bombs,"Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry"

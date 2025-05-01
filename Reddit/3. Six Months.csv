@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Ladder,100.0,0.4198221355234939,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
-EASY,Logger Rate Limiter,84.4,0.7637278475953447,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+Difficulty,Title,Frequency,Acceptance Rate,Link

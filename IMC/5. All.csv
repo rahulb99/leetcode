@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Safest Path in a Grid,100.0,0.48557090283420157,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
-HARD,Time Taken to Cross the Door,88.5,0.48968540484785966,https://leetcode.com/problems/time-taken-to-cross-the-door,"Array, Queue, Simulation"
-MEDIUM,Asteroid Collision,75.3,0.451511043143981,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Design a Stack With Increment Operation,67.6,0.8046331653174482,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,67.6,0.5375960723574622,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
-MEDIUM,Min Stack,62.1,0.5599600088857233,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Minimum Knight Moves,54.4,0.4118121779658184,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
-HARD,Shortest Path in a Grid with Obstacles Elimination,54.4,0.4547754561123623,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Find the Safest Path in a Grid,100.0,0.48334443861613996,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Time Taken to Cross the Door,88.4,0.48988559111258495,https://leetcode.com/problems/time-taken-to-cross-the-door,"Array, Queue, Simulation"
+MEDIUM,Asteroid Collision,75.2,0.452081603317745,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Design a Stack With Increment Operation,67.5,0.8045057722614238,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,67.5,0.5346204386940261,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
+MEDIUM,Min Stack,62.0,0.5611040428526226,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Minimum Knight Moves,54.3,0.4120620578969268,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+HARD,Shortest Path in a Grid with Obstacles Elimination,54.3,0.45472094322538387,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"

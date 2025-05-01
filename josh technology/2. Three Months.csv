@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Twin Sum of a Linked List,100.0,0.8131076439424813,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
+MEDIUM,Maximum Twin Sum of a Linked List,100.0,0.813120214613622,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
+MEDIUM,Remove K Digits,100.0,0.34587920654337867,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

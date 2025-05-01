@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Classifying Triangles by Lengths,100.0,0.5064377682403434,https://leetcode.com/problems/classifying-triangles-by-lengths,Database
-HARD,Minimize OR of Remaining Elements Using Operations,100.0,0.3067925836076936,https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations,"Array, Greedy, Bit Manipulation"
+EASY,Classifying Triangles by Lengths,100.0,0.5054861899356792,https://leetcode.com/problems/classifying-triangles-by-lengths,Database
+HARD,Minimize OR of Remaining Elements Using Operations,100.0,0.2867245258759241,https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations,"Array, Greedy, Bit Manipulation"
+MEDIUM,Construct the Minimum Bitwise Array II,100.0,0.34529593889127436,https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii,"Array, Bit Manipulation"
+EASY,Construct the Minimum Bitwise Array I,100.0,0.7373337933596964,https://leetcode.com/problems/construct-the-minimum-bitwise-array-i,"Array, Bit Manipulation"

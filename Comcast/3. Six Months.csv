@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518569933472875,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Number of Islands,90.3,0.6170209983608866,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Two Sum,100.0,0.553388042344693,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Number of Islands,90.1,0.6186226099540769,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,90.1,0.3654413722405534,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

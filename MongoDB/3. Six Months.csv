@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4727220105156529,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-HARD,Merge k Sorted Lists,89.0,0.5594077693207938,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Insert Interval,89.0,0.43010066556902354,https://leetcode.com/problems/insert-interval,Array
-EASY,Merge Two Binary Trees,89.0,0.7930638517535266,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Stock Price Fluctuation ,89.0,0.48775119557559093,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+HARD,Text Justification,100.0,0.4749342488124185,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Word Break,100.0,0.4802064440662886,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Insert Interval,89.1,0.4312530414595815,https://leetcode.com/problems/insert-interval,Array
+EASY,Merge Two Binary Trees,89.1,0.7923509136948482,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Web Crawler Multithreaded,89.1,0.4973641041459277,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Spreadsheet,100.0,0.684623430962343,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
-HARD,Design Excel Sum Formula,80.7,0.4410062000448196,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
-MEDIUM,Evaluate Division,80.7,0.6279809708376445,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-HARD,Number of Visible People in a Queue,66.1,0.706022767258514,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
-MEDIUM,Accounts Merge,66.1,0.5894497202913916,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
-HARD,LFU Cache,66.1,0.45951231311985774,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design Spreadsheet,100.0,0.6800014707504504,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
+HARD,Design Excel Sum Formula,85.2,0.43636825950344177,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+MEDIUM,Evaluate Division,74.3,0.6288196728749348,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Number of Visible People in a Queue,65.6,0.7073950514317486,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
+HARD,LFU Cache,65.6,0.4607467170306805,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Median of Two Sorted Arrays,65.6,0.43234385006572734,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

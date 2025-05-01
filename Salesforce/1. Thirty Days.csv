@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Split a String in Balanced Strings,100.0,0.8663931073272997,https://leetcode.com/problems/split-a-string-in-balanced-strings,"String, Greedy, Counting"
-MEDIUM,Closest Equal Element Queries,100.0,0.2957309657017757,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
-MEDIUM,String Compression,74.6,0.5738929950217527,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Closest Equal Element Queries,100.0,0.3046865000274278,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
+MEDIUM,Course Schedule II,66.2,0.5291120803508438,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

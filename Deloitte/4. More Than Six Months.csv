@@ -1,16 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518549907379037,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Palindrome Number,75.8,0.5874954598814343,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Reverse Integer,75.8,0.299235644420914,https://leetcode.com/problems/reverse-integer,Math
-HARD,Merge k Sorted Lists,75.8,0.5594077693207938,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Valid Parentheses,65.9,0.4191708617509662,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Pascal's Triangle,65.9,0.7651490332450686,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-EASY,Valid Palindrome,65.9,0.5028458592330177,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-EASY,Climbing Stairs,65.9,0.5337009884135229,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-MEDIUM,Longest Palindromic Substring,65.9,0.3537826649720003,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Maximum Subarray,65.9,0.5179056918333562,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Change Null Values in a Table to the Previous Value,65.9,0.5146741678387248,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
-EASY,Majority Element,65.9,0.6552303819150842,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-MEDIUM,Managers with at Least 5 Direct Reports,65.9,0.4908823163493898,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-MEDIUM,Search in Rotated Sorted Array II,65.9,0.3862661430881334,https://leetcode.com/problems/search-in-rotated-sorted-array-ii,"Array, Binary Search"
-EASY,Best Time to Buy and Sell Stock,65.9,0.5482907734809426,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Two Sum,100.0,0.5533861248771019,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Palindrome Number,75.7,0.5886347550565575,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Reverse Integer,75.7,0.3000699930614649,https://leetcode.com/problems/reverse-integer,Math
+HARD,Merge k Sorted Lists,75.7,0.5615795571694827,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,65.7,0.42023647175353235,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Pascal's Triangle,65.7,0.7663221220961467,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Climbing Stairs,65.7,0.5341047726459458,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Maximum Subarray,65.7,0.5186411166677952,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Change Null Values in a Table to the Previous Value,65.7,0.5136884942656308,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
+EASY,Majority Element,65.7,0.6557193495545753,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Managers with at Least 5 Direct Reports,65.7,0.49027856839928063,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Best Time to Buy and Sell Stock,65.7,0.5492494997362906,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

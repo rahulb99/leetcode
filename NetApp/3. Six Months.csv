@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Move Zeroes,100.0,0.6257732525712173,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,Reconstruct Original Digits from English,89.6,0.5148329484582357,https://leetcode.com/problems/reconstruct-original-digits-from-english,"Hash Table, Math, String"
+EASY,Move Zeroes,100.0,0.6264104542463244,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Reconstruct Original Digits from English,89.4,0.5151682618818051,https://leetcode.com/problems/reconstruct-original-digits-from-english,"Hash Table, Math, String"

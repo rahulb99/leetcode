@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Convert Sorted List to Binary Search Tree,100.0,0.6394821157029096,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree,"Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
-HARD,Minimum Window Substring,81.4,0.44765882609195506,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-HARD,Max Stack,75.5,0.45311660507547763,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
-MEDIUM,Decode Ways,67.3,0.3616808580522598,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"
+MEDIUM,Convert Sorted List to Binary Search Tree,100.0,0.6406744781144781,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree,"Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
+HARD,Minimum Window Substring,81.0,0.4490230999499708,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Max Stack,75.0,0.4539371367212751,https://leetcode.com/problems/max-stack,"Linked List, Stack, Design, Doubly-Linked List, Ordered Set"
+MEDIUM,Rotting Oranges,75.0,0.5618143394865981,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Decode Ways,66.6,0.36248822225213395,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"
+HARD,Word Ladder II,66.6,0.27129977278628054,https://leetcode.com/problems/word-ladder-ii,"Hash Table, String, Backtracking, Breadth-First Search"

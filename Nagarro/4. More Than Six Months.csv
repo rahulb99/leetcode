@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Window Substring,100.0,0.4476612948388236,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,92.3,0.4191722394723436,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Two Sum,81.6,0.5518564135456909,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Remove Duplicates from Sorted Array,81.6,0.5959920341864309,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Subarray Sum Equals K,81.6,0.4500252214333368,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Count Number of Ways to Place Houses,81.6,0.42504433606739084,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
-MEDIUM,Longest Substring Without Repeating Characters,81.6,0.3641879235328463,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Minimum Window Substring,100.0,0.4490260546781085,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+EASY,Two Sum,88.5,0.5533873143197995,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,88.5,0.4202374694275651,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Remove Duplicates from Sorted Array,88.5,0.5980739942285537,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Subarray Sum Equals K,88.5,0.4511833783270854,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Count Number of Ways to Place Houses,88.5,0.42548192522773803,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
+MEDIUM,Longest Substring Without Repeating Characters,88.5,0.3654406426252199,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

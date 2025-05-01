@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Smallest K-Length Subsequence With Occurrences of a Letter,100.0,0.3956553280670644,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter,"String, Stack, Greedy, Monotonic Stack"
+HARD,Smallest K-Length Subsequence With Occurrences of a Letter,100.0,0.3872495303694427,https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter,"String, Stack, Greedy, Monotonic Stack"

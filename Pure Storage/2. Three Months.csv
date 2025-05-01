@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Palindromic Substrings,100.0,0.7133039795349652,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Palindromic Substrings,100.0,0.7141043993938961,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Longest Palindromic Substring,68.4,0.3549116212825224,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

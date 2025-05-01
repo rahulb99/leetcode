@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.5738992315158727,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-EASY,Arranging Coins,98.0,0.4721931225458595,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
-MEDIUM,Merge Intervals,72.5,0.48881546872289083,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Permutations,64.0,0.8021931126316549,https://leetcode.com/problems/permutations,"Array, Backtracking"
-HARD,Minimum Degree of a Connected Trio in a Graph,64.0,0.43347146637375805,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,Graph
+MEDIUM,String Compression,100.0,0.5758889604649282,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+EASY,Arranging Coins,98.0,0.4720973424269011,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
+MEDIUM,Merge Intervals,72.5,0.4902763542376226,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Permutations,64.0,0.8033235199776421,https://leetcode.com/problems/permutations,"Array, Backtracking"
+HARD,Minimum Degree of a Connected Trio in a Graph,64.0,0.43113733094506435,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,Graph

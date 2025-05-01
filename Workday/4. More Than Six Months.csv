@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum,100.0,0.3653152057743587,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Convert Binary Number in a Linked List to Integer,100.0,0.812107543528546,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer,"Linked List, Math"
-MEDIUM,Course Schedule II,100.0,0.5273969470128851,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,LRU Cache,100.0,0.4455051161784063,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Reaching Points,100.0,0.3357140254345371,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Merge Intervals,100.0,0.4888158171062282,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Serialize and Deserialize Binary Tree,100.0,0.5843151717375715,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+MEDIUM,3Sum,100.0,0.3666560811116877,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Convert Binary Number in a Linked List to Integer,100.0,0.8115260470607417,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer,"Linked List, Math"
+MEDIUM,Course Schedule II,100.0,0.5291144580382845,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,100.0,0.44718119615294166,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Reaching Points,100.0,0.33544240778456663,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Merge Intervals,100.0,0.49027678771364497,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Serialize and Deserialize Binary Tree,100.0,0.5854462381861556,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"

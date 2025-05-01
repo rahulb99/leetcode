@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4727220105156529,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Check if Every Row and Column Contains All Numbers,87.6,0.5254735911301568,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
-MEDIUM,Word Search,82.9,0.4471712443352368,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-EASY,Find Words That Can Be Formed by Characters,76.9,0.7090163735007177,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,68.4,0.4616051578479324,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+HARD,Text Justification,100.0,0.4749333013336125,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Check if Every Row and Column Contains All Numbers,87.7,0.5257928177568786,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+MEDIUM,Word Search,76.6,0.44838887241492825,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+EASY,Find Words That Can Be Formed by Characters,70.9,0.7092721535807647,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"

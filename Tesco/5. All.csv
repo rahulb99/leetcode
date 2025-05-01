@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4888164824016697,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Decode String,59.6,0.6074729262346203,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,100.0,0.4902792262595452,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Decode String,58.6,0.6084078138203709,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Insert Interval,58.6,0.43126016159135544,https://leetcode.com/problems/insert-interval,Array
+MEDIUM,Meeting Rooms II,58.6,0.5200566763048748,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"

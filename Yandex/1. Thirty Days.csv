@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.5738929950217527,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Longest Subarray of 1's After Deleting One Element,88.7,0.6888217417669964,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
-EASY,Merge Sorted Array,88.7,0.5235338072850284,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Longest Substring Without Repeating Characters,88.7,0.36418547098807447,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Maximize Distance to Closest Person,88.7,0.48738703753934537,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-MEDIUM,Insert Delete GetRandom O(1),88.7,0.5493271827836239,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-EASY,Valid Palindrome II,88.7,0.42574206276173593,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
-MEDIUM,Binary Tree Right Side View,88.7,0.6588464901777921,https://leetcode.com/problems/binary-tree-right-side-view,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Isomorphic Strings,88.7,0.46482658851174036,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Find K Closest Elements,100.0,0.4845730645189107,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+EASY,Valid Palindrome II,88.3,0.4269338154355322,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,88.3,0.650938653983721,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+MEDIUM,Binary Tree Right Side View,88.3,0.6618824506928417,https://leetcode.com/problems/binary-tree-right-side-view,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Line Reflection,88.3,0.358976896056993,https://leetcode.com/problems/line-reflection,"Array, Hash Table, Math"
+MEDIUM,Basic Calculator II,88.3,0.45454314556070746,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+EASY,Summary Ranges,88.3,0.5275588915652974,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Group Anagrams,88.3,0.7056677557515532,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Isomorphic Strings,88.3,0.4656380311973315,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"

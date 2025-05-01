@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.48881575982190123,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Merge Intervals,100.0,0.4902773617703127,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Number of Islands,100.0,0.6186225456120453,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

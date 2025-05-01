@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5493249872577459,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Shortest Uncommon Substring in an Array,81.9,0.47420242800677587,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
-HARD,Insert Delete GetRandom O(1) - Duplicates allowed,68.2,0.3581994312636042,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5496804711110049,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Shortest Uncommon Substring in an Array,88.1,0.4735854528086246,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+MEDIUM,String Compression,69.7,0.5758865950344543,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,69.7,0.35843130672167756,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"

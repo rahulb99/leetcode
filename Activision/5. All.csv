@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reformat Phone Number,100.0,0.6679035531457305,https://leetcode.com/problems/reformat-phone-number,String
-EASY,Moving Average from Data Stream,65.7,0.7966804412883765,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Design Browser History,65.7,0.7795940888456641,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
-MEDIUM,Decode String,65.7,0.6074715519137464,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Number of Divisible Triplet Sums,65.7,0.6683179723502303,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+EASY,Reformat Phone Number,100.0,0.6676894845298799,https://leetcode.com/problems/reformat-phone-number,String
+MEDIUM,Design Browser History,65.8,0.7799793778052249,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+MEDIUM,Decode String,65.8,0.6084070073198007,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Number of Divisible Triplet Sums,65.8,0.6724581724581724,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.449804514267921,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Binary Tree Paths,93.1,0.6590121364831707,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Reverse Linked List II,93.1,0.49175966386317993,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Perfect Squares,83.4,0.5547767585472347,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
+EASY,Longest Common Prefix,100.0,0.4510259428234226,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Binary Tree Paths,93.1,0.6603042121684868,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Reverse Linked List II,93.1,0.49268892270443687,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Perfect Squares,83.4,0.5551538898773783,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"

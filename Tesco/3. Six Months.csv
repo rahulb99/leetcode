@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4888164824016697,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Merge Intervals,100.0,0.4902793042872663,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Insert Interval,90.8,0.43126016159135544,https://leetcode.com/problems/insert-interval,Array

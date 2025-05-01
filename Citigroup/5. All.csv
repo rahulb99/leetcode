@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Pivot Index,100.0,0.5999673934172326,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+EASY,Find Pivot Index,100.0,0.601428864407598,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+HARD,Number of Visible People in a Queue,100.0,0.7074031858997526,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"

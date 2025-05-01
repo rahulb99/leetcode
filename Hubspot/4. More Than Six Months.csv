@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Two Sorted Lists,100.0,0.6636956613166929,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Merge Sorted Array,94.8,0.5235334384172597,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Two Sum,77.2,0.5518549012424092,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Maximum Number of Occurrences of a Substring,68.7,0.5299351032448377,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Top K Frequent Elements,68.7,0.6415076141562405,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Merge Two Sorted Lists,100.0,0.6648982275795831,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Merge Sorted Array,97.5,0.5249710748562141,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Two Sum,76.7,0.5533862128948677,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Maximum Number of Occurrences of a Substring,76.7,0.5306378723635151,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Top K Frequent Elements,68.2,0.6425181817347378,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+HARD,Merge k Sorted Lists,68.2,0.5615793828018505,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

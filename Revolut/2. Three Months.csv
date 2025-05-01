@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reverse Linked List II,100.0,0.49175966386317993,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-EASY,Longest Common Prefix,100.0,0.449804514267921,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Binary Tree Paths,90.0,0.6590121364831707,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
+EASY,Longest Common Prefix,100.0,0.4510258862082679,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Reverse Linked List II,90.2,0.49268892270443687,https://leetcode.com/problems/reverse-linked-list-ii,Linked List

@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reverse Nodes in k-Group,100.0,0.6218927079125479,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-EASY,Percentage of Users Attended a Contest,100.0,0.5837043935799213,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
-HARD,Number of Ways to Paint N × 3 Grid,100.0,0.641349775553377,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming
+HARD,Reverse Nodes in k-Group,100.0,0.6240273130905035,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+EASY,Percentage of Users Attended a Contest,100.0,0.5851310947562097,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
+HARD,Number of Ways to Paint N × 3 Grid,100.0,0.6417757249166026,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming
+EASY,Valid Palindrome II,100.0,0.4269378036645684,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.4309696407699025,https://leetcode.com/problems/second-highest-salary,Database
-MEDIUM,Minimum Time to Repair Cars,100.0,0.6033977583620157,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+MEDIUM,Second Highest Salary,100.0,0.43247275007386077,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Minimum Time to Repair Cars,100.0,0.5997734598891997,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+EASY,Valid Parentheses,100.0,0.42023646035624657,https://leetcode.com/problems/valid-parentheses,"String, Stack"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.4498044308131581,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Sort Array By Parity,100.0,0.7626816904507909,https://leetcode.com/problems/sort-array-by-parity,"Array, Two Pointers, Sorting"
-MEDIUM,Rotate Array,100.0,0.4253910031442215,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Longest Common Prefix,100.0,0.45102597312727893,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Sort Array By Parity,100.0,0.7626859491785154,https://leetcode.com/problems/sort-array-by-parity,"Array, Two Pointers, Sorting"
+MEDIUM,Rotate Array,100.0,0.4265305363864514,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Stock Price Fluctuation ,100.0,0.4877685373365086,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-MEDIUM,Interval List Intersections,100.0,0.7248989956949949,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
+MEDIUM,Interval List Intersections,100.0,0.7252996766503125,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"

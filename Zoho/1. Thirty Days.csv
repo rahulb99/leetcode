@@ -1,6 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Number of Events That Can Be Attended,100.0,0.32781203196397857,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Group Anagrams,100.0,0.7043765561947491,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,Dungeon Game,100.0,0.3915871605460829,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
-EASY,Buddy Strings,100.0,0.33544252382993667,https://leetcode.com/problems/buddy-strings,"Hash Table, String"
-MEDIUM,Subarray Sum Equals K,100.0,0.4500236356096835,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+HARD,Regular Expression Matching,100.0,0.2906633628293123,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Wildcard Matching,90.0,0.2953224590559176,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"

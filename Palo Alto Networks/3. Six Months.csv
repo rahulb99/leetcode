@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.44550529382467696,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Median of Two Sorted Arrays,87.5,0.43064316532592206,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Merge Two Sorted Lists,77.6,0.6636956996593131,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Integer to Roman,77.6,0.6798527215181545,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,LRU Cache,100.0,0.4471786623600707,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Median of Two Sorted Arrays,87.3,0.43234385006572734,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Merge Two Sorted Lists,77.2,0.6648975728923364,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Integer to Roman,77.2,0.680971823393615,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Longest Substring Without Repeating Characters,77.2,0.36543963845255706,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

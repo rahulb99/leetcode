@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove Duplicate Letters,100.0,0.5089975208048417,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
-EASY,Valid Parentheses,82.6,0.41917012158373096,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Remove Duplicate Letters,100.0,0.5098754161524992,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Word Abbreviation,100.0,0.3665416692124397,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
-MEDIUM,Basic Calculator II,100.0,0.453381690268005,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-EASY,Valid Anagram,90.1,0.662282292595714,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-HARD,Basic Calculator,90.1,0.44990855597649465,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+EASY,Valid Word Abbreviation,100.0,0.3671106517923576,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,Basic Calculator II,100.0,0.4545501749047026,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+EASY,Valid Anagram,90.1,0.6633062562968108,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Basic Calculator,90.1,0.45154451657905725,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"

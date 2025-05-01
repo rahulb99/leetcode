@@ -1,1 +1,5 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Common Subsequence,100.0,0.5807618511223663,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Group Anagrams,100.0,0.7056764246365431,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Add Binary,78.6,0.5536847161184628,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+MEDIUM,LRU Cache,78.6,0.4471829666209824,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

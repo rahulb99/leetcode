@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.5738989289639835,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Merge Intervals,89.6,0.48881546510929125,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Trapping Rain Water,89.6,0.6439791355826732,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,String Compression,100.0,0.5758889604649282,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Merge Intervals,82.9,0.49027610776932584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Trapping Rain Water,82.9,0.6456494340295429,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Islands,82.9,0.6186224013700448,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

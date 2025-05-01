@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,100.0,0.8218036150147179,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,"Hash Table, String, Counting"
+HARD,Maximum Number of Non-overlapping Palindrome Substrings,100.0,0.4127867782972709,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,"Two Pointers, String, Dynamic Programming, Greedy"

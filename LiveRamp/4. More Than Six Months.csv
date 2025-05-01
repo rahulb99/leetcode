@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Palindromic Substring,100.0,0.3537848794730548,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Largest Time for Given Digits,100.0,0.35491063092401576,https://leetcode.com/problems/largest-time-for-given-digits,"Array, String, Enumeration"
-EASY,Longest Harmonious Subsequence,100.0,0.5660169320051259,https://leetcode.com/problems/longest-harmonious-subsequence,"Array, Hash Table, Sliding Window, Sorting, Counting"
-MEDIUM,Shortest Unsorted Continuous Subarray,100.0,0.37285147408517033,https://leetcode.com/problems/shortest-unsorted-continuous-subarray,"Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack"
-EASY,Distribute Candies,100.0,0.691572712435352,https://leetcode.com/problems/distribute-candies,"Array, Hash Table"
+MEDIUM,Longest Palindromic Substring,100.0,0.3549150251886469,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Largest Time for Given Digits,100.0,0.354677095287437,https://leetcode.com/problems/largest-time-for-given-digits,"Array, String, Backtracking, Enumeration"
+EASY,Longest Harmonious Subsequence,100.0,0.5671801225693831,https://leetcode.com/problems/longest-harmonious-subsequence,"Array, Hash Table, Sliding Window, Sorting, Counting"
+MEDIUM,Shortest Unsorted Continuous Subarray,100.0,0.37305201349541617,https://leetcode.com/problems/shortest-unsorted-continuous-subarray,"Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack"
+EASY,Distribute Candies,100.0,0.6924637471147775,https://leetcode.com/problems/distribute-candies,"Array, Hash Table"

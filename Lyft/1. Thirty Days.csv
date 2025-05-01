@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Convert Sorted List to Binary Search Tree,100.0,0.6394821157029096,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree,"Linked List, Divide and Conquer, Tree, Binary Search Tree, Binary Tree"
-HARD,Minimum Window Substring,76.5,0.44765882609195506,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Rotting Oranges,100.0,0.5618143394865981,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

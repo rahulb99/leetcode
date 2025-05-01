@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.4498059152868834,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Best Time to Buy and Sell Stock,84.0,0.5482916181335616,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Longest Common Prefix,100.0,0.4510276490053931,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Best Time to Buy and Sell Stock,83.9,0.549253188496731,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

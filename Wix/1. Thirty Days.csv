@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5605312047776541,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Escape The Ghosts,88.3,0.6241060591914854,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
-EASY,Valid Parentheses,73.8,0.4191715898139069,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Subsets,73.8,0.8034802514749324,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,8 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.5090936730246521,https://leetcode.com/problems/zigzag-conversion,String
-EASY,Backspace String Compare,93.0,0.4941509608635931,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Top K Frequent Elements,83.1,0.641509731252978,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Battleships in a Board,83.1,0.7625899048436486,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
-MEDIUM,Number of Ways to Build Sturdy Brick Wall,83.1,0.49402881165318907,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Permutations,83.1,0.8021955209140164,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,83.1,0.7803035611677154,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+EASY,Backspace String Compare,100.0,0.49431515566345463,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Top K Frequent Elements,89.6,0.6425166262415256,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Battleships in a Board,89.6,0.7634100259904669,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
+MEDIUM,Number of Ways to Build Sturdy Brick Wall,89.6,0.49456953642384105,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Permutations,89.6,0.8033258257399933,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,89.6,0.7790192923251231,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"

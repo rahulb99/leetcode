@@ -1,21 +1,21 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Product Subarray,100.0,0.3458348321704126,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
-EASY,Add Strings,92.7,0.5176586604937824,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
-MEDIUM,Longest Palindromic Substring,77.5,0.35378252500937124,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Group Anagrams,66.4,0.7043771068712096,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Team Scores in Football Tournament,66.4,0.5580868393655459,https://leetcode.com/problems/team-scores-in-football-tournament,Database
-EASY,Maximum Number of Balloons,57.6,0.5970529330203812,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
-MEDIUM,Largest Magic Square,57.6,0.530934496405783,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
-MEDIUM,Design A Leaderboard,57.6,0.678650321231641,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
-MEDIUM,Longest Happy String,57.6,0.654728892755972,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
-MEDIUM,Minimum Moves to Reach Target Score,57.6,0.5132877517557157,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
-EASY,Delete Characters to Make Fancy String,57.6,0.7170040638169778,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,57.6,0.4616051578479324,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
-EASY,Valid Palindrome,57.6,0.502845610677115,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Best Sightseeing Pair,57.6,0.626173721505182,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
-HARD,Tournament Winners,57.6,0.49674359646822275,https://leetcode.com/problems/tournament-winners,Database
-MEDIUM,Maximum Number of Vowels in a Substring of Given Length,57.6,0.5995254845429994,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
-MEDIUM,Longest Increasing Subsequence,57.6,0.5726215996778875,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Palindromic Substrings,57.6,0.7133042961348961,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,57.6,0.6582884814417181,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
-HARD,Reaching Points,57.6,0.33571555458384006,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Maximum Product Subarray,100.0,0.3467028650652002,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+EASY,Add Strings,90.3,0.5178875561084899,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Longest Palindromic Substring,77.5,0.35491077102620244,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Minimum Moves to Reach Target Score,66.3,0.513452708437727,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
+MEDIUM,Group Anagrams,66.3,0.705669207483637,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Largest Magic Square,66.3,0.5230939576083518,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
+MEDIUM,Team Scores in Football Tournament,66.3,0.5577343891676237,https://leetcode.com/problems/team-scores-in-football-tournament,Database
+MEDIUM,Number of Divisible Substrings,66.3,0.7332099418297198,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Best Sightseeing Pair,57.4,0.626025030396665,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,57.4,0.45937955125327146,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+EASY,Valid Palindrome,57.4,0.5045373526430945,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Delete Characters to Make Fancy String,57.4,0.7160614239181016,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
+HARD,Tournament Winners,57.4,0.49720949423440247,https://leetcode.com/problems/tournament-winners,Database
+MEDIUM,Longest Happy String,57.4,0.6546501720573569,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,57.4,0.6003671113768931,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
+MEDIUM,Design A Leaderboard,57.4,0.6788673745575682,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+MEDIUM,Longest Increasing Subsequence,57.4,0.5738418588078353,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Palindromic Substrings,57.4,0.7141035594379348,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,Reaching Points,57.4,0.3354454441769104,https://leetcode.com/problems/reaching-points,Math
+EASY,Maximum Number of Balloons,57.4,0.5971280236620826,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"

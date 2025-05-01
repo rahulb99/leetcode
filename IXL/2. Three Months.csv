@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,1-bit and 2-bit Characters,100.0,0.4510887757040629,https://leetcode.com/problems/1-bit-and-2-bit-characters,Array

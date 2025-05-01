@@ -1,9 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rank Teams by Votes,100.0,0.5909234417298662,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
-MEDIUM,Stock Price Fluctuation ,88.5,0.48775408405038034,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-EASY,Find the Width of Columns of a Grid,82.2,0.6881126017902324,https://leetcode.com/problems/find-the-width-of-columns-of-a-grid,"Array, Matrix"
-MEDIUM,The Time When the Network Becomes Idle,69.3,0.5304794018472365,https://leetcode.com/problems/the-time-when-the-network-becomes-idle,"Array, Breadth-First Search, Graph"
-MEDIUM,Design Snake Game,65.1,0.39040765763861285,https://leetcode.com/problems/design-snake-game,"Array, Hash Table, Design, Queue, Simulation"
-HARD,Text Justification,52.2,0.4727200909406146,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Logger Rate Limiter,52.2,0.7637278475953447,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-HARD,All O`one Data Structure,52.2,0.4479560948509063,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Stock Price Fluctuation ,100.0,0.4883136130615418,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+HARD,All O`one Data Structure,89.6,0.4475357261975011,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,89.6,0.6606722018781045,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

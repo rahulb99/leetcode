@@ -1,3 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Add Two Numbers,100.0,0.45555799145205983,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,LRU Cache,88.6,0.4455053947326405,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.4471777500820861,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Add Two Numbers,100.0,0.4571986197371196,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+HARD,Shortest Distance from All Buildings,100.0,0.4415290683177733,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Elements,100.0,0.6425181101817361,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Combination Sum,100.0,0.741879737543094,https://leetcode.com/problems/combination-sum,"Array, Backtracking"

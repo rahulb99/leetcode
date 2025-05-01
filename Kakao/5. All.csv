@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Points in an Archery Competition,100.0,0.5025563118992667,https://leetcode.com/problems/maximum-points-in-an-archery-competition,"Array, Backtracking, Bit Manipulation, Enumeration"
-HARD,Minimum Moves to Reach Target with Rotations,100.0,0.504456657276128,https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations,"Array, Breadth-First Search, Matrix"
+MEDIUM,Maximum Points in an Archery Competition,100.0,0.5008817322424908,https://leetcode.com/problems/maximum-points-in-an-archery-competition,"Array, Backtracking, Bit Manipulation, Enumeration"
+HARD,Minimum Moves to Reach Target with Rotations,100.0,0.5037607778389286,https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations,"Array, Breadth-First Search, Matrix"

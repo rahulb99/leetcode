@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Teemo Attacking,100.0,0.5686774978915711,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
-MEDIUM,Better Compression of String,100.0,0.7550392893747865,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"
+MEDIUM,Better Compression of String,100.0,0.7553909465020577,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"

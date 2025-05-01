@@ -1,6 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design SQL,100.0,0.7305418124773742,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
-MEDIUM,Flatten Nested List Iterator,91.4,0.6520611211974853,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Time Based Key-Value Store,68.1,0.4936939690931596,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Encode and Decode Strings,68.1,0.4906261082310938,https://leetcode.com/problems/encode-and-decode-strings,"Array, String, Design"
-EASY,Largest Local Values in a Matrix,68.1,0.8775541293600795,https://leetcode.com/problems/largest-local-values-in-a-matrix,"Array, Matrix"
+MEDIUM,Design SQL,100.0,0.7164120642381512,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
+MEDIUM,Flatten Nested List Iterator,80.8,0.6524340921911087,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Time Based Key-Value Store,66.4,0.4939628581408861,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Encode and Decode Strings,66.4,0.49211522640240063,https://leetcode.com/problems/encode-and-decode-strings,"Array, String, Design"
+EASY,Largest Local Values in a Matrix,66.4,0.8776906733094001,https://leetcode.com/problems/largest-local-values-in-a-matrix,"Array, Matrix"
+MEDIUM,Asteroid Collision,66.4,0.45208336747993244,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Design Memory Allocator,66.4,0.5302977537872192,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"

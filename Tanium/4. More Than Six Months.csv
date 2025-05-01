@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Predict the Winner,100.0,0.5555639435064319,https://leetcode.com/problems/predict-the-winner,"Array, Math, Dynamic Programming, Recursion, Game Theory"
-MEDIUM,Jump Game III,100.0,0.6580682388359257,https://leetcode.com/problems/jump-game-iii,"Array, Depth-First Search, Breadth-First Search"
+MEDIUM,Predict the Winner,100.0,0.5560021533927733,https://leetcode.com/problems/predict-the-winner,"Array, Math, Dynamic Programming, Recursion, Game Theory"
+MEDIUM,Jump Game III,100.0,0.6585407144066362,https://leetcode.com/problems/jump-game-iii,"Array, Depth-First Search, Breadth-First Search"

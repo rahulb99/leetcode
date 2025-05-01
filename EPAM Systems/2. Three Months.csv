@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518549861710971,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,89.0,0.3641865490726209,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Palindromic Substring,89.0,0.3537826369794959,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Two Sum,100.0,0.5533861901812461,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Palindromic Substring,89.0,0.3549107862698611,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

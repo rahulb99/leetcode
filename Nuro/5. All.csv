@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subrectangle Queries,100.0,0.8832178456293771,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
-HARD,Maximum Number of Visible Points,80.5,0.37487851083106827,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
-HARD,Shortest Path in a Grid with Obstacles Elimination,65.8,0.4547754561123623,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
-MEDIUM,Interleaving String,65.8,0.41452331955890803,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming"
+MEDIUM,Subrectangle Queries,100.0,0.8831885531560605,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+HARD,Maximum Number of Visible Points,80.3,0.37519292486342143,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+HARD,Shortest Path in a Grid with Obstacles Elimination,74.2,0.4547226952923316,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Interleaving String,65.5,0.41590709554360783,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming"
+EASY,Moving Average from Data Stream,65.5,0.7975350304206007,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Evaluate Division,65.5,0.6288230032666747,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,Interval List Intersections,65.5,0.7252981904928143,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"

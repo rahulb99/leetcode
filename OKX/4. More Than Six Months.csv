@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3641908527379406,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Combination Sum IV,100.0,0.5455410861344837,https://leetcode.com/problems/combination-sum-iv,"Array, Dynamic Programming"
+MEDIUM,Combination Sum IV,100.0,0.5457456717238146,https://leetcode.com/problems/combination-sum-iv,"Array, Dynamic Programming"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.30892038568944624,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
-MEDIUM,Find the Grid of Region Average,100.0,0.43038177093743746,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
-MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.5094536088124075,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
-HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.5793920559386229,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
-EASY,Two Sum,71.9,0.5518583045179795,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Making A Large Island,71.9,0.5433821486016489,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.296895369610352,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+MEDIUM,Find the Grid of Region Average,100.0,0.41966361804371416,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
+MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.47916032856708246,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
+HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.5377191429077386,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
+EASY,Two Sum,72.0,0.5533898469950148,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Making A Large Island,72.0,0.5437149149679578,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

@@ -1,13 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reconstruct Itinerary,100.0,0.4344605542239939,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-MEDIUM,Meeting Rooms II,90.0,0.5195249088402523,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Merge Intervals,86.7,0.4888151487116012,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Logger Rate Limiter,77.7,0.7637278475953447,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-EASY,Summary Ranges,71.4,0.5264133489453133,https://leetcode.com/problems/summary-ranges,Array
-HARD,First Missing Positive,71.4,0.4070576470854995,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Word Search,71.4,0.447170757138274,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,LRU Cache,62.5,0.44550551769176105,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Cache With Time Limit,62.5,0.7559558040794352,https://leetcode.com/problems/cache-with-time-limit,
-MEDIUM,Word Break,62.5,0.4793526531067538,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Network Delay Time,62.5,0.5653109026088755,https://leetcode.com/problems/network-delay-time,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
-MEDIUM,Longest Substring Without Repeating Characters,62.5,0.36418576265839664,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Reconstruct Itinerary,100.0,0.43456952640611407,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Merge Intervals,88.6,0.49027498814294673,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Logger Rate Limiter,84.5,0.7640880938360963,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Meeting Rooms II,84.5,0.5200584577963535,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Cache With Time Limit,79.6,0.7561674587442982,https://leetcode.com/problems/cache-with-time-limit,
+MEDIUM,Word Search,73.2,0.44838773851509744,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+EASY,Summary Ranges,64.1,0.5275588915652974,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Word Break,64.1,0.48020574632819757,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Network Delay Time,64.1,0.567154359083493,https://leetcode.com/problems/network-delay-time,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+MEDIUM,Longest Substring Without Repeating Characters,64.1,0.36543889035543214,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Koko Eating Bananas,64.1,0.4895453064959173,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"

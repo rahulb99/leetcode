@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518546589197518,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Two Sum,100.0,0.5533860195167565,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,100.0,0.42023631219123536,https://leetcode.com/problems/valid-parentheses,"String, Stack"

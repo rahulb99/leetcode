@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Intersection of Two Arrays,100.0,0.7607069154889525,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
-EASY,Valid Parentheses,83.2,0.4191738382323782,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Merge Sorted Array,83.2,0.5235350469792919,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Flood Fill,83.2,0.6590910450171349,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"
-EASY,Ransom Note,83.2,0.6400793347188479,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
-EASY,Two Sum,83.2,0.5518593509187458,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Intersection of Two Arrays,100.0,0.7616714048644578,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+EASY,Valid Parentheses,78.7,0.4202407784846657,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Merge Sorted Array,78.7,0.524974760305696,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Flood Fill,78.7,0.6602276832727356,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Ransom Note,78.7,0.6414292239626533,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Two Sum,78.7,0.5533905993357545,https://leetcode.com/problems/two-sum,"Array, Hash Table"

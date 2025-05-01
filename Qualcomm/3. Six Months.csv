@@ -1,5 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6170177111754799,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Length of Last Word,87.7,0.5558302947867754,https://leetcode.com/problems/length-of-last-word,String
-EASY,Implement Queue using Stacks,87.7,0.678006304645215,https://leetcode.com/problems/implement-queue-using-stacks,"Stack, Design, Queue"
-EASY,Two Sum,87.7,0.5518542489577773,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Number of Islands,100.0,0.6186239107481473,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Implement Queue using Stacks,87.6,0.679105735511164,https://leetcode.com/problems/implement-queue-using-stacks,"Stack, Design, Queue"
+EASY,Two Sum,87.6,0.553385524562477,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Maximum Depth of Binary Tree,87.6,0.7689586094405123,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Course Schedule II,87.6,0.5291122219439148,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+EASY,Reverse Bits,87.6,0.6253212414033199,https://leetcode.com/problems/reverse-bits,"Divide and Conquer, Bit Manipulation"
+EASY,Rectangle Overlap,87.6,0.4558386376232303,https://leetcode.com/problems/rectangle-overlap,"Math, Geometry"
+MEDIUM,Permutations,87.6,0.8033219065186199,https://leetcode.com/problems/permutations,"Array, Backtracking"

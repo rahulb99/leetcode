@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Subarrays of Length Three With a Condition,100.0,0.5296794688749286,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
-EASY,Product Sales Analysis I,65.9,0.8411821507227901,https://leetcode.com/problems/product-sales-analysis-i,Database
-EASY,Fibonacci Number,65.9,0.7259638740729497,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.516536133246691,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+EASY,Fibonacci Number,66.1,0.7268295791649276,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Longest Palindromic Substring,66.1,0.3549117159171995,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

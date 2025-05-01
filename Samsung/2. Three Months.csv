@@ -1,4 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Increasing Subsequence,100.0,0.5726212095695018,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Possible Bipartition,85.8,0.5122237321446752,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-HARD,Burst Balloons,67.0,0.6069164805685224,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+MEDIUM,Longest Increasing Subsequence,100.0,0.5738414379891499,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+HARD,Substring with Concatenation of All Words,98.0,0.3286502463629699,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
+MEDIUM,Possible Bipartition,83.2,0.5127998927757673,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+HARD,Burst Balloons,63.8,0.6084787462640601,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+MEDIUM,Is Graph Bipartite?,63.8,0.5735138315684042,https://leetcode.com/problems/is-graph-bipartite,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Subarray Product Less Than K,63.8,0.5255516980275691,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518580243103268,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,82.8,0.36418935439666034,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Regular Expression Matching,82.8,0.29006346040946407,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+EASY,Two Sum,100.0,0.5533894356130619,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,82.8,0.3654419314921283,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Regular Expression Matching,82.8,0.2906689970348941,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"

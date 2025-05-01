@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Pascal's Triangle,100.0,0.7651525568401683,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-EASY,Merge Sorted Array,89.5,0.5235346223855974,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Apply Operations to Make String Empty,89.5,0.5650063151247238,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"
+EASY,Pascal's Triangle,100.0,0.7663236551544667,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Merge Sorted Array,89.5,0.5249745502818659,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Apply Operations to Make String Empty,89.5,0.5588292229664331,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"

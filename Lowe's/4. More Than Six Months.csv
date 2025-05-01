@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.5179056289464694,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-HARD,The Number of Good Subsets,100.0,0.3564860551713656,https://leetcode.com/problems/the-number-of-good-subsets,"Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
-HARD,Groups of Strings,100.0,0.2646220412318656,https://leetcode.com/problems/groups-of-strings,"String, Bit Manipulation, Union Find"
+MEDIUM,Maximum Subarray,100.0,0.5186426476298793,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,The Number of Good Subsets,100.0,0.3568073353124647,https://leetcode.com/problems/the-number-of-good-subsets,"Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Groups of Strings,100.0,0.26454237630767674,https://leetcode.com/problems/groups-of-strings,"String, Bit Manipulation, Union Find"

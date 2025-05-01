@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.5309627599624488,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,LRU Cache,100.0,0.4455053947326405,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Generate Parentheses,82.0,0.766192253936998,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Matchsticks to Square,82.0,0.407284380611206,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,LRU Cache,100.0,0.44717787125436975,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Spiral Matrix,92.4,0.5330326159795924,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Generate Parentheses,81.8,0.7675040252456963,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Matchsticks to Square,81.8,0.4077067454853223,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"

@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4191705280196952,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Number of Islands,100.0,0.6170182080403822,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Cinema Seat Allocation,100.0,0.42535426308507085,https://leetcode.com/problems/cinema-seat-allocation,"Array, Hash Table, Greedy, Bit Manipulation"
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46241778871392625,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Valid Parentheses,100.0,0.4202363391543525,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Number of Islands,100.0,0.6186228036963185,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46386233008396405,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"

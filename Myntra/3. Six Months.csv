@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Largest Rectangle in Histogram,100.0,0.4669530954894073,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-HARD,First Missing Positive,100.0,0.4070577234050248,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Wiggle Sort,100.0,0.681227825646224,https://leetcode.com/problems/wiggle-sort,"Array, Greedy, Sorting"
-MEDIUM,3Sum,100.0,0.3653146907328296,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Target Sum,100.0,0.5036126272135758,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
-MEDIUM,Minimum Moves to Equal Array Elements II,100.0,0.6053869605860466,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
+HARD,Largest Rectangle in Histogram,100.0,0.46841349033595997,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+HARD,First Missing Positive,100.0,0.4080076621264109,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Wiggle Sort,100.0,0.6813222470087203,https://leetcode.com/problems/wiggle-sort,"Array, Greedy, Sorting"
+MEDIUM,3Sum,100.0,0.36665537842210616,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Target Sum,100.0,0.5044983346916471,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
+MEDIUM,Minimum Moves to Equal Array Elements II,100.0,0.6083312525758775,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"

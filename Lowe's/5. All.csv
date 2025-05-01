@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,The Number of Good Subsets,100.0,0.3564860551713656,https://leetcode.com/problems/the-number-of-good-subsets,"Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
-HARD,Groups of Strings,100.0,0.2646220412318656,https://leetcode.com/problems/groups-of-strings,"String, Bit Manipulation, Union Find"
-EASY,Find the Original Typed String I,100.0,0.5743116863683975,https://leetcode.com/problems/find-the-original-typed-string-i,String
-EASY,Minimum Operations to Make Array Values Equal to K,100.0,0.5306041532437924,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k,"Array, Hash Table"
-MEDIUM,Maximum Subarray,64.8,0.5179056289464694,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,The Number of Good Subsets,100.0,0.3568073353124647,https://leetcode.com/problems/the-number-of-good-subsets,"Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Groups of Strings,100.0,0.26454237630767674,https://leetcode.com/problems/groups-of-strings,"String, Bit Manipulation, Union Find"
+EASY,Find the Original Typed String I,100.0,0.5637619073441426,https://leetcode.com/problems/find-the-original-typed-string-i,String
+EASY,Minimum Operations to Make Array Values Equal to K,100.0,0.739775957197793,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k,"Array, Hash Table"
+MEDIUM,Maximum Subarray,64.7,0.5186426476298793,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

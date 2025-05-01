@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize Subarray Sum After Removing All Occurrences of One Element,100.0,0.1980545367564982,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element,"Array, Dynamic Programming, Segment Tree"
-HARD,Manhattan Distances of All Arrangements of Pieces,100.0,0.3545465239383601,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces,"Math, Combinatorics"
-MEDIUM,4Sum,65.2,0.3768236374984923,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Insert Delete GetRandom O(1),65.2,0.5493255190446664,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Stamping the Grid,65.2,0.3274988119752891,https://leetcode.com/problems/stamping-the-grid,"Array, Greedy, Matrix, Prefix Sum"
+HARD,Maximize Subarray Sum After Removing All Occurrences of One Element,100.0,0.2028134178389241,https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element,"Array, Dynamic Programming, Segment Tree"
+HARD,Manhattan Distances of All Arrangements of Pieces,100.0,0.35781304297463223,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces,"Math, Combinatorics"
+MEDIUM,Snapshot Array,73.8,0.36736474025745075,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+HARD,Stamping the Grid,65.0,0.3278283383022125,https://leetcode.com/problems/stamping-the-grid,"Array, Greedy, Matrix, Prefix Sum"

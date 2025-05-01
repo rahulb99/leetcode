@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518551951620707,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Rotate Array,89.3,0.4253833442749499,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-EASY,Valid Anagram,89.3,0.6622770645039333,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Two Sum,100.0,0.5533863489952011,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Anagram,100.0,0.6633043067669953,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Rotate Array,89.2,0.4265254809484227,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Permutations,89.2,0.8033232701318548,https://leetcode.com/problems/permutations,"Array, Backtracking"

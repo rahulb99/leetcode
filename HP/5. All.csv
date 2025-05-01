@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Recolors to Get K Consecutive Black Blocks,100.0,0.6845385723228916,https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks,"String, Sliding Window"
-MEDIUM,Minimum Cost Homecoming of a Robot in a Grid,91.0,0.5102641367296012,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid,"Array, Greedy"
-EASY,Longest Palindrome,84.7,0.5546695152294514,https://leetcode.com/problems/longest-palindrome,"Hash Table, String, Greedy"
+EASY,Minimum Recolors to Get K Consecutive Black Blocks,100.0,0.6847400236954063,https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks,"String, Sliding Window"
+MEDIUM,Minimum Cost Homecoming of a Robot in a Grid,91.0,0.5099337748344371,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid,"Array, Greedy"
+EASY,Longest Palindrome,84.7,0.5548378007418303,https://leetcode.com/problems/longest-palindrome,"Hash Table, String, Greedy"

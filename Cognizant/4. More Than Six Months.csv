@@ -1,20 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Palindrome Number,100.0,0.5874958365441272,https://leetcode.com/problems/palindrome-number,Math
-EASY,Fibonacci Number,80.1,0.7259638740729497,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-MEDIUM,Managers with at Least 5 Direct Reports,80.1,0.49087585815132256,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-MEDIUM,Reverse Integer,73.0,0.29923652351105684,https://leetcode.com/problems/reverse-integer,Math
-EASY,Two Sum,73.0,0.5518558842258215,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Parentheses,73.0,0.4191717114309299,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Longest Common Prefix,73.0,0.4498053951368416,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Merge Two Sorted Lists,63.1,0.6636968163577941,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Consecutive Numbers,63.1,0.454978998373132,https://leetcode.com/problems/consecutive-numbers,Database
-EASY,Binary Search,63.1,0.5920647949522992,https://leetcode.com/problems/binary-search,"Array, Binary Search"
-EASY,Move Zeroes,63.1,0.6257732725318205,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Counter,63.1,0.821127451420231,https://leetcode.com/problems/counter,
-MEDIUM,3Sum,63.1,0.3653151745399262,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Happy Number,63.1,0.5763526532396345,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Smallest Value of the Rearranged Number,63.1,0.5265624210579498,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
-MEDIUM,Count Primes,63.1,0.34485632227677443,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
-EASY,Valid Anagram,63.1,0.662277442411054,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Maximum Subarray,63.1,0.5179058080478068,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Merge Sorted Array,63.1,0.5235326703446699,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Palindrome Number,100.0,0.5886357471966246,https://leetcode.com/problems/palindrome-number,Math
+EASY,Fibonacci Number,80.0,0.7268295791649276,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Managers with at Least 5 Direct Reports,80.0,0.4902768034254198,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Binary Search,72.9,0.5929549769892345,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+MEDIUM,Maximum Subarray,72.9,0.5186418205789861,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Reverse Integer,72.9,0.30007052448674904,https://leetcode.com/problems/reverse-integer,Math
+EASY,Two Sum,72.9,0.5533864537497482,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,72.9,0.42023723621170794,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Longest Common Prefix,72.9,0.4510225958483143,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Consecutive Numbers,62.9,0.4564880869642544,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Move Zeroes,62.9,0.6264103538488194,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Merge Two Sorted Lists,62.9,0.6648992794878741,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,3Sum,62.9,0.36665605430952214,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Happy Number,62.9,0.5773633149904472,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Smallest Value of the Rearranged Number,62.9,0.524780065980206,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
+MEDIUM,Count Primes,62.9,0.3454679557647678,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+EASY,Valid Anagram,62.9,0.6633034236037963,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Merge Sorted Array,62.9,0.5249717937251077,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Product Sales Analysis I,62.9,0.8425055104848767,https://leetcode.com/problems/product-sales-analysis-i,Database

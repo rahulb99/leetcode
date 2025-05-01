@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.48881507335943264,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Basic Calculator II,84.0,0.45337842355282054,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Design Circular Queue,84.0,0.5240189105927853,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,Building H2O,77.4,0.5744002280603291,https://leetcode.com/problems/building-h2o,Concurrency
+MEDIUM,Merge Intervals,100.0,0.49027499123851576,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Basic Calculator II,93.3,0.454543248187233,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Design Circular Queue,83.9,0.5246735412488918,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,Building H2O,77.2,0.5749940846033179,https://leetcode.com/problems/building-h2o,Concurrency

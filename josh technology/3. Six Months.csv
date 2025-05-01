@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Move Zeroes,100.0,0.6257734941107714,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,Reverse Odd Levels of Binary Tree,100.0,0.866549110628376,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Find Bottom Left Tree Value,88.8,0.7161727494182268,https://leetcode.com/problems/find-bottom-left-tree-value,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Count Good Nodes in Binary Tree,88.8,0.7333153351244804,https://leetcode.com/problems/count-good-nodes-in-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Maximum Twin Sum of a Linked List,88.8,0.8131076439424813,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
+MEDIUM,Reverse Odd Levels of Binary Tree,100.0,0.866199703192262,https://leetcode.com/problems/reverse-odd-levels-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Maximum Twin Sum of a Linked List,89.1,0.813120214613622,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
+MEDIUM,Remove K Digits,89.1,0.34587920654337867,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

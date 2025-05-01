@@ -1,6 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Search Suggestions System,100.0,0.6501492152030321,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
-MEDIUM,Subarray Product Less Than K,94.4,0.5245681748237014,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Longest Increasing Subsequence,77.2,0.5726217958857697,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Maximum Subarray,77.2,0.5179055034401734,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Group Anagrams,77.2,0.7043768813521525,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Search Suggestions System,100.0,0.6501854438610857,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Subarray Product Less Than K,88.6,0.5255520484080909,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Longest Increasing Subsequence,88.6,0.5738412627281781,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Maximum Subarray,88.6,0.5186412638620086,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Group Anagrams,88.6,0.7056694680759381,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Number of Islands,88.6,0.6186224890470621,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Frog Jump,88.6,0.4644126400214719,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Insert Delete GetRandom O(1) - Duplicates allowed,100.0,0.3582000618092318,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5493277547244974,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Subdomain Visit Count,83.6,0.7675168608983712,https://leetcode.com/problems/subdomain-visit-count,"Array, Hash Table, String, Counting"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,100.0,0.35843130672167756,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Insert Delete GetRandom O(1),95.0,0.5496797145883591,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Subdomain Visit Count,79.4,0.7675871045066809,https://leetcode.com/problems/subdomain-visit-count,"Array, Hash Table, String, Counting"

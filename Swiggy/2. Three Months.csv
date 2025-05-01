@@ -1,8 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6798527215181545,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Count Good Meals,100.0,0.3122696155871511,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
-EASY,Next Greater Element I,100.0,0.7399893889042599,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-EASY,Happy Number,100.0,0.576351461019395,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Fair Candy Swap,100.0,0.6288918164841355,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
-MEDIUM,Daily Temperatures,88.4,0.6702605090908307,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Course Schedule,88.4,0.4857212644313029,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+EASY,Fair Candy Swap,100.0,0.6301618873243147,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+EASY,Happy Number,89.2,0.5773616445190907,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Course Schedule,89.2,0.48714222217377773,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

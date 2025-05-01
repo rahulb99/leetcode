@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Smallest Sufficient Team,100.0,0.5532652842655067,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-EASY,Single Number,83.1,0.7543137200276874,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+HARD,Smallest Sufficient Team,100.0,0.5530948045343439,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+EASY,Single Number,77.6,0.7556538832441817,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+MEDIUM,Minimum Moves to Equal Array Elements II,77.6,0.6083330826389097,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"

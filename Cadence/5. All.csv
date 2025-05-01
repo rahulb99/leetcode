@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sudoku Solver,100.0,0.6367736613806819,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-EASY,Island Perimeter,100.0,0.7338957381148106,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Merge Intervals,100.0,0.48881590744243825,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Maximum Depth of Binary Tree,100.0,0.7681249026396587,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Two Sum,100.0,0.5518570680308058,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Sudoku Solver,100.0,0.6370676414125362,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+EASY,Island Perimeter,100.0,0.733749919010561,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Merge Intervals,100.0,0.4902784627928211,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,100.0,0.5533882008132751,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Palindrome,100.0,0.5045398107530145,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

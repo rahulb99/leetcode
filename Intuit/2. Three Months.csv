@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Plus One,100.0,0.47123295267413645,https://leetcode.com/problems/plus-one,"Array, Math"
-EASY,Valid Parentheses,87.8,0.419169507789479,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,LRU Cache,78.1,0.4455053947326405,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Minimum Limit of Balls in a Bag,78.1,0.676936111029491,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag,"Array, Binary Search"
+EASY,Plus One,100.0,0.47228609251617854,https://leetcode.com/problems/plus-one,"Array, Math"
+EASY,Valid Parentheses,78.0,0.42023555605916135,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,LRU Cache,78.0,0.44717787125436975,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Minimum Limit of Balls in a Bag,78.0,0.676027460487895,https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag,"Array, Binary Search"

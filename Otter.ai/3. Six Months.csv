@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water II,100.0,0.5872036158614543,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
-MEDIUM,Word Break,100.0,0.4793539955542046,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Flatten Deeply Nested Array,100.0,0.6399612861598021,https://leetcode.com/problems/flatten-deeply-nested-array,
+MEDIUM,Flatten Deeply Nested Array,100.0,0.6414040309817526,https://leetcode.com/problems/flatten-deeply-nested-array,

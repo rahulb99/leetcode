@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Divide Array in Sets of K Consecutive Numbers,100.0,0.5859787065131099,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers,"Array, Hash Table, Greedy, Sorting"
+HARD,Max Points on a Line,100.0,0.2861492108315264,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+MEDIUM,Divide Array in Sets of K Consecutive Numbers,66.6,0.5856576271004513,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers,"Array, Hash Table, Greedy, Sorting"

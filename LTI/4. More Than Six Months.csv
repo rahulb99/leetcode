@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Reverse Integer,100.0,0.300073045497409,https://leetcode.com/problems/reverse-integer,Math

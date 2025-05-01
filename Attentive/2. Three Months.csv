@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Parse Lisp Expression,100.0,0.523408199336121,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
-EASY,Find Pivot Index,85.2,0.5999705293915574,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
-MEDIUM,Remove All Adjacent Duplicates in String II,85.2,0.5917497637945621,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+HARD,Parse Lisp Expression,100.0,0.5239329790881042,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+EASY,Find Pivot Index,74.6,0.6014364271366466,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+MEDIUM,Remove All Adjacent Duplicates in String II,74.6,0.5928072196117954,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"

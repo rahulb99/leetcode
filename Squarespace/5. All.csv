@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Sorted Array,100.0,0.5235348668720305,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,LRU Cache,96.8,0.4455061091795909,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.44718227202818156,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Merge Sorted Array,100.0,0.5249738818640608,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

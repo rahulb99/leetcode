@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.4793527766564232,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Merge Intervals,100.0,0.48881567416197724,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,LRU Cache,100.0,0.4455050309734827,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Word Break,100.0,0.48020755285440214,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Merge Intervals,100.0,0.49027879037891253,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,LRU Cache,100.0,0.4471815843727383,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

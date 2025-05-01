@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518553984757911,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Count Elements With Maximum Frequency,83.8,0.7821127542522587,https://leetcode.com/problems/count-elements-with-maximum-frequency,"Array, Hash Table, Counting"
-EASY,Remove Duplicates from Sorted Array,71.8,0.5959908947785365,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,Fibonacci Number,71.8,0.7259644987515651,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-MEDIUM,Rotate Array,71.8,0.42538363466065154,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-EASY,Longest Common Prefix,71.8,0.44980555579631276,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Add Two Numbers,62.3,0.45555874733511087,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,Remove Nth Node From End of List,62.3,0.4822974111505722,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
-EASY,Best Time to Buy and Sell Stock,62.3,0.5482909660506832,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Valid Palindrome,62.3,0.5028467916710665,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Reverse Words in a String,62.3,0.5037862764457787,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-EASY,Number of Unique Subjects Taught by Each Teacher,62.3,0.8928694444670459,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher,Database
-MEDIUM,Nth Highest Salary,62.3,0.3789966903846325,https://leetcode.com/problems/nth-highest-salary,Database
-EASY,Palindrome Number,62.3,0.5874958038228445,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Group Anagrams,62.3,0.7043771694861499,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,100.0,0.553386130369751,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Count Elements With Maximum Frequency,83.7,0.7788715741368086,https://leetcode.com/problems/count-elements-with-maximum-frequency,"Array, Hash Table, Counting"
+EASY,Remove Duplicates from Sorted Array,71.7,0.5980728922364942,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Fibonacci Number,71.7,0.7268292378149738,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Rotate Array,71.7,0.42652564710877544,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Longest Common Prefix,71.7,0.4510222744581805,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Remove Nth Node From End of List,62.2,0.4840607398845925,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Best Time to Buy and Sell Stock,62.2,0.5492494409735325,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Palindrome,62.2,0.5045374608389224,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Reverse Words in a String,62.2,0.5080475311604932,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+EASY,Number of Unique Subjects Taught by Each Teacher,62.2,0.8931683517978367,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher,Database
+MEDIUM,Nth Highest Salary,62.2,0.37873372121921145,https://leetcode.com/problems/nth-highest-salary,Database
+EASY,Palindrome Number,62.2,0.588634866312369,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Group Anagrams,62.2,0.7056701250069495,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Exchange Seats,62.2,0.722940081331949,https://leetcode.com/problems/exchange-seats,Database

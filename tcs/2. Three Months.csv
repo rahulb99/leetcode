@@ -1,15 +1,17 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Zigzag Grid Traversal With Skip,100.0,0.6391392727347391,https://leetcode.com/problems/zigzag-grid-traversal-with-skip,"Array, Matrix, Simulation"
-EASY,Two Sum,83.7,0.5518537345588782,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Palindrome Number,78.4,0.5874944704079875,https://leetcode.com/problems/palindrome-number,Math
-EASY,Majority Element,78.4,0.6552288423183037,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-EASY,Single Number,78.4,0.7543137200276874,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
-HARD,Smallest Sufficient Team,78.4,0.5532652842655067,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Remove Nth Node From End of List,71.6,0.48229524711930905,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
-HARD,Tallest Billboard,71.6,0.519450950844376,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
-EASY,Running Sum of 1d Array,62.1,0.8694760644777957,https://leetcode.com/problems/running-sum-of-1d-array,"Array, Prefix Sum"
-EASY,Contains Duplicate II,62.1,0.48272461157054924,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
-MEDIUM,House Robber,62.1,0.5202375365564613,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-EASY,Longest Common Prefix,62.1,0.44980394040623756,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Reverse Integer,62.1,0.29923546234582116,https://leetcode.com/problems/reverse-integer,Math
-MEDIUM,Maximum Subarray,62.1,0.5179055911917643,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,Smallest Sufficient Team,100.0,0.5530948045343439,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+EASY,Two Sum,93.7,0.553384757782666,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Single Number,93.7,0.7556538832441817,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+HARD,Tallest Billboard,93.7,0.519064759919213,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
+EASY,Palindrome Number,85.7,0.5886328874251129,https://leetcode.com/problems/palindrome-number,Math
+EASY,Majority Element,74.3,0.6557185341456888,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Running Sum of 1d Array,74.3,0.8695906000716697,https://leetcode.com/problems/running-sum-of-1d-array,"Array, Prefix Sum"
+EASY,Contains Duplicate II,74.3,0.4848110135146497,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+MEDIUM,Reverse Integer,74.3,0.30006889213560833,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Second Highest Salary,74.3,0.4324741206847509,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Contains Duplicate,74.3,0.6295530765892199,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+MEDIUM,Minimum Moves to Equal Array Elements II,74.3,0.6083330826389097,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
+EASY,Duplicate Emails,74.3,0.7220503556708738,https://leetcode.com/problems/duplicate-emails,Database
+MEDIUM,"Pow(x, n)",74.3,0.3669482281708715,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Partition Equal Subset Sum,74.3,0.4818631677631417,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"
+EASY,Middle of the Linked List,74.3,0.8027616778062675,https://leetcode.com/problems/middle-of-the-linked-list,"Linked List, Two Pointers"

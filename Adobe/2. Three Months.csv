@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.679852112009936,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-HARD,Word Ladder,100.0,0.41982231637014295,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Integer to Roman,100.0,0.6809694906578977,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Rotting Oranges,100.0,0.5618150165079124,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Minimum Window Substring,100.0,0.4490218449090006,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

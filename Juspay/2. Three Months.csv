@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Subsequence With Decreasing Adjacent Difference,100.0,0.13916893529182997,https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference,"Array, Dynamic Programming"
-MEDIUM,Operations on Tree,67.8,0.469894817547979,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+MEDIUM,Operations on Tree,100.0,0.47092844833691366,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+HARD,Largest Color Value in a Directed Graph,93.2,0.4944524778031541,https://leetcode.com/problems/largest-color-value-in-a-directed-graph,"Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"

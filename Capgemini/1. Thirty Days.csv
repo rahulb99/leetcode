@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Reverse Degree of a String,100.0,0.8875875067312871,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"

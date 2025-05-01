@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Profit in Job Scheduling,100.0,0.5433779407821004,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-MEDIUM,Simple Bank System,84.8,0.6340636902089699,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-EASY,Can Place Flowers,75.9,0.2882624974199128,https://leetcode.com/problems/can-place-flowers,"Array, Greedy"
+HARD,Maximum Profit in Job Scheduling,100.0,0.5433655468630157,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Simple Bank System,90.1,0.6336026596541905,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Shortest Uncommon Substring in an Array,90.1,0.473576472996486,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"

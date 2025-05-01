@@ -1,10 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Letter Combinations of a Phone Number,100.0,0.6319915703565105,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Additive Number,90.8,0.32324987452589854,https://leetcode.com/problems/additive-number,"String, Backtracking"
-EASY,Valid Parentheses,82.4,0.41917163180162526,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Spiral Matrix,78.6,0.5309645599227132,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-EASY,Self Dividing Numbers,74.0,0.7941196919921434,https://leetcode.com/problems/self-dividing-numbers,Math
-MEDIUM,Word Search,68.0,0.44717190177321614,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Longest Substring Without Repeating Characters,59.6,0.3641869142189861,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Stepping Numbers,59.6,0.4754868112139207,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
-MEDIUM,Bulls and Cows,59.6,0.5112734305982796,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6336706972044631,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Additive Number,88.3,0.32374693681631,https://leetcode.com/problems/additive-number,"String, Backtracking"
+EASY,Valid Parentheses,80.0,0.42023682506777527,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Spiral Matrix,80.0,0.5330360489614435,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+EASY,Self Dividing Numbers,76.3,0.7947278896880422,https://leetcode.com/problems/self-dividing-numbers,Math
+MEDIUM,Word Search,65.9,0.4483906074294739,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,57.7,0.36544051952648327,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Stepping Numbers,57.7,0.4756108721515512,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
+MEDIUM,Bulls and Cows,57.7,0.5118457912645026,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+EASY,Two Sum,57.7,0.5533860641205458,https://leetcode.com/problems/two-sum,"Array, Hash Table"

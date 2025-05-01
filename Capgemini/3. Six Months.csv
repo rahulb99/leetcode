@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Happy String,100.0,0.654728892755972,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5482909252271032,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Two Sum,100.0,0.5518553984757911,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Remove Duplicates from Sorted Array,100.0,0.5959908947785365,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,Valid Anagram,100.0,0.66227717659868,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Reverse Degree of a String,100.0,0.8875875067312871,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Best Time to Buy and Sell Stock,65.3,0.5492494409735325,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Two Sum,65.3,0.5533861191638707,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Remove Duplicates from Sorted Array,65.3,0.5980728520986037,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Valid Anagram,65.3,0.6633041216009619,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5605312047776541,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Escape The Ghosts,88.2,0.6241060591914854,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
-EASY,Valid Parentheses,73.5,0.41917163180162526,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Subsets,73.5,0.8034802514749324,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+MEDIUM,Rotting Oranges,100.0,0.5618164284389487,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Escape The Ghosts,88.1,0.6245611427934539,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
+EASY,Valid Parentheses,73.3,0.42023680227340243,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Subsets,73.3,0.8047259625814712,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,73.3,0.8215359504181108,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"

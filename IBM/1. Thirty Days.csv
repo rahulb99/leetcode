@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Height Checker,100.0,0.8102342707472545,https://leetcode.com/problems/height-checker,"Array, Sorting, Counting Sort"
-EASY,Roman to Integer,89.4,0.6427279566447011,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Gray Code,100.0,0.6140221774012173,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"

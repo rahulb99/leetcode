@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,4Sum,100.0,0.37682333622313746,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Design Circular Queue,100.0,0.5240181025642474,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,3Sum,93.1,0.3653150306856315,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Design a Stack With Increment Operation,93.1,0.8046331653174482,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Design a Stack With Increment Operation,100.0,0.8045057722614238,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,4Sum,93.1,0.37807572629672115,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,3Sum,93.1,0.36665647807910234,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Design Circular Queue,93.1,0.5246753973192748,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+HARD,Reaching Points,83.3,0.33543937144719216,https://leetcode.com/problems/reaching-points,Math

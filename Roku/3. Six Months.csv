@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Backspace String Compare,100.0,0.49414987179128356,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Multiply Strings,100.0,0.4190606118278174,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+EASY,Backspace String Compare,100.0,0.4943132202055679,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Multiply Strings,100.0,0.42005188569624335,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+HARD,24 Game,100.0,0.49841389073469505,https://leetcode.com/problems/24-game,"Array, Math, Backtracking"

@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Median of Two Sorted Arrays,100.0,0.4306471895860208,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Roman to Integer,100.0,0.6427350760745624,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Two Sum,100.0,0.5518582689699499,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,100.0,0.6441614632854769,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Two Sum,100.0,0.5533896984483712,https://leetcode.com/problems/two-sum,"Array, Hash Table"

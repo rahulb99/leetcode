@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.5090973361106518,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Remove K Digits,79.8,0.3450106272821407,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Bulls and Cows,79.8,0.511273402021088,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Zigzag Conversion,100.0,0.5107327989666791,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Remove K Digits,77.7,0.34588280866792265,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Bulls and Cows,77.7,0.5118482574308947,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"

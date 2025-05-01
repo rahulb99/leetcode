@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Compare Version Numbers,100.0,0.42019120518750713,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
-MEDIUM,Merge Intervals,85.5,0.48881576343538863,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,All O`one Data Structure,100.0,0.4475307929324416,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Compare Version Numbers,86.2,0.4208405799362039,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
+MEDIUM,Merge Intervals,76.1,0.4902774521782489,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

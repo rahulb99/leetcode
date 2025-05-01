@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design SQL,100.0,0.7305418124773742,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
-MEDIUM,Flatten Nested List Iterator,93.6,0.6520611211974853,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Design SQL,100.0,0.7164120642381512,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"

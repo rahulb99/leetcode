@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.530963222783186,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Simple Bank System,95.9,0.6340636902089699,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-EASY,Count Operations to Obtain Zero,93.5,0.7467360941152641,https://leetcode.com/problems/count-operations-to-obtain-zero,"Math, Simulation"
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,65.0,0.6237579296019761,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
+HARD,Block Placement Queries,100.0,0.16084481034084788,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.6115876960902216,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"

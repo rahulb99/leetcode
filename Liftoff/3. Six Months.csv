@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Diagonal Traverse II,100.0,0.5782297551789077,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"

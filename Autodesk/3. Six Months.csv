@@ -1,1 +1,10 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Sliding Window Maximum,100.0,0.4736670156694442,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Reverse Nodes in k-Group,100.0,0.6240247377688136,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.42507839978671924,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Majority Element,100.0,0.6557179389479029,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Koko Eating Bananas,100.0,0.48954442015291894,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Set Matrix Zeroes,100.0,0.5925576529120946,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+HARD,Median of Two Sorted Arrays,100.0,0.4323454839210428,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Elimination Game,100.0,0.44674893114835557,https://leetcode.com/problems/elimination-game,"Math, Recursion"
+MEDIUM,3Sum,100.0,0.36665593628259857,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

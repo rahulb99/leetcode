@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,24 Game,100.0,0.49841389073469505,https://leetcode.com/problems/24-game,"Array, Math, Backtracking"

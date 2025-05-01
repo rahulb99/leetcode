@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.37885821320954477,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
-HARD,Find Beautiful Indices in the Given Array II,87.4,0.25980457262119344,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
-MEDIUM,Shortest Word Distance III,73.0,0.5888972497339218,https://leetcode.com/problems/shortest-word-distance-iii,"Array, String"
-MEDIUM,Construct Quad Tree,64.6,0.7671552085129443,https://leetcode.com/problems/construct-quad-tree,"Array, Divide and Conquer, Tree, Matrix"
-MEDIUM,Count the Number of Good Subsequences,64.6,0.515520694259012,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.3786603952370623,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+HARD,Find Beautiful Indices in the Given Array II,87.4,0.26023020292238125,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Construct Quad Tree,67.7,0.7679006474031079,https://leetcode.com/problems/construct-quad-tree,"Array, Divide and Conquer, Tree, Matrix"
+MEDIUM,Count the Number of Good Subsequences,67.7,0.5136920103092784,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Shortest Word Distance III,67.7,0.5895616907177601,https://leetcode.com/problems/shortest-word-distance-iii,"Array, String"

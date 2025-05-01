@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5482910237932926,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-HARD,Stamping The Sequence,100.0,0.6224960692626549,https://leetcode.com/problems/stamping-the-sequence,"String, Stack, Greedy, Queue"
+HARD,Stamping The Sequence,100.0,0.6187332286972812,https://leetcode.com/problems/stamping-the-sequence,"String, Stack, Greedy, Queue"
+MEDIUM,Group Anagrams,100.0,0.705668085276652,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

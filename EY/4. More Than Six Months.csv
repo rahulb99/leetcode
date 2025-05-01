@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.551860720102791,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Fibonacci Number,100.0,0.7259668585320963,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Two Sum,100.0,0.5533917057313129,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Fibonacci Number,100.0,0.7268324622458467,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"

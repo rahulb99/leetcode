@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5518610174553085,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Reverse Words in a String III,89.6,0.8353703573143177,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"
-EASY,Merge Sorted Array,89.6,0.5235352623875033,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Two Sum,100.0,0.5533924116185733,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Words in a String III,89.6,0.8356780373551138,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"
+EASY,Merge Sorted Array,89.6,0.5249760940978885,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

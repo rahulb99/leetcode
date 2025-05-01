@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Common Subsequence,100.0,0.5802416609229554,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
-MEDIUM,Group Anagrams,100.0,0.7043812687190493,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Add Binary,78.1,0.552636850618035,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
-MEDIUM,LRU Cache,78.1,0.4455062194217676,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Diagonal Traverse II,78.1,0.5777132567759105,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
+MEDIUM,Longest Common Subsequence,100.0,0.5807618511223663,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Group Anagrams,100.0,0.7056764246365431,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Add Binary,77.9,0.5536847161184628,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+MEDIUM,LRU Cache,77.9,0.44718308778694377,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Diagonal Traverse II,77.9,0.5782252163057983,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"

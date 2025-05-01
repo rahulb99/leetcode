@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Zero Request Servers,100.0,0.33401854091092303,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
-MEDIUM,Maximum Matrix Sum,90.5,0.6596094965007776,https://leetcode.com/problems/maximum-matrix-sum,"Array, Greedy, Matrix"
+MEDIUM,Count Zero Request Servers,100.0,0.32612325734922915,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Maximum Matrix Sum,90.6,0.6594408550208322,https://leetcode.com/problems/maximum-matrix-sum,"Array, Greedy, Matrix"

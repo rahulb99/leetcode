@@ -1,6 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36418662286212805,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Cost For Tickets,92.6,0.6740295926210608,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-HARD,Race Car,82.2,0.4399047978565707,https://leetcode.com/problems/race-car,Dynamic Programming
-MEDIUM,Jump Game,82.2,0.3915385677517528,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Sum of Digit Differences of All Pairs,82.2,0.42778744922490264,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36544045554296817,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Cost For Tickets,92.5,0.6740315250897766,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+HARD,Race Car,82.0,0.4400854187765502,https://leetcode.com/problems/race-car,Dynamic Programming
+MEDIUM,Jump Game,82.0,0.3921422958362203,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Sum of Digit Differences of All Pairs,82.0,0.4232157959794418,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
+MEDIUM,Validate IP Address,82.0,0.2772503401505005,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,82.0,0.4319863652254982,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"

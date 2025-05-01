@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Prefix of Word,100.0,0.8637098015079243,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
-MEDIUM,Bank Account Summary,100.0,0.5177114504207269,https://leetcode.com/problems/bank-account-summary,Database
-MEDIUM,Longest Substring Without Repeating Characters,64.6,0.36418921628092576,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Common Subsequence,64.6,0.5802414086966305,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+EASY,Reverse Prefix of Word,100.0,0.8638826515669238,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
+MEDIUM,Bank Account Summary,100.0,0.5185760089571988,https://leetcode.com/problems/bank-account-summary,Database
+MEDIUM,Longest Substring Without Repeating Characters,64.4,0.365441920051323,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Common Subsequence,64.4,0.5807606225410025,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"

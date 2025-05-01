@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Largest Rectangle in Histogram,100.0,0.466953971329871,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-MEDIUM,Asteroid Collision,71.4,0.45150584978307284,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-EASY,Reverse Linked List,71.4,0.7873650198595318,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+HARD,Largest Rectangle in Histogram,100.0,0.46841930339304566,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,Asteroid Collision,71.1,0.4520822508510133,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+EASY,Reverse Linked List,71.1,0.7884964436295337,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Longest Substring Without Repeating Characters,71.1,0.3654432255055201,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

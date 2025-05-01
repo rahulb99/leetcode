@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Min Stack,100.0,0.5599611981413696,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Search in Rotated Sorted Array,100.0,0.4240124133989969,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Min Stack,100.0,0.561102501103502,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.42507804497939217,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3654399804341971,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Linked List Cycle II,100.0,0.5431603693708087,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"

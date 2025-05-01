@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reconstruct Itinerary,100.0,0.4344605542239939,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-HARD,Optimal Account Balancing,89.8,0.4970806027711026,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Target Sum,89.8,0.5036135403638625,https://leetcode.com/problems/target-sum,"Array, Dynamic Programming, Backtracking"
+HARD,Reconstruct Itinerary,100.0,0.43456952640611407,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+HARD,Count Subarrays With Score Less Than K,61.9,0.5572985537909052,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Design Search Autocomplete System,61.9,0.49306649351651255,https://leetcode.com/problems/design-search-autocomplete-system,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"

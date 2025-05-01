@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,"Pow(x, n)",100.0,0.36569862373613227,https://leetcode.com/problems/powx-n,"Math, Recursion"
-MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6278075081749267,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
-MEDIUM,Broken Calculator,100.0,0.5497455021922089,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.213486202655755,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+MEDIUM,"Pow(x, n)",100.0,0.3669498440321506,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6295533426673627,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
+MEDIUM,Broken Calculator,100.0,0.5500700262535704,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.21396350385114432,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"

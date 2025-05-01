@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Better Compression of String,100.0,0.7553909465020577,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"

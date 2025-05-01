@@ -1,3 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.44550537056427847,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Coin Change,100.0,0.45914429122897993,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Coin Change,100.0,0.4604634376640987,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Longest Consecutive Sequence,100.0,0.47126642048316664,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+EASY,Diameter of Binary Tree,88.3,0.6304806755964747,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Generate Parentheses,88.3,0.7675035567324007,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Word Search,88.3,0.4483873047527911,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+HARD,Trapping Rain Water,88.3,0.6456472084407545,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Set Matrix Zeroes,88.3,0.5925548063352674,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"

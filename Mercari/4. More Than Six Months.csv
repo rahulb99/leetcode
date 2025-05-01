@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Missing Non-negative Integer After Operations,100.0,0.39569593147751614,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations,"Array, Hash Table, Math, Greedy"
-EASY,Crawler Log Folder,79.2,0.7160625616639978,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
-MEDIUM,Max Difference You Can Get From Changing an Integer,79.2,0.4071902698835407,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
-EASY,Count Largest Group,79.2,0.6653070445161208,https://leetcode.com/problems/count-largest-group,"Hash Table, Math"
-EASY,Minimum Subsequence in Non-Increasing Order,79.2,0.7290891017531177,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order,"Array, Greedy, Sorting"
+MEDIUM,Smallest Missing Non-negative Integer After Operations,100.0,0.39573836531326195,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations,"Array, Hash Table, Math, Greedy"
+EASY,Crawler Log Folder,79.3,0.7160836835344252,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
+MEDIUM,Max Difference You Can Get From Changing an Integer,79.3,0.40243213220821233,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
+EASY,Count Largest Group,79.3,0.66514766671647,https://leetcode.com/problems/count-largest-group,"Hash Table, Math"
+EASY,Minimum Subsequence in Non-Increasing Order,79.3,0.7280226423881987,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order,"Array, Greedy, Sorting"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Moving Average from Data Stream,100.0,0.7966804412883765,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Kth Largest Element in an Array,100.0,0.6767049507826169,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Kth Largest Element in an Array,100.0,0.6774064681570622,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Moving Average from Data Stream,90.6,0.7975387185372417,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"

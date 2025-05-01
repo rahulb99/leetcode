@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3641866089879608,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Cost For Tickets,90.3,0.6740295926210608,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4319863652254982,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"

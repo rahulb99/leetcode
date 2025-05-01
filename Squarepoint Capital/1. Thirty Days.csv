@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Frog Jump,100.0,0.4644126400214719,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"

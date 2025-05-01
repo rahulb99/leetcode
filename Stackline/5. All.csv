@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Height Trees,100.0,0.419586909489909,https://leetcode.com/problems/minimum-height-trees,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-HARD,Minimum Window Substring,77.2,0.44766628848843043,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Height Trees,100.0,0.41909255249409005,https://leetcode.com/problems/minimum-height-trees,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Minimum Window Substring,77.2,0.44902931748719427,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

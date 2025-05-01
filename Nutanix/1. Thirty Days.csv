@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.5309640687854746,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Maximum Frequency Stack,100.0,0.6671934435299813,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+HARD,Valid Number,100.0,0.21264266670933155,https://leetcode.com/problems/valid-number,String

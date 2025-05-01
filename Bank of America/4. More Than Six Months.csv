@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Palindrome,100.0,0.5028478908260329,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Valid Palindrome,100.0,0.5045397380923669,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,0.4202378413597916,https://leetcode.com/problems/valid-parentheses,"String, Stack"

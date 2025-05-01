@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.30892038568944624,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
-MEDIUM,Find the Grid of Region Average,100.0,0.43038177093743746,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
-HARD,Making A Large Island,73.1,0.5433821486016489,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Two Sum,64.1,0.5518583229113551,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.296895369610352,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+MEDIUM,Find the Grid of Region Average,100.0,0.41966361804371416,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
+EASY,Two Sum,73.1,0.5533898322689018,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Making A Large Island,73.1,0.5437149149679578,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

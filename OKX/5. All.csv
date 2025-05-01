@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3641908527379406,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Combination Sum IV,100.0,0.5455410861344837,https://leetcode.com/problems/combination-sum-iv,"Array, Dynamic Programming"
-MEDIUM,Number of Islands,100.0,0.6170235660446303,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Kth Smallest Element in a Sorted Matrix,100.0,0.6328420578658072,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
-HARD,Count Subarrays With Fixed Bounds,100.0,0.6770158151122183,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Number of Islands,100.0,0.6186265705838877,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Combination Sum IV,89.0,0.5457456717238146,https://leetcode.com/problems/combination-sum-iv,"Array, Dynamic Programming"
+MEDIUM,Kth Smallest Element in a Sorted Matrix,89.0,0.6335123878034764,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
+HARD,Count Subarrays With Fixed Bounds,89.0,0.6768154554764005,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"

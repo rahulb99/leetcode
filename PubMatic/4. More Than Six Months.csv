@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.449804768447014,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-HARD,Trapping Rain Water,89.7,0.6439813041808997,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Meeting Rooms II,89.7,0.5195292843672427,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+EASY,Longest Common Prefix,100.0,0.45102496063000247,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+HARD,Trapping Rain Water,89.7,0.6456549807231007,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Meeting Rooms II,89.7,0.5200571616972129,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
