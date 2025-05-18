@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Interval List Intersections,100.0,0.7252996766503125,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
+MEDIUM,Flatten Nested List Iterator,100.0,0.6517098771690286,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

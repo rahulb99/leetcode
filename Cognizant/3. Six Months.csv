@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Subarrays of Length Three With a Condition,100.0,0.516536133246691,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
-EASY,Fibonacci Number,66.1,0.7268295791649276,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-MEDIUM,Longest Palindromic Substring,66.1,0.3549117159171995,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.6201812776317159,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+MEDIUM,Longest Palindromic Substring,74.5,0.35648970974434646,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Remove Duplicates from Sorted Array,65.9,0.6004991582475047,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,65.9,0.3671677861819304,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

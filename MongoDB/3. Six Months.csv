@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4749342488124185,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Word Break,100.0,0.4802064440662886,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Insert Interval,89.1,0.4312530414595815,https://leetcode.com/problems/insert-interval,Array
-EASY,Merge Two Binary Trees,89.1,0.7923509136948482,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Web Crawler Multithreaded,89.1,0.4973641041459277,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"
+HARD,Text Justification,100.0,0.4781196879999857,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Word Break,100.0,0.48131698662767974,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+EASY,Intersection of Two Arrays,100.0,0.7630321086879367,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"

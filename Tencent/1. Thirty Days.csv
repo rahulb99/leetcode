@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Decode String,100.0,0.6097517480133998,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

@@ -1,9 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Safest Path in a Grid,100.0,0.48334443861613996,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
-HARD,Time Taken to Cross the Door,88.5,0.48988559111258495,https://leetcode.com/problems/time-taken-to-cross-the-door,"Array, Queue, Simulation"
-MEDIUM,Asteroid Collision,75.4,0.452081603317745,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,67.8,0.5346204386940261,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
-MEDIUM,Design a Stack With Increment Operation,62.3,0.8045057722614238,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,Minimum Knight Moves,54.7,0.4120620578969268,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
-HARD,Shortest Path in a Grid with Obstacles Elimination,54.7,0.45472094322538387,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
-MEDIUM,Min Stack,54.7,0.5611040428526226,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Find the Safest Path in a Grid,100.0,0.4833405938646169,https://leetcode.com/problems/find-the-safest-path-in-a-grid,"Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Time Taken to Cross the Door,88.5,0.49200526336775785,https://leetcode.com/problems/time-taken-to-cross-the-door,"Array, Queue, Simulation"
+MEDIUM,Asteroid Collision,75.4,0.45328579738027064,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,67.8,0.5346304506908872,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
+MEDIUM,Design a Stack With Increment Operation,62.3,0.8012215676785207,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Minimum Knight Moves,54.7,0.4126333234181787,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+HARD,Shortest Path in a Grid with Obstacles Elimination,54.7,0.45533143404147614,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"

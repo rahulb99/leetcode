@@ -1,1 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Split Array Largest Sum,100.0,0.5776947383018345,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Ways to Split Array Into Three Subarrays,88.8,0.33393317357688657,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+EASY,Two Sum,88.8,0.555474396679733,https://leetcode.com/problems/two-sum,"Array, Hash Table"

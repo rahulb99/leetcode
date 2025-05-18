@@ -1,7 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Move Zeroes,100.0,0.6264100946655359,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,Maximize Distance to Closest Person,100.0,0.48789686156041673,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Valid Parentheses,100.0,0.4202422200578577,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Merge Sorted Array,92.4,0.5249757273486695,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Merge Two Sorted Lists,81.8,0.664902485617863,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Valid Palindrome,81.8,0.5045414006991995,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Maximize Distance to Closest Person,100.0,0.4885457162458467,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Move Zeroes,94.5,0.6272202059374816,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Valid Parentheses,94.5,0.42160973140421004,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Merge Sorted Array,87.3,0.5268048124224004,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Merge Two Sorted Lists,77.2,0.6665466521998727,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Valid Palindrome,77.2,0.5066651000742102,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Summary Ranges,77.2,0.5289370799329934,https://leetcode.com/problems/summary-ranges,Array

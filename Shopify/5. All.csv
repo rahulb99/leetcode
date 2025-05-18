@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Walking Robot Simulation,100.0,0.5814836606733542,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-MEDIUM,LRU Cache,96.6,0.44717895101385047,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Design In-Memory File System,69.8,0.4810280283349201,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-MEDIUM,Encode and Decode TinyURL,69.8,0.8662953417276144,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"
-HARD,Design a Text Editor,61.5,0.47745002437835204,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
-EASY,Find Users With Valid E-Mails,61.5,0.4424875256564513,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
-MEDIUM,Design Tic-Tac-Toe,61.5,0.5850248686529532,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Walls and Gates,61.5,0.6270083975689921,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
+MEDIUM,Walking Robot Simulation,100.0,0.58186435130401,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+MEDIUM,LRU Cache,86.1,0.4493687102806401,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Design In-Memory File System,61.7,0.4812197356366968,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Encode and Decode TinyURL,61.7,0.8631488423640845,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"
+HARD,Design a Text Editor,54.1,0.46934753191739714,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Find Users With Valid E-Mails,54.1,0.44445460928025876,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
+MEDIUM,Design Tic-Tac-Toe,54.1,0.5855436941051776,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Walls and Gates,54.1,0.6281712271656695,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"

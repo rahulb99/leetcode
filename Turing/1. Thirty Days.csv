@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4319863652254982,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4328325807572074,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Minimum Length of Anagram Concatenation,100.0,0.39660964189828923,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"

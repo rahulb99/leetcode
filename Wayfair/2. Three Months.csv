@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Divisible Substrings,100.0,0.7332099418297198,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
-EASY,Add Strings,100.0,0.5178875561084899,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+EASY,Add Strings,100.0,0.5186181212392141,https://leetcode.com/problems/add-strings,"Math, String, Simulation"

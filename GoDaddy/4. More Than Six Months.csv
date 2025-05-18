@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.5758889604649282,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Permutations,89.3,0.8033235199776421,https://leetcode.com/problems/permutations,"Array, Backtracking"
-EASY,Arranging Coins,89.3,0.4720973424269011,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
+MEDIUM,String Compression,100.0,0.5782808480148879,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Permutations,89.2,0.8048504409790683,https://leetcode.com/problems/permutations,"Array, Backtracking"
+EASY,Arranging Coins,89.2,0.4727950810323941,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
+MEDIUM,Merge Intervals,89.2,0.4919416239585121,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

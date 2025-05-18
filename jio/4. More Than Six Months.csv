@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.296895369610352,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
-MEDIUM,Find the Grid of Region Average,100.0,0.41966361804371416,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
-EASY,Two Sum,73.1,0.5533898322689018,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Making A Large Island,73.1,0.5437149149679578,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.2988974113135187,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+MEDIUM,Find the Grid of Region Average,100.0,0.42072020026959367,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
+EASY,Two Sum,63.9,0.5554799239072914,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Making A Large Island,63.9,0.545556974750737,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Trapping Rain Water,63.9,0.6481367384869682,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

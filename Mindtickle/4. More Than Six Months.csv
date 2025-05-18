@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7162312686709379,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
-HARD,Get the Maximum Score,100.0,0.39838152672542654,https://leetcode.com/problems/get-the-maximum-score,"Array, Two Pointers, Dynamic Programming, Greedy"
-HARD,Find Array Given Subset Sums,100.0,0.4852637783672266,https://leetcode.com/problems/find-array-given-subset-sums,"Array, Divide and Conquer"
-HARD,Number of Ways to Wear Different Hats to Each Other,100.0,0.44174744930412435,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7179064234318744,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+HARD,Get the Maximum Score,100.0,0.3992647340405162,https://leetcode.com/problems/get-the-maximum-score,"Array, Two Pointers, Dynamic Programming, Greedy"
+HARD,Find Array Given Subset Sums,100.0,0.4863157894736842,https://leetcode.com/problems/find-array-given-subset-sums,"Array, Divide and Conquer"
+HARD,Number of Ways to Wear Different Hats to Each Other,100.0,0.44244640605296337,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,"Array, Dynamic Programming, Bit Manipulation, Bitmask"

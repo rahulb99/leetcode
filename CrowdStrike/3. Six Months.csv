@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.5758889604649282,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Merge Intervals,82.9,0.49027610776932584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Trapping Rain Water,82.9,0.6456494340295429,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Number of Islands,82.9,0.6186224013700448,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,String Compression,100.0,0.5782805596918495,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Merge Intervals,78.3,0.49194192926581226,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Trapping Rain Water,78.3,0.6481315958116661,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Islands,78.3,0.6206996590231741,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Encode and Decode Strings,78.3,0.49440791584744725,https://leetcode.com/problems/encode-and-decode-strings,"Array, String, Design"
+MEDIUM,Course Schedule,78.3,0.4894596585208922,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

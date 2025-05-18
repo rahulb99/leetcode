@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42023727261660015,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Generate Parentheses,100.0,0.7675051250567584,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Valid Sudoku,100.0,0.6189204412305446,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,Group Anagrams,100.0,0.7056716994438085,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Min Stack,100.0,0.561103610360374,https://leetcode.com/problems/min-stack,"Stack, Design"
+EASY,Valid Parentheses,100.0,0.4216031699145757,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Generate Parentheses,100.0,0.7691612157950722,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Valid Sudoku,100.0,0.6206582605631045,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Group Anagrams,100.0,0.7072455737568507,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Min Stack,100.0,0.562344579724822,https://leetcode.com/problems/min-stack,"Stack, Design"

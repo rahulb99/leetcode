@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.45102714371266683,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Minimum Array Changes to Make Differences Equal,100.0,0.23075891435181306,https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal,"Array, Hash Table, Prefix Sum"
-MEDIUM,Find the Number of Good Pairs II,100.0,0.25950166712579914,https://leetcode.com/problems/find-the-number-of-good-pairs-ii,"Array, Hash Table"
-EASY,Find the Number of Good Pairs I,100.0,0.8547573151978515,https://leetcode.com/problems/find-the-number-of-good-pairs-i,"Array, Hash Table"
+EASY,Longest Common Prefix,100.0,0.45270734662642537,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Minimum Array Changes to Make Differences Equal,100.0,0.23203987065373205,https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal,"Array, Hash Table, Prefix Sum"
+MEDIUM,Find the Number of Good Pairs II,100.0,0.2600959219002753,https://leetcode.com/problems/find-the-number-of-good-pairs-ii,"Array, Hash Table"
+EASY,Find the Number of Good Pairs I,100.0,0.8554861540429342,https://leetcode.com/problems/find-the-number-of-good-pairs-i,"Array, Hash Table"

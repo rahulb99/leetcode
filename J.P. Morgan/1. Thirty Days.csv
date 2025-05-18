@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rearrange Array to Maximize Prefix Score,100.0,0.41178563977960214,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
-MEDIUM,Rotate Image,100.0,0.7742720609121945,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-EASY,Find Resultant Array After Removing Anagrams,82.7,0.5921355813694799,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Count Binary Substrings,82.7,0.657933117882692,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
+Difficulty,Title,Frequency,Acceptance Rate,Link

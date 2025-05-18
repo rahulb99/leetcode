@@ -1,7 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Create a Session Bar Chart,100.0,0.7501043467891002,https://leetcode.com/problems/create-a-session-bar-chart,Database
-MEDIUM,Design a File Sharing System,100.0,0.4166800192276879,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Toss Strange Coins,100.0,0.5814791436536741,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
-MEDIUM,LRU Cache,92.2,0.44718112669011517,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Reverse Vowels of a String,64.6,0.5745514940504863,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
-MEDIUM,Letter Combinations of a Phone Number,64.6,0.6336703225677792,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Create a Session Bar Chart,100.0,0.7499926068312878,https://leetcode.com/problems/create-a-session-bar-chart,Database
+MEDIUM,Design a File Sharing System,100.0,0.41646317447814096,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Toss Strange Coins,100.0,0.5814568496020109,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
+MEDIUM,LRU Cache,92.1,0.44937461875552304,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Vowels of a String,64.5,0.5778978195520282,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+MEDIUM,Letter Combinations of a Phone Number,64.5,0.6359966758586124,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Unique Email Addresses,64.5,0.6754582517979648,https://leetcode.com/problems/unique-email-addresses,"Array, Hash Table, String"

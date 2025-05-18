@@ -1,2 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5618143394865981,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Rotting Oranges,100.0,0.5635834358913743,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Check Completeness of a Binary Tree,96.4,0.5824627116880573,https://leetcode.com/problems/check-completeness-of-a-binary-tree,"Tree, Breadth-First Search, Binary Tree"
+HARD,Read N Characters Given read4 II - Call Multiple Times,78.1,0.42842554335046523,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
+MEDIUM,Sort List,64.3,0.6144023419186813,https://leetcode.com/problems/sort-list,"Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort"

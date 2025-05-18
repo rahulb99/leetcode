@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Unguarded Cells in the Grid,100.0,0.6581121268862209,https://leetcode.com/problems/count-unguarded-cells-in-the-grid,"Array, Matrix, Simulation"
-MEDIUM,Market Analysis I,100.0,0.5717067510928028,https://leetcode.com/problems/market-analysis-i,Database
-HARD,Market Analysis II,100.0,0.577181936604429,https://leetcode.com/problems/market-analysis-ii,Database
+MEDIUM,Count Unguarded Cells in the Grid,100.0,0.6580300176216808,https://leetcode.com/problems/count-unguarded-cells-in-the-grid,"Array, Matrix, Simulation"
+MEDIUM,Market Analysis I,100.0,0.571962674440623,https://leetcode.com/problems/market-analysis-i,Database
+HARD,Market Analysis II,100.0,0.5787603950803348,https://leetcode.com/problems/market-analysis-ii,Database

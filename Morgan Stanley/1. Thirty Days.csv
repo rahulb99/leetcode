@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Make K-Subarray Sums Equal,100.0,0.36321303841676367,https://leetcode.com/problems/make-k-subarray-sums-equal,"Array, Math, Greedy, Sorting, Number Theory"

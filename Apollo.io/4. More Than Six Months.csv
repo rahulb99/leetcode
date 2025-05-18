@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Validate Stack Sequences,100.0,0.6960636985069629,https://leetcode.com/problems/validate-stack-sequences,"Array, Stack, Simulation"
-HARD,Minimum Window Substring,93.5,0.44902794302718213,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Subarray Sum Equals K,84.4,0.45118825917891336,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Validate Stack Sequences,100.0,0.6964751099601265,https://leetcode.com/problems/validate-stack-sequences,"Array, Stack, Simulation"
+HARD,Minimum Window Substring,93.5,0.45100553508437935,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Subarray Sum Equals K,84.4,0.45283494917845635,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

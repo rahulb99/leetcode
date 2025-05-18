@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7056677557515532,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Maximum Product of Two Elements in an Array,87.1,0.8312985981208566,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array,"Array, Sorting, Heap (Priority Queue)"
-MEDIUM,Rearrange Array to Maximize Prefix Score,82.2,0.41178563977960214,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
-MEDIUM,Rotate Image,82.2,0.7742720609121945,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-EASY,Find Resultant Array After Removing Anagrams,67.1,0.5921355813694799,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Count Binary Substrings,67.1,0.657933117882692,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
+MEDIUM,Rotate Image,100.0,0.7762106658950572,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,Rearrange Array to Maximize Prefix Score,94.3,0.41330862492884224,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
+MEDIUM,Group Anagrams,76.6,0.7072404124842196,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Find Resultant Array After Removing Anagrams,76.6,0.59324940104289,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Count Binary Substrings,76.6,0.6586154872361561,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
+MEDIUM,Merge Intervals,76.6,0.4919339547666934,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

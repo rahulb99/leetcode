@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Degree of a String,100.0,0.8875875067312871,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Reverse Degree of a String,100.0,0.8678121102951366,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+HARD,Trapping Rain Water,68.1,0.64813211352143,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Add Two Numbers,68.1,0.4594212067071458,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"

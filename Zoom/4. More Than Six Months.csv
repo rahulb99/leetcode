@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Container With Most Water,100.0,0.5740152021727581,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-EASY,User Activity for the Past 30 Days I,100.0,0.4934644942800097,https://leetcode.com/problems/user-activity-for-the-past-30-days-i,Database
-EASY,User Activity for the Past 30 Days II,100.0,0.3571633894512768,https://leetcode.com/problems/user-activity-for-the-past-30-days-ii,Database
+MEDIUM,Container With Most Water,100.0,0.575789100702394,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,User Activity for the Past 30 Days I,100.0,0.49402369292150994,https://leetcode.com/problems/user-activity-for-the-past-30-days-i,Database
+EASY,User Activity for the Past 30 Days II,100.0,0.35716709860545476,https://leetcode.com/problems/user-activity-for-the-past-30-days-ii,Database

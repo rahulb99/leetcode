@@ -1,7 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.4939597420663091,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Online Election,94.6,0.5248480987086448,https://leetcode.com/problems/online-election,"Array, Hash Table, Binary Search, Design"
-MEDIUM,Open the Lock,87.7,0.6063480011543694,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
-EASY,Counter,77.9,0.8213272606697654,https://leetcode.com/problems/counter,
-MEDIUM,Rabbits in Forest,77.9,0.5264937393629954,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
-MEDIUM,Bulls and Cows,77.9,0.5118482574308947,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Time Based Key-Value Store,100.0,0.4929480037968692,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Online Election,94.5,0.5177421668012772,https://leetcode.com/problems/online-election,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Open the Lock,87.5,0.6067238820197178,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
+MEDIUM,Rabbits in Forest,87.5,0.5830612491165164,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
+EASY,Counter,77.6,0.8222353864820497,https://leetcode.com/problems/counter,
+MEDIUM,Bulls and Cows,77.6,0.5126393113299639,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Merge Intervals,77.6,0.49195358286267377,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

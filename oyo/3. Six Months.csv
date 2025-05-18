@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Furthest Building You Can Reach,100.0,0.5023508005675114,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
-MEDIUM,Koko Eating Bananas,90.1,0.4895383094879518,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,Copy List with Random Pointer,90.1,0.5987635590564351,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+MEDIUM,Koko Eating Bananas,100.0,0.49043136500182194,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Copy List with Random Pointer,100.0,0.601665660787159,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+MEDIUM,Furthest Building You Can Reach,100.0,0.5031591016605329,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,House Robber III,100.0,0.5485689554740016,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

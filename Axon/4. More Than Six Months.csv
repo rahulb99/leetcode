@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6186226365866476,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,LRU Cache,82.5,0.44718156121887154,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Insert Delete GetRandom O(1),82.5,0.5496803347968032,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Time Based Key-Value Store,82.5,0.4939638764639527,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Number of Islands,100.0,0.6207014172506772,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Insert Delete GetRandom O(1),89.1,0.5492731386734399,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Time Based Key-Value Store,89.1,0.4929446989843052,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"

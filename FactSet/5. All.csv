@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Subsequence of Distinct Characters,100.0,0.6173301060680809,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5927998324629259,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-MEDIUM,Remove Duplicate Letters,100.0,0.5098767498085057,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
-EASY,Happy Number,63.4,0.5773633641611811,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Increasing Triplet Subsequence,63.4,0.3914104019131405,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
+MEDIUM,Smallest Subsequence of Distinct Characters,100.0,0.6180221888872813,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5942519718223107,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Remove Duplicate Letters,100.0,0.5118352849799621,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+EASY,Happy Number,63.4,0.5788771938620433,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Increasing Triplet Subsequence,63.4,0.39139838043150255,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"

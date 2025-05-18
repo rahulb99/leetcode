@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7056729587114975,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Generate Parentheses,100.0,0.7675088024266621,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,88.4,0.2139717980145979,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
-EASY,Merge Two Sorted Lists,88.4,0.6649013479350194,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Group Anagrams,100.0,0.7072432436930072,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Generate Parentheses,100.0,0.7691665018279756,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,88.4,0.2155053541033762,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+EASY,Merge Two Sorted Lists,88.4,0.6665424108160374,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"

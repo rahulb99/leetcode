@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Atoms,100.0,0.6501173535195484,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
-MEDIUM,Integer to Roman,100.0,0.6809719529890433,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Implement Trie (Prefix Tree),100.0,0.6768000016892998,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+Difficulty,Title,Frequency,Acceptance Rate,Link

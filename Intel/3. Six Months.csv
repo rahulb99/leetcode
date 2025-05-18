@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5533860342434351,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Container With Most Water,89.1,0.5740101594382105,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-EASY,Valid Parentheses,89.1,0.42023635361207246,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,100.0,0.5554657718433954,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,89.2,0.4216000993557707,https://leetcode.com/problems/valid-parentheses,"String, Stack"

@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Search II,100.0,0.37117640464520796,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
-HARD,Merge k Sorted Lists,78.2,0.5615783969868313,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Design Memory Allocator,78.2,0.5302977537872192,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
-HARD,Parallel Courses III,78.2,0.6676228503884797,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
-MEDIUM,Meeting Rooms II,78.2,0.520058417222967,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Word Search II,100.0,0.3720008563884198,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+HARD,Merge k Sorted Lists,78.6,0.5644309332494434,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Parallel Courses III,78.6,0.667584907798204,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+MEDIUM,Multiply Strings,78.6,0.4214938469181812,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"

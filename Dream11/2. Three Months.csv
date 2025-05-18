@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Asteroid Collision,100.0,0.4520819359166194,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Partition Equal Subset Sum,90.0,0.4818600800692385,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"
+MEDIUM,Asteroid Collision,100.0,0.45328552888849927,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Partition Equal Subset Sum,84.3,0.482732985113292,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"

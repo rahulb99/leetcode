@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest String Chain,100.0,0.6179124025176294,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
-MEDIUM,Single Element in a Sorted Array,89.8,0.5917997348846196,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
-HARD,Trapping Rain Water,89.8,0.6456561382479652,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest String Chain,100.0,0.6185732992722667,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.49395894469022117,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Text Justification,90.4,0.4749497244203535,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Design a Todo List,90.4,0.5874835557226086,https://leetcode.com/problems/design-a-todo-list,"Array, Hash Table, String, Design, Sorting"
+MEDIUM,Time Based Key-Value Store,100.0,0.4929524683568506,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Text Justification,90.4,0.47815192219032765,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Design a Todo List,90.4,0.5883214351089145,https://leetcode.com/problems/design-a-todo-list,"Array, Hash Table, String, Design, Sorting"

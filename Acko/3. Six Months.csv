@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Fill Missing Data,100.0,0.7227629142204185,https://leetcode.com/problems/fill-missing-data,
-HARD,Count All Valid Pickup and Delivery Options,100.0,0.6486829434658749,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options,"Math, Dynamic Programming, Combinatorics"
-HARD,Parallel Courses III,90.1,0.6676107699847214,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
-EASY,Invalid Tweets,90.1,0.8560785818669617,https://leetcode.com/problems/invalid-tweets,Database
+EASY,Fill Missing Data,100.0,0.722652977287614,https://leetcode.com/problems/fill-missing-data,
+HARD,Count All Valid Pickup and Delivery Options,100.0,0.6487616532629136,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options,"Math, Dynamic Programming, Combinatorics"
+HARD,Parallel Courses III,90.2,0.6676272338497268,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+EASY,Invalid Tweets,90.2,0.8557196385640676,https://leetcode.com/problems/invalid-tweets,Database

@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Contiguous Array,100.0,0.4902894113362118,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
-MEDIUM,Restore IP Addresses,100.0,0.5261785785357356,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Snapshot Array,100.0,0.36736017218067935,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Contiguous Array,100.0,0.49175242385523676,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
+MEDIUM,Restore IP Addresses,100.0,0.5287548174286286,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Snapshot Array,100.0,0.36677402836651646,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Number of Dice Rolls With Target Sum,100.0,0.6153509760261546,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum,Dynamic Programming
+HARD,Find Median from Data Stream,100.0,0.5311759112960744,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

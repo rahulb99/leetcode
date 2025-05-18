@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Factorization,100.0,0.33758308503323403,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
-HARD,Remove Boxes,100.0,0.481919261822376,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
-HARD,Candy,100.0,0.44509885070156563,https://leetcode.com/problems/candy,"Array, Greedy"
-MEDIUM,Implement Rand10() Using Rand7(),100.0,0.45827443298869597,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
-MEDIUM,Immediate Food Delivery II,100.0,0.5393067290830302,https://leetcode.com/problems/immediate-food-delivery-ii,Database
-HARD,Alien Dictionary,100.0,0.3652786095183222,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Remove Duplicates from Sorted List II,100.0,0.49468690166408996,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
-MEDIUM,LRU Cache,100.0,0.4471791184957637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Valid Parentheses,100.0,0.42023629467318907,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Jump Game,100.0,0.392141724678227,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Minimum Remove to Make Valid Parentheses,100.0,0.7044004033497174,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
-MEDIUM,Department Highest Salary,100.0,0.541508771768851,https://leetcode.com/problems/department-highest-salary,Database
-EASY,Next Greater Element I,100.0,0.7411551124099176,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-MEDIUM,Debounce,100.0,0.9174587359230173,https://leetcode.com/problems/debounce,
-MEDIUM,Merge Intervals,100.0,0.4902756866702105,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Minimum Factorization,100.0,0.3379030645760146,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
+HARD,Remove Boxes,100.0,0.4823233247894544,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+HARD,Candy,100.0,0.44660269489651044,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Implement Rand10() Using Rand7(),100.0,0.4584408338062559,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
+MEDIUM,Immediate Food Delivery II,100.0,0.5412048427565711,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+HARD,Alien Dictionary,100.0,0.36595287601625176,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Remove Duplicates from Sorted List II,100.0,0.4968223107778422,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
+MEDIUM,LRU Cache,100.0,0.4493692731471758,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Valid Parentheses,100.0,0.4216002310225775,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Jump Game,100.0,0.3932861526841963,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Minimum Remove to Make Valid Parentheses,100.0,0.7058955740103616,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+MEDIUM,Department Highest Salary,100.0,0.5443642408362213,https://leetcode.com/problems/department-highest-salary,Database
+EASY,Next Greater Element I,100.0,0.7427225153785604,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Debounce,100.0,0.9180630303955621,https://leetcode.com/problems/debounce,
+MEDIUM,Merge Intervals,100.0,0.4919347950220192,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

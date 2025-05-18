@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6809719529890433,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Count Good Meals,100.0,0.3137161128115435,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
-EASY,Next Greater Element I,100.0,0.741155086021329,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-EASY,Happy Number,100.0,0.5773616445190907,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Fair Candy Swap,100.0,0.6301618873243147,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
-MEDIUM,Immediate Food Delivery II,87.5,0.53931301858763,https://leetcode.com/problems/immediate-food-delivery-ii,Database
-MEDIUM,Daily Temperatures,87.5,0.6710094381058144,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Maximum Score From Removing Substrings,87.5,0.6281175778636818,https://leetcode.com/problems/maximum-score-from-removing-substrings,"String, Stack, Greedy"
-MEDIUM,Course Schedule,87.5,0.48714222217377773,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Sort Colors,87.5,0.6663772158678495,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Integer to Roman,100.0,0.6832938458342389,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Count Good Meals,100.0,0.3145253061666847,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+EASY,Next Greater Element I,100.0,0.742726095968887,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+EASY,Happy Number,100.0,0.5788711712270688,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Fair Candy Swap,100.0,0.6313947928891207,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+MEDIUM,Immediate Food Delivery II,87.4,0.5412008512133967,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Daily Temperatures,87.4,0.6721551198956474,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Course Schedule,87.4,0.48945588785460686,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Sort Colors,87.4,0.668327815110245,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Minimum Number of Work Sessions to Finish the Tasks,87.4,0.336128006404768,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"

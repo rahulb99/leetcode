@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7056719375192366,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,LRU Cache,100.0,0.4471812031110133,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,String Compression,100.0,0.5758923809583566,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-HARD,Sliding Window Median,88.5,0.3856810970081595,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
-EASY,Product Sales Analysis I,88.5,0.8425072934593545,https://leetcode.com/problems/product-sales-analysis-i,Database
-MEDIUM,Linked List Cycle II,88.5,0.5431626250276242,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"
-MEDIUM,Product of Array Except Self,88.5,0.6750770190695318,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-MEDIUM,Subarray Sum Equals K,88.5,0.4511830013721984,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Stock Price Fluctuation ,88.5,0.4883136130615418,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-MEDIUM,Maximum Subarray,88.5,0.5186422180769037,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Group Anagrams,100.0,0.7072451544212065,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,LRU Cache,100.0,0.44937371975712886,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,String Compression,100.0,0.5782816473869883,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+EASY,Product Sales Analysis I,88.5,0.8440873784682107,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Linked List Cycle II,88.5,0.5454147597292701,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"
+MEDIUM,Product of Array Except Self,88.5,0.6762143769250938,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Subarray Sum Equals K,88.5,0.45283082681924114,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Stock Price Fluctuation ,88.5,0.47989615541683683,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Maximum Subarray,88.5,0.5197378864340451,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Koko Eating Bananas,88.5,0.4904326701815218,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"

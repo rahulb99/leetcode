@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Area Rectangle With Point Constraints I,100.0,0.5098359350111501,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
-HARD,Maximum Area Rectangle With Point Constraints II,100.0,0.20126520681265206,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
-MEDIUM,Count the Number of Good Subsequences,80.5,0.5136920103092784,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
-EASY,Two Sum,65.7,0.5533915712719464,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Word,65.7,0.3843933700987819,https://leetcode.com/problems/valid-word,String
+MEDIUM,Maximum Area Rectangle With Point Constraints I,100.0,0.49401129943502825,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
+HARD,Maximum Area Rectangle With Point Constraints II,100.0,0.20390104662226452,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
+MEDIUM,Count the Number of Good Subsequences,80.4,0.5099093562759256,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+EASY,Valid Word,74.3,0.3858192939557769,https://leetcode.com/problems/valid-word,String
+MEDIUM,Make a Positive Array,65.6,0.37471264367816093,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"

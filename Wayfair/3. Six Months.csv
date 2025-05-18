@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Divisible Substrings,100.0,0.7332099418297198,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
-MEDIUM,Last Person to Fit in the Bus,78.6,0.6826757729872202,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
-EASY,Add Strings,78.6,0.5178875561084899,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Number of Divisible Substrings,100.0,0.7330788804071247,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Last Person to Fit in the Bus,83.5,0.6826933733077466,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
+EASY,Add Strings,83.5,0.5186181212392141,https://leetcode.com/problems/add-strings,"Math, String, Simulation"

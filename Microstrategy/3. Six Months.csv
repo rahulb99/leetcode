@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Backspace String Compare,100.0,0.49431515566345463,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Top K Frequent Elements,89.6,0.6425166262415256,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Battleships in a Board,89.6,0.7634100259904669,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
-MEDIUM,Number of Ways to Build Sturdy Brick Wall,89.6,0.49456953642384105,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Permutations,89.6,0.8033258257399933,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,89.6,0.7790192923251231,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+EASY,Backspace String Compare,100.0,0.4945673736895818,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Top K Frequent Elements,89.6,0.6438904865139641,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Battleships in a Board,89.6,0.7643289561821469,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
+MEDIUM,Number of Ways to Build Sturdy Brick Wall,89.6,0.49390467221263007,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Permutations,89.6,0.804856108631854,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,89.6,0.7794977723216134,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5928072196117954,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-HARD,Parse Lisp Expression,94.9,0.5239329790881042,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
-EASY,Valid Palindrome II,94.9,0.426939432678526,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
-MEDIUM,Valid Sudoku,78.9,0.6189256213183155,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-HARD,Integer to English Words,78.9,0.34274461530611594,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5942563367817787,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+HARD,Parse Lisp Expression,94.9,0.5255875060922633,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+EASY,Valid Palindrome II,94.9,0.4285883545680861,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+MEDIUM,Valid Sudoku,78.9,0.6206625429952581,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Integer to English Words,78.9,0.34308107539074045,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"

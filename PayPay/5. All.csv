@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Largest 3-Same-Digit Number in String,100.0,0.6904076221407458,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-HARD,Trapping Rain Water,65.4,0.6456501958076906,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Zigzag Conversion,65.4,0.5107284403306285,https://leetcode.com/problems/zigzag-conversion,String
+EASY,Largest 3-Same-Digit Number in String,100.0,0.6907099602731327,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+MEDIUM,Zigzag Conversion,65.4,0.5132273881265313,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Block Placement Queries,65.4,0.165072909797025,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"

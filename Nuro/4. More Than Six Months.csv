@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subrectangle Queries,100.0,0.8831885531560605,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
-HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.4547226952923316,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Subrectangle Queries,100.0,0.8592360952815136,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.45533039748181586,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+HARD,Maximum Number of Visible Points,100.0,0.3759000782150834,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"

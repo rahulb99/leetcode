@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Implement Queue using Stacks,100.0,0.6791055470460546,https://leetcode.com/problems/implement-queue-using-stacks,"Stack, Design, Queue"
-EASY,Two Sum,100.0,0.5533855098357539,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Course Schedule II,100.0,0.5291122219439148,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+EASY,Two Sum,100.0,0.5554651398323349,https://leetcode.com/problems/two-sum,"Array, Hash Table"

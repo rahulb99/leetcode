@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String to Integer (atoi),100.0,0.18892622620486926,https://leetcode.com/problems/string-to-integer-atoi,String
+MEDIUM,Brace Expansion,100.0,0.6667840188974946,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"

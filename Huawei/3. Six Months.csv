@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Generate Parentheses,100.0,0.7675049933181729,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Longest Palindromic Substring,100.0,0.3549107803419303,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Valid Parentheses,100.0,0.4202362137836693,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,100.0,0.5554655370824897,https://leetcode.com/problems/two-sum,"Array, Hash Table"

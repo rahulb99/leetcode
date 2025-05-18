@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subsequence of Size K With the Largest Even Sum,100.0,0.355995484935313,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
-EASY,Counting Elements,100.0,0.6040415163493225,https://leetcode.com/problems/counting-elements,"Array, Hash Table"
-MEDIUM,Maximize Score After Pair Deletions,100.0,0.6271844660194175,https://leetcode.com/problems/maximize-score-after-pair-deletions,"Array, Greedy"
-EASY,Best Time to Buy and Sell Stock,79.5,0.5492497224156049,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Remove Duplicate Letters,73.1,0.5098767498085057,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Maximal Network Rank,73.1,0.6537058719475728,https://leetcode.com/problems/maximal-network-rank,Graph
-MEDIUM,Minimum Fuel Cost to Report to the Capital,64.0,0.6421523483752138,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,"Tree, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,64.0,0.6479468736629171,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,"Depth-First Search, Breadth-First Search, Graph"
-HARD,Robot Room Cleaner,64.0,0.7731828637386545,https://leetcode.com/problems/robot-room-cleaner,"Backtracking, Interactive"
+MEDIUM,Subsequence of Size K With the Largest Even Sum,100.0,0.35582135788658464,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
+EASY,Counting Elements,100.0,0.6041879510257034,https://leetcode.com/problems/counting-elements,"Array, Hash Table"
+MEDIUM,Maximize Score After Pair Deletions,100.0,0.609984399375975,https://leetcode.com/problems/maximize-score-after-pair-deletions,"Array, Greedy"
+EASY,Best Time to Buy and Sell Stock,79.5,0.5506640853071197,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Remove Duplicate Letters,73.1,0.5118352849799621,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Maximal Network Rank,73.1,0.6541187113635222,https://leetcode.com/problems/maximal-network-rank,Graph
+MEDIUM,Minimum Fuel Cost to Report to the Capital,64.0,0.6433157206976875,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,"Tree, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,64.0,0.6492906247601788,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,"Depth-First Search, Breadth-First Search, Graph"
+HARD,Robot Room Cleaner,64.0,0.774160491558985,https://leetcode.com/problems/robot-room-cleaner,"Backtracking, Interactive"

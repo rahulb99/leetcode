@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Combination Sum,100.0,0.7418795816845232,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Flatten Nested List Iterator,100.0,0.6517017712958427,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

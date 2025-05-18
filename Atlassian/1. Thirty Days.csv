@@ -1,4 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Stock Price Fluctuation ,100.0,0.4883136130615418,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-HARD,All O`one Data Structure,89.6,0.4475357261975011,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,89.6,0.6606722018781045,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Stock Price Fluctuation ,100.0,0.4798714104015216,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+HARD,All O`one Data Structure,85.0,0.44169439563315505,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Can Place Flowers,78.8,0.2886826611690417,https://leetcode.com/problems/can-place-flowers,"Array, Greedy"
+HARD,Text Justification,70.0,0.4781181746104651,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Merge Intervals,70.0,0.4919339547666934,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Design Snake Game,70.0,0.3957593584191239,https://leetcode.com/problems/design-snake-game,"Array, Hash Table, Design, Queue, Simulation"

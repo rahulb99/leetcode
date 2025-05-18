@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Cost For Tickets,100.0,0.6740125902881275,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-MEDIUM,Integer to Roman,100.0,0.6809822654415767,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Integer to Roman,100.0,0.6833256561030379,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"

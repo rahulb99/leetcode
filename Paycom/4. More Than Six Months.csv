@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7056767759269045,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Degree of an Array,100.0,0.5719258007880527,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
-EASY,Contains Duplicate,89.7,0.6295539086953645,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+MEDIUM,Group Anagrams,100.0,0.7072498818190414,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Degree of an Array,100.0,0.5730070700793771,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+EASY,Contains Duplicate,89.7,0.6308061016628331,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"

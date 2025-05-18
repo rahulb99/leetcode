@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum Smaller,100.0,0.5095494083535773,https://leetcode.com/problems/3sum-smaller,"Array, Two Pointers, Binary Search, Sorting"
+EASY,Find Words That Can Be Formed by Characters,100.0,0.710039682254928,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+MEDIUM,Word Search,85.9,0.45026561689269784,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Asteroid Collision,67.4,0.45327874824731995,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"

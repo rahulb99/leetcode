@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4749347677805166,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Block Placement Queries,100.0,0.165072909797025,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"

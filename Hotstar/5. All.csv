@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Three Equal Parts,100.0,0.40593605040557634,https://leetcode.com/problems/three-equal-parts,"Array, Math"
-MEDIUM,Number of Islands,66.8,0.6186264296476088,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Three Equal Parts,100.0,0.40623610218905964,https://leetcode.com/problems/three-equal-parts,"Array, Math"
+MEDIUM,Number of Islands,66.6,0.6207108798296079,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Binary Tree Maximum Path Sum,66.6,0.41118375845968513,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

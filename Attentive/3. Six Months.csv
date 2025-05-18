@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Parse Lisp Expression,100.0,0.5239329790881042,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
-MEDIUM,Remove All Adjacent Duplicates in String II,88.2,0.5928072196117954,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-EASY,Find Pivot Index,82.1,0.6014364271366466,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
-EASY,Valid Palindrome II,73.5,0.426939432678526,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5942563367817787,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+HARD,Parse Lisp Expression,93.5,0.5255875060922633,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+EASY,Find Pivot Index,70.2,0.6035906694515136,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"

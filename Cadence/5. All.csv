@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sudoku Solver,100.0,0.6370676414125362,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-EASY,Island Perimeter,100.0,0.733749919010561,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Merge Intervals,100.0,0.4902784627928211,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Two Sum,100.0,0.5533882008132751,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Palindrome,100.0,0.5045398107530145,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+HARD,Sudoku Solver,100.0,0.63757719050963,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+EASY,Island Perimeter,100.0,0.734501805950883,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Merge Intervals,100.0,0.4919432032866994,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,100.0,0.5554757983066865,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Palindrome,100.0,0.5066577499701972,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

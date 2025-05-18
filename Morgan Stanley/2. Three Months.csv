@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Stamping The Sequence,100.0,0.6187332286972812,https://leetcode.com/problems/stamping-the-sequence,"String, Stack, Greedy, Queue"
-MEDIUM,Group Anagrams,100.0,0.705668085276652,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Stamping The Sequence,100.0,0.6183709258027453,https://leetcode.com/problems/stamping-the-sequence,"String, Stack, Greedy, Queue"
+MEDIUM,Make K-Subarray Sums Equal,100.0,0.36321303841676367,https://leetcode.com/problems/make-k-subarray-sums-equal,"Array, Math, Greedy, Sorting, Number Theory"

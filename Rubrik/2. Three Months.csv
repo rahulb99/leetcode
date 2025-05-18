@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Manhattan Distances of All Arrangements of Pieces,100.0,0.35781304297463223,https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces,"Math, Combinatorics"
-MEDIUM,Snapshot Array,67.0,0.36736474025745075,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+HARD,Find X Value of Array II,100.0,0.2636316201408818,https://leetcode.com/problems/find-x-value-of-array-ii,"Array, Math, Segment Tree"
+MEDIUM,Find X Value of Array I,100.0,0.31918804116974353,https://leetcode.com/problems/find-x-value-of-array-i,"Array, Math, Dynamic Programming"
+MEDIUM,Snapshot Array,66.0,0.36676722694550806,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Design Memory Allocator,66.0,0.4825474586650337,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"

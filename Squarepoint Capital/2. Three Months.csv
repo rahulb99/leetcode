@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Increasing Subsequence,100.0,0.5738412627281781,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-HARD,Frog Jump,100.0,0.4644126400214719,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
+HARD,Frog Jump,100.0,0.4648826029532353,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"

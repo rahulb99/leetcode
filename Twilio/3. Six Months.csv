@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Greatness of an Array,100.0,0.5798680432757211,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Ways to Make a Fair Array,100.0,0.6427407845229,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"
-MEDIUM,Top K Frequent Elements,100.0,0.6425188889132087,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Ways to Make a Fair Array,100.0,0.6436154295566924,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"
+MEDIUM,Top K Frequent Elements,100.0,0.6438883699626513,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

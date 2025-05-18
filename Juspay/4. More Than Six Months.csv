@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Operations on Tree,100.0,0.47092844833691366,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
-HARD,Longest Cycle in a Graph,98.1,0.4977681884082788,https://leetcode.com/problems/longest-cycle-in-a-graph,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Find Closest Node to Given Two Nodes,85.2,0.4569898831346155,https://leetcode.com/problems/find-closest-node-to-given-two-nodes,"Depth-First Search, Graph"
-MEDIUM,Set Matrix Zeroes,70.4,0.5925585590558293,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
-MEDIUM,Node With Highest Edge Score,70.4,0.4823622573341087,https://leetcode.com/problems/node-with-highest-edge-score,"Hash Table, Graph"
-MEDIUM,Longest Substring Without Repeating Characters,70.4,0.36544074955747435,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Operations on Tree,100.0,0.4310063386402663,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+HARD,Longest Cycle in a Graph,95.6,0.4977053784580817,https://leetcode.com/problems/longest-cycle-in-a-graph,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Find Closest Node to Given Two Nodes,86.9,0.4574914587265349,https://leetcode.com/problems/find-closest-node-to-given-two-nodes,"Depth-First Search, Graph"
+MEDIUM,Set Matrix Zeroes,71.8,0.5949912786987535,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Node With Highest Edge Score,71.8,0.48375163831012136,https://leetcode.com/problems/node-with-highest-edge-score,"Hash Table, Graph"
+MEDIUM,Longest Substring Without Repeating Characters,71.8,0.3671675491256801,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

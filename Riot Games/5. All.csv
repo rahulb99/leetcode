@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Teemo Attacking,100.0,0.5686890499184709,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
-MEDIUM,Valid Sudoku,91.8,0.6189198304012167,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-HARD,Sudoku Solver,86.0,0.6370737273499821,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-MEDIUM,Better Compression of String,71.9,0.7553909465020577,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"
+EASY,Teemo Attacking,100.0,0.5690926598950082,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
+MEDIUM,Valid Sudoku,91.9,0.6206580971798,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Sudoku Solver,82.4,0.637576738385991,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+MEDIUM,Better Compression of String,72.2,0.7570168404170008,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Defanging an IP Address,100.0,0.8960770165121287,https://leetcode.com/problems/defanging-an-ip-address,String
-MEDIUM,Top K Frequent Words,100.0,0.5904271630106127,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Top K Frequent Words,100.0,0.5915501088815971,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Defanging an IP Address,84.4,0.8964170009853814,https://leetcode.com/problems/defanging-an-ip-address,String
+MEDIUM,Minesweeper,84.4,0.6798244807432718,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"

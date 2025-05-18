@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reorganize String,100.0,0.5593787443763706,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Search in Rotated Sorted Array,100.0,0.42508276533115813,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-EASY,Maximize Sum Of Array After K Negations,100.0,0.5209514629167612,https://leetcode.com/problems/maximize-sum-of-array-after-k-negations,"Array, Greedy, Sorting"
-MEDIUM,Longest Increasing Subsequence,100.0,0.5738438359503123,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Reorganize String,100.0,0.5606247540502043,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.4265049587550923,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Maximize Sum Of Array After K Negations,100.0,0.5222828187800687,https://leetcode.com/problems/maximize-sum-of-array-after-k-negations,"Array, Greedy, Sorting"
+MEDIUM,Longest Increasing Subsequence,100.0,0.5755382631355532,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"

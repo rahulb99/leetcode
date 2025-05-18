@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Shortest Common Supersequence ,100.0,0.6125882322962057,https://leetcode.com/problems/shortest-common-supersequence,"String, Dynamic Programming"
-MEDIUM,Minimum Falling Path Sum,100.0,0.6179986495047991,https://leetcode.com/problems/minimum-falling-path-sum,"Array, Dynamic Programming, Matrix"
-EASY,Final Prices With a Special Discount in a Shop,100.0,0.831967443843042,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop,"Array, Stack, Monotonic Stack"
-MEDIUM,Furthest Building You Can Reach,100.0,0.5023497933558125,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
-MEDIUM,Gas Station,100.0,0.46099827120381554,https://leetcode.com/problems/gas-station,"Array, Greedy"
+HARD,Shortest Common Supersequence ,100.0,0.6123252874857665,https://leetcode.com/problems/shortest-common-supersequence,"String, Dynamic Programming"
+MEDIUM,Minimum Falling Path Sum,100.0,0.6167744930491238,https://leetcode.com/problems/minimum-falling-path-sum,"Array, Dynamic Programming, Matrix"
+EASY,Final Prices With a Special Discount in a Shop,100.0,0.8324096687745053,https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop,"Array, Stack, Monotonic Stack"
+MEDIUM,Furthest Building You Can Reach,100.0,0.503157109811295,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Gas Station,100.0,0.4622461712311463,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,3Sum,100.0,0.3684101398376922,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize the Minimum Game Score,100.0,0.24487015751383567,https://leetcode.com/problems/maximize-the-minimum-game-score,"Array, Binary Search, Greedy"
-MEDIUM,Eat Pizzas!,100.0,0.32648494711147275,https://leetcode.com/problems/eat-pizzas,"Array, Greedy, Sorting"
-EASY,Transform Array by Parity,100.0,0.8905842947525122,https://leetcode.com/problems/transform-array-by-parity,"Array, Sorting, Counting"
-EASY,Two Sum,72.8,0.5533852764405837,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Eat Pizzas!,100.0,0.32254243979470976,https://leetcode.com/problems/eat-pizzas,"Array, Greedy, Sorting"
+EASY,Transform Array by Parity,100.0,0.8929591665266342,https://leetcode.com/problems/transform-array-by-parity,"Array, Sorting, Counting"
+EASY,Two Sum,64.4,0.5554650061521318,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Merge Sorted Array,64.4,0.5267881453530996,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

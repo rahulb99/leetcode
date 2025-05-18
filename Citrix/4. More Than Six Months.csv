@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Pairs of Songs With Total Durations Divisible by 60,100.0,0.531877315261855,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60,"Array, Hash Table, Counting"
-EASY,Check if Strings Can be Made Equal With Operations I,100.0,0.46924514411914603,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
-MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,0.5498935199269851,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
-HARD,Maximum Performance of a Team,100.0,0.47509682743615955,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Find All Groups of Farmland,100.0,0.7548969359331477,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Remove Nth Node From End of List,100.0,0.48406611494213225,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,100.0,0.5322406965603059,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60,"Array, Hash Table, Counting"
+EASY,Check if Strings Can be Made Equal With Operations I,100.0,0.4697847635549455,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
+MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,0.5510597666811624,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
+HARD,Maximum Performance of a Team,100.0,0.47517704045240305,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Find All Groups of Farmland,100.0,0.7547549824670425,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Remove Nth Node From End of List,100.0,0.4863840617786769,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"

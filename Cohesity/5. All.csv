@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4471806188547039,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Path With Minimum Effort,88.2,0.609883098783183,https://leetcode.com/problems/path-with-minimum-effort,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
-HARD,Find Median from Data Stream,88.2,0.5311642341339966,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-HARD,Optimize Water Distribution in a Village,88.2,0.6510494391758531,https://leetcode.com/problems/optimize-water-distribution-in-a-village,"Union Find, Graph, Heap (Priority Queue), Minimum Spanning Tree"
+MEDIUM,LRU Cache,100.0,0.4493745750455983,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Path With Minimum Effort,88.3,0.6114138824864112,https://leetcode.com/problems/path-with-minimum-effort,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Find Median from Data Stream,88.3,0.5311655016270243,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

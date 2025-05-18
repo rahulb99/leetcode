@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.5186409581628656,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-HARD,Divide Nodes Into the Maximum Number of Groups,100.0,0.6750578343822293,https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-EASY,Move Zeroes,100.0,0.626409572358061,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Koko Eating Bananas,100.0,0.48954118060124796,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,Diagonal Traverse,100.0,0.6272114203456489,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
+MEDIUM,Koko Eating Bananas,100.0,0.4904342019866357,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Diagonal Traverse,100.0,0.6294572528614665,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
+HARD,Merge k Sorted Lists,100.0,0.5644476012965853,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"

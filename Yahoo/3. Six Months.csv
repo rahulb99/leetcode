@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Combination Sum,100.0,0.7418795816845232,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
-MEDIUM,Subarray Sum Equals K,88.9,0.45117854990394546,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Restore IP Addresses,88.9,0.5261771465260151,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Combination Sum,100.0,0.7439596564848422,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Subarray Sum Equals K,88.9,0.4528271449628125,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Restore IP Addresses,88.9,0.5287275836179032,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Evaluate Division,88.9,0.6298765890814512,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,Flatten Nested List Iterator,88.9,0.6517017712958427,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

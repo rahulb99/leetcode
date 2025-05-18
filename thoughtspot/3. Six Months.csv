@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Count Paths That Can Form a Palindrome in a Tree,100.0,0.45153863432165325,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree,"Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Bitmask"
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,82.9,0.5379585630108344,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,15 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42023755643581756,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Merge Intervals,81.4,0.4902780324212006,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Squares of a Sorted Array,81.4,0.7313546415437613,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-HARD,Department Top Three Salaries,81.4,0.5713876713961498,https://leetcode.com/problems/department-top-three-salaries,Database
-EASY,Two Sum,74.8,0.5533873044010424,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Move Zeroes,74.8,0.6264109804728588,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Monotonic Array,74.8,0.6157378471901193,https://leetcode.com/problems/monotonic-array,Array
-EASY,Remove Duplicates from Sorted Array,65.5,0.5980739951902307,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Number of Islands,65.5,0.6186227586734473,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Reverse Linked List,65.5,0.7884963436112221,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-EASY,Merge Sorted Array,65.5,0.5249724857993607,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,First Unique Character in a String,65.5,0.6339046043836709,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-EASY,Invert Binary Tree,65.5,0.7875065935577332,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Best Time to Buy and Sell Stock,65.5,0.549251170987889,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Parentheses,100.0,0.42160354575062337,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Monotonic Array,81.4,0.6162686288187628,https://leetcode.com/problems/monotonic-array,Array
+MEDIUM,Merge Intervals,81.4,0.4919420654048896,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Squares of a Sorted Array,81.4,0.7317572065774582,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+HARD,Department Top Three Salaries,81.4,0.5743799473560562,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Two Sum,74.8,0.5554753106423621,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,74.8,0.6272168032517914,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Reverse Linked List,65.5,0.7900543396774438,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,Merge Sorted Array,65.5,0.5267943606091755,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,First Unique Character in a String,65.5,0.6352111833567535,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,Invert Binary Tree,65.5,0.7887180228870423,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Best Time to Buy and Sell Stock,65.5,0.5506645895170031,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Decode String,65.5,0.6097575077414454,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Department Highest Salary,65.5,0.544375237363259,https://leetcode.com/problems/department-highest-salary,Database

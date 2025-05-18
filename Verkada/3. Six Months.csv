@@ -1,7 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Transpose Matrix,100.0,0.7390989698182415,https://leetcode.com/problems/transpose-matrix,"Array, Matrix, Simulation"
-MEDIUM,Snapshot Array,89.7,0.3673636139262724,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
-MEDIUM,Basic Calculator II,89.7,0.4545440691741545,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Remove Sub-Folders from the Filesystem,89.7,0.7570508344470084,https://leetcode.com/problems/remove-sub-folders-from-the-filesystem,"Array, String, Depth-First Search, Trie"
-MEDIUM,LRU Cache,89.7,0.4471813173228498,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Diameter of Binary Tree,89.7,0.6304824798758059,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+EASY,Diameter of Binary Tree,100.0,0.6329999353322843,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"

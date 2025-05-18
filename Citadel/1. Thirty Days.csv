@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Palindromic Substrings,100.0,0.7141024030766903,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Merge Intervals,89.5,0.4902750414082843,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Meeting Scheduler,89.5,0.5516870491199296,https://leetcode.com/problems/meeting-scheduler,"Array, Two Pointers, Sorting"
-HARD,Count Palindromic Subsequences,89.5,0.3889203702204593,https://leetcode.com/problems/count-palindromic-subsequences,"String, Dynamic Programming"
+HARD,Sliding Window Maximum,100.0,0.47465366217307575,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Merge Intervals,68.2,0.4919333958584783,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

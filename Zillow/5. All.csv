@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4202363391543525,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Number of Islands,100.0,0.6186228036963185,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.4638622467055294,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Valid Parentheses,100.0,0.4216001910554901,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Number of Islands,100.0,0.6206911435676878,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46567392986052475,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"

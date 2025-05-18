@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5618164284389487,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Escape The Ghosts,87.4,0.6245611427934539,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
-MEDIUM,Subsets,80.9,0.8047259625814712,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
-MEDIUM,Number of Islands,71.8,0.6186219097203745,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Valid Parentheses,71.8,0.4202368436939501,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Lowest Common Ancestor of a Binary Tree III,71.8,0.8215359504181108,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"
+MEDIUM,Rotting Oranges,100.0,0.5635869885131418,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Escape The Ghosts,87.5,0.6251682244713603,https://leetcode.com/problems/escape-the-ghosts,"Array, Math"
+MEDIUM,Subsets,81.1,0.8063846489543923,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+MEDIUM,Number of Islands,72.1,0.6206998662536751,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Parentheses,72.1,0.4216027948114452,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,72.1,0.8233821228021725,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"

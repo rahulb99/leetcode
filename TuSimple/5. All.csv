@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Ways to Earn Points,100.0,0.5833960952436128,https://leetcode.com/problems/number-of-ways-to-earn-points,"Array, Dynamic Programming"
-MEDIUM,Count the Number of Good Subsequences,100.0,0.5136920103092784,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
-MEDIUM,Intervals Between Identical Elements,100.0,0.4477207155222158,https://leetcode.com/problems/intervals-between-identical-elements,"Array, Hash Table, Prefix Sum"
-HARD,Maximum Good People Based on Statements,100.0,0.506820531634593,https://leetcode.com/problems/maximum-good-people-based-on-statements,"Array, Backtracking, Bit Manipulation, Enumeration"
+HARD,Number of Ways to Earn Points,100.0,0.5843447820722505,https://leetcode.com/problems/number-of-ways-to-earn-points,"Array, Dynamic Programming"
+MEDIUM,Count the Number of Good Subsequences,100.0,0.5099093562759256,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Intervals Between Identical Elements,100.0,0.4480691269675111,https://leetcode.com/problems/intervals-between-identical-elements,"Array, Hash Table, Prefix Sum"
+HARD,Maximum Good People Based on Statements,100.0,0.5079286093418259,https://leetcode.com/problems/maximum-good-people-based-on-statements,"Array, Backtracking, Bit Manipulation, Enumeration"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,House Robber,100.0,0.5209552329893601,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-MEDIUM,Binary Tree Zigzag Level Order Traversal,88.6,0.6124446123374104,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Product of Array Except Self,88.6,0.675078424404253,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,House Robber,100.0,0.5219013814292254,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,88.4,0.6142584242367283,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Product of Array Except Self,88.4,0.6762186869608907,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

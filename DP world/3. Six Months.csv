@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Set Intersection Size At Least Two,100.0,0.45004277159965783,https://leetcode.com/problems/set-intersection-size-at-least-two,"Array, Greedy, Sorting"
-MEDIUM,Capacity To Ship Packages Within D Days,89.4,0.7162310873958918,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
-HARD,Binary Tree Cameras,89.4,0.470304604654473,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Set Intersection Size At Least Two,100.0,0.45118805159538355,https://leetcode.com/problems/set-intersection-size-at-least-two,"Array, Greedy, Sorting"
+MEDIUM,Capacity To Ship Packages Within D Days,89.2,0.7179055160613262,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+HARD,Binary Tree Cameras,89.2,0.47092308952412154,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

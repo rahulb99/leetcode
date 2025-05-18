@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Koko Eating Bananas,100.0,0.48954442015291894,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,Set Matrix Zeroes,100.0,0.5925576529120946,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
-HARD,Median of Two Sorted Arrays,100.0,0.4323454091809797,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Elimination Game,100.0,0.44674893114835557,https://leetcode.com/problems/elimination-game,"Math, Recursion"
+MEDIUM,Koko Eating Bananas,100.0,0.4904298777929011,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Set Matrix Zeroes,100.0,0.5949913063851826,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+HARD,Median of Two Sorted Arrays,100.0,0.4348889296221493,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Elimination Game,100.0,0.4473192865071692,https://leetcode.com/problems/elimination-game,"Math, Recursion"

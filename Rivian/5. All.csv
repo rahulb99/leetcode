@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4902773617703127,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Number of Islands,100.0,0.6186226160829987,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Flatten Deeply Nested Array,100.0,0.6414166823889483,https://leetcode.com/problems/flatten-deeply-nested-array,
-MEDIUM,Robot Bounded In Circle,100.0,0.5616559334408842,https://leetcode.com/problems/robot-bounded-in-circle,"Math, String, Simulation"
-MEDIUM,String Compression,100.0,0.5758897199076398,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-EASY,Rotate String,100.0,0.6368700792076215,https://leetcode.com/problems/rotate-string,"String, String Matching"
-HARD,Merge k Sorted Lists,100.0,0.5615807047980972,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,LRU Cache,100.0,0.44718106958451903,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,100.0,0.4919414535982034,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Number of Islands,100.0,0.6207003811684918,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Flatten Deeply Nested Array,100.0,0.6430840664711632,https://leetcode.com/problems/flatten-deeply-nested-array,
+MEDIUM,String Compression,100.0,0.578281680184156,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+EASY,Rotate String,100.0,0.637950811251071,https://leetcode.com/problems/rotate-string,"String, String Matching"
+HARD,Merge k Sorted Lists,100.0,0.5644410253831013,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,LRU Cache,100.0,0.4493749780104242,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Max Increase to Keep City Skyline,100.0,0.8617958908328321,https://leetcode.com/problems/max-increase-to-keep-city-skyline,"Array, Greedy, Matrix"

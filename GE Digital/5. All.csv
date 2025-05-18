@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Degree of an Array,100.0,0.5719258007880527,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
-MEDIUM,Minimum Cost to Set Cooking Time,75.4,0.40810118475824525,https://leetcode.com/problems/minimum-cost-to-set-cooking-time,"Math, Enumeration"
-MEDIUM,Minimum Remove to Make Valid Parentheses,67.1,0.7043953583533427,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+EASY,Degree of an Array,100.0,0.573005752288135,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+MEDIUM,Minimum Cost to Set Cooking Time,75.4,0.40893649787118397,https://leetcode.com/problems/minimum-cost-to-set-cooking-time,"Math, Enumeration"
+MEDIUM,Minimum Remove to Make Valid Parentheses,67.1,0.7059099081042013,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"

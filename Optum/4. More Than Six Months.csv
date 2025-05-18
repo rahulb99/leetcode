@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36544193851733986,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Reverse Prefix of Word,100.0,0.8638826515669238,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
-MEDIUM,Bank Account Summary,100.0,0.5185760089571988,https://leetcode.com/problems/bank-account-summary,Database
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3671708584634412,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Reverse Prefix of Word,100.0,0.8640420953963486,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
+MEDIUM,Bank Account Summary,100.0,0.5190364603018621,https://leetcode.com/problems/bank-account-summary,Database

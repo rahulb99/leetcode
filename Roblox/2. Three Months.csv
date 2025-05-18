@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reorganize String,100.0,0.5593751448360371,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Task Scheduler,90.3,0.6111572835158688,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Maximize Distance to Closest Person,87.0,0.4878947817454161,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Valid Parentheses,78.4,0.4202356730937813,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Rotating the Box,78.4,0.7901922069122498,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-MEDIUM,Spiral Matrix,63.5,0.5330334207583659,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Number of Adjacent Elements With the Same Color,63.5,0.5438915673610479,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
-HARD,Trapping Rain Water,63.5,0.6456473522553633,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Reorganize String,100.0,0.5606359117865866,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,84.3,0.4885538730019008,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Task Scheduler,80.5,0.6133034705721965,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Rotating the Box,76.0,0.7905035762111885,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Number of Adjacent Elements With the Same Color,70.1,0.5511710068949798,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+EASY,Valid Parentheses,61.9,0.4215998774509373,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Trapping Rain Water,61.9,0.6481185834857102,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Implement Trie (Prefix Tree),61.9,0.6770010503464688,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"

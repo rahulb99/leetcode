@@ -1,11 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Sqrt(x),100.0,0.4015576682451488,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
-MEDIUM,Search in Rotated Sorted Array,94.5,0.42507817049493096,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-MEDIUM,Generate Parentheses,94.5,0.7675048446846169,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-EASY,Remove All Adjacent Duplicates In String,87.3,0.7123414995084077,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
-MEDIUM,Remove All Adjacent Duplicates in String II,87.3,0.5927991662399155,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-MEDIUM,Merge Intervals,87.3,0.49027568047955067,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Insert Delete GetRandom O(1),77.2,0.5496811893345948,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Vowel Spellchecker,77.2,0.5149620671952542,https://leetcode.com/problems/vowel-spellchecker,"Array, Hash Table, String"
-HARD,Trapping Rain Water,77.2,0.6456489541761709,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Perfect Number,77.2,0.44280362521331784,https://leetcode.com/problems/perfect-number,Math
+MEDIUM,Merge Intervals,100.0,0.49193471553932805,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Generate Parentheses,92.7,0.7691558775030458,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Vowel Spellchecker,92.7,0.5152033533476832,https://leetcode.com/problems/vowel-spellchecker,"Array, Hash Table, String"
+EASY,Perfect Number,92.7,0.4454176433020922,https://leetcode.com/problems/perfect-number,Math
+EASY,Sqrt(x),82.3,0.40263311891275705,https://leetcode.com/problems/sqrtx,"Math, Binary Search"
+MEDIUM,Search in Rotated Sorted Array,82.3,0.42648704966434975,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Number of Islands,82.3,0.620691149845659,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Word Search,82.3,0.4502653530854698,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+EASY,Remove All Adjacent Duplicates In String,82.3,0.7139835414936434,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Remove All Adjacent Duplicates in String II,82.3,0.594249905580707,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+MEDIUM,Insert Delete GetRandom O(1),82.3,0.5492717941295201,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"

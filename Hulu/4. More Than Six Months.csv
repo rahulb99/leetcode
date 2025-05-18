@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Binary Tree Pruning,100.0,0.7231731993081165,https://leetcode.com/problems/binary-tree-pruning,"Tree, Depth-First Search, Binary Tree"
-HARD,Basic Calculator III,100.0,0.521333722457318,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
-MEDIUM,Sum of Two Integers,100.0,0.5335686093959433,https://leetcode.com/problems/sum-of-two-integers,"Math, Bit Manipulation"
-HARD,Number of Valid Subarrays,100.0,0.791362352712046,https://leetcode.com/problems/number-of-valid-subarrays,"Array, Stack, Monotonic Stack"
-HARD,K-th Smallest in Lexicographical Order,100.0,0.41966560101208694,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order,Trie
+MEDIUM,Binary Tree Pruning,100.0,0.7234174038352557,https://leetcode.com/problems/binary-tree-pruning,"Tree, Depth-First Search, Binary Tree"
+HARD,Basic Calculator III,100.0,0.5231368182853342,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+MEDIUM,Sum of Two Integers,100.0,0.5348736460768467,https://leetcode.com/problems/sum-of-two-integers,"Math, Bit Manipulation"
+HARD,Number of Valid Subarrays,100.0,0.7918375223117373,https://leetcode.com/problems/number-of-valid-subarrays,"Array, Stack, Monotonic Stack"
+HARD,K-th Smallest in Lexicographical Order,100.0,0.41988769023637884,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order,Trie

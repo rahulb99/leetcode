@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.44718112669011517,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Design a File Sharing System,72.7,0.4166800192276879,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
-EASY,Create a Session Bar Chart,72.7,0.7501043467891002,https://leetcode.com/problems/create-a-session-bar-chart,Database
-MEDIUM,Toss Strange Coins,72.7,0.5814791436536741,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
-MEDIUM,Letter Combinations of a Phone Number,72.7,0.6336703225677792,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,LRU Cache,100.0,0.44937461875552304,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design a File Sharing System,72.6,0.41646317447814096,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Create a Session Bar Chart,72.6,0.7499926068312878,https://leetcode.com/problems/create-a-session-bar-chart,Database
+MEDIUM,Toss Strange Coins,72.6,0.5814568496020109,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
+MEDIUM,Letter Combinations of a Phone Number,72.6,0.6359966758586124,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"

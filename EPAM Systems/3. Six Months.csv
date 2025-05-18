@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36544022235464835,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Two Sum,100.0,0.5533861354392184,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Longest Common Prefix,92.0,0.4510213868832204,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Maximum Difference Between Node and Ancestor,80.9,0.7804803030604771,https://leetcode.com/problems/maximum-difference-between-node-and-ancestor,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Longest Palindromic Substring,80.9,0.3549107862698611,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Valid Parentheses,80.9,0.4202363775147296,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3671610042461001,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,100.0,0.5554662161325704,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,86.8,0.4526924624776697,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Longest Palindromic Substring,76.3,0.3564854305719919,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Parentheses,76.3,0.42160036415315005,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Duplicate Emails,76.3,0.7231081851784221,https://leetcode.com/problems/duplicate-emails,Database

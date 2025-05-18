@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Substring with Concatenation of All Words,100.0,0.3286502463629699,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
-MEDIUM,Is Graph Bipartite?,67.9,0.5735138315684042,https://leetcode.com/problems/is-graph-bipartite,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+EASY,Guess Number Higher or Lower,100.0,0.5558246386458919,https://leetcode.com/problems/guess-number-higher-or-lower,"Binary Search, Interactive"

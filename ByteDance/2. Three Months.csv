@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4471777500820861,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Add Two Numbers,100.0,0.4571986197371196,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-HARD,Shortest Distance from All Buildings,100.0,0.4415290683177733,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
-MEDIUM,Top K Frequent Elements,100.0,0.6425181101817361,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Combination Sum,100.0,0.741879737543094,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+HARD,Shortest Distance from All Buildings,100.0,0.4424755401882614,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Elements,100.0,0.6438792199060991,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Longest Repeating Character Replacement,100.0,0.5689678168145912,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Subarray Sum Equals K,100.0,0.45282702714235384,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,LRU Cache,100.0,0.44936796981227217,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

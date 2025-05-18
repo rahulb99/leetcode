@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42024294720060196,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Two Sum,90.4,0.5533929020619632,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Candy Crush,90.4,0.7723431498079385,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+EASY,Valid Parentheses,100.0,0.4216131644173957,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Two Sum,90.4,0.555491485619918,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Candy Crush,90.4,0.7731965811965812,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"

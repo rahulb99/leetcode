@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Duplicate Number,100.0,0.6250931159994709,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
+MEDIUM,Find the Duplicate Number,100.0,0.6263384150334316,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
+MEDIUM,LRU Cache,100.0,0.4493746023002479,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,String to Integer (atoi),100.0,0.19028703848921866,https://leetcode.com/problems/string-to-integer-atoi,String

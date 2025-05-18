@@ -1,13 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Valid Number,100.0,0.21264266670933155,https://leetcode.com/problems/valid-number,String
-MEDIUM,Min Cost to Connect All Points,87.7,0.6856947090791339,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union Find, Graph, Minimum Spanning Tree"
-MEDIUM,Binary Tree Zigzag Level Order Traversal,87.7,0.6124392611707971,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Group Anagrams,87.7,0.7056684366063173,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Boundary of Binary Tree,87.7,0.46929193258799917,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Top K Frequent Elements,87.7,0.6425183818727116,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,LRU Cache,87.7,0.44717835054981087,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,First Missing Positive,87.7,0.4080076849183477,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Spiral Matrix,87.7,0.5330340724281093,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Binary Tree Maximum Path Sum,87.7,0.4102304002263491,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
-HARD,Maximum Frequency Stack,87.7,0.667443358598665,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
-MEDIUM,Decode String,87.7,0.6084067357512953,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Valid Number,100.0,0.21410757466141983,https://leetcode.com/problems/valid-number,String
+MEDIUM,Group Anagrams,87.4,0.707241685954302,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Boundary of Binary Tree,87.4,0.47031082721786616,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,LRU Cache,87.4,0.44936913927461214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Spiral Matrix,87.4,0.5357356062991769,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Binary Tree Maximum Path Sum,87.4,0.4111835301715405,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Maximum Frequency Stack,87.4,0.6610471197167989,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+MEDIUM,Decode String,87.4,0.6097526238524069,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,87.4,0.4919334438128869,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Reverse Linked List II,87.4,0.49417689327121406,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Clone Graph,87.4,0.6195343940232211,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Surrounded Regions,87.4,0.4255738870347844,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Search a 2D Matrix,87.4,0.5208708621239933,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+HARD,Sliding Window Maximum,87.4,0.4746532159133141,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

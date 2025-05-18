@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,4Sum,100.0,0.37808097958133857,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Container With Most Water,88.0,0.5740166049157475,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-HARD,Maximum Profit in Job Scheduling,88.0,0.543362850862594,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Largest Rectangle in Histogram,88.0,0.4684194688596157,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,4Sum,100.0,0.37980172400299095,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Container With Most Water,87.9,0.5757928952874088,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+HARD,Maximum Profit in Job Scheduling,87.9,0.5438710241648749,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Largest Rectangle in Histogram,87.9,0.47069779211233437,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"

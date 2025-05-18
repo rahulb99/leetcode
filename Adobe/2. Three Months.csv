@@ -1,4 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6809694906578977,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Rotting Oranges,100.0,0.5618150165079124,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-HARD,Minimum Window Substring,100.0,0.4490218449090006,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Top K Frequent Elements,100.0,0.6438795014326872,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Rotting Oranges,87.8,0.5635827191396653,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Minimum Window Substring,87.8,0.4509850667040137,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Top K Frequent Words,87.8,0.5915499175638986,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Maximum Product Subarray,87.8,0.3478082625750238,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+EASY,Split the Array,87.8,0.5901937369668668,https://leetcode.com/problems/split-the-array,"Array, Hash Table, Counting"
+MEDIUM,Product of Array Except Self,87.8,0.6762123773814682,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

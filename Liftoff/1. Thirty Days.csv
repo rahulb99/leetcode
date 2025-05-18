@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,N-Queens II,100.0,0.7648433421186712,https://leetcode.com/problems/n-queens-ii,Backtracking

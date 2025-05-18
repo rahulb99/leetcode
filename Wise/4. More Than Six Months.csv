@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Square,100.0,0.4841254226419494,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,Subarray Product Less Than K,81.7,0.5255552258216557,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-EASY,Two Sum,73.0,0.5533925454345221,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Roman to Integer,73.0,0.6441664159506106,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Maximal Square,100.0,0.48556321189134893,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Subarray Product Less Than K,73.7,0.5272788175689821,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+EASY,Two Sum,60.5,0.5554912869847892,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,60.5,0.6462374829798673,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

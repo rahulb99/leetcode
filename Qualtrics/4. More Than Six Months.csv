@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Asteroid Collision,100.0,0.45208298428747296,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Implement Trie (Prefix Tree),74.6,0.6768006681155879,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Group Anagrams,74.6,0.705669807796409,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Count Square Sum Triples,74.6,0.6863777129239044,https://leetcode.com/problems/count-square-sum-triples,"Math, Enumeration"
+MEDIUM,Asteroid Collision,100.0,0.4532867996100076,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Implement Trie (Prefix Tree),74.6,0.6770061963381164,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Group Anagrams,74.6,0.7072453194007032,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Count Square Sum Triples,74.6,0.6885865834633386,https://leetcode.com/problems/count-square-sum-triples,"Math, Enumeration"

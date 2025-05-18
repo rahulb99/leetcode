@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Count the Hidden Sequences,100.0,0.5670915197639201,https://leetcode.com/problems/count-the-hidden-sequences,"Array, Prefix Sum"

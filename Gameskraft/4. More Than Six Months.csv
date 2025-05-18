@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,IPO,100.0,0.5300766410128549,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
-HARD,LFU Cache,100.0,0.46075115588771554,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,IPO,100.0,0.5300567055497201,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
+HARD,LFU Cache,100.0,0.4628004876814428,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Sliding Window Maximum,100.0,0.4746574341360032,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

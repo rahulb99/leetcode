@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Tic-Tac-Toe,100.0,0.5850258927619434,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-EASY,Excel Sheet Column Title,90.3,0.4307810618669256,https://leetcode.com/problems/excel-sheet-column-title,"Math, String"
-HARD,Integer to English Words,90.3,0.34274368433674696,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Design Tic-Tac-Toe,100.0,0.5855505154639176,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+EASY,Excel Sheet Column Title,90.3,0.4328230268128532,https://leetcode.com/problems/excel-sheet-column-title,"Math, String"
+HARD,Integer to English Words,90.3,0.3430790294932928,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"

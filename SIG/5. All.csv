@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Validate Binary Search Tree,100.0,0.3411814316423033,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
-HARD,Text Justification,92.3,0.4749347677805166,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Kth Largest Element in an Array,71.3,0.677407173328385,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Add Binary,71.3,0.5536808032846068,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
-MEDIUM,Spiral Matrix,71.3,0.533036183088057,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Validate Binary Search Tree,100.0,0.3423954116958625,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+HARD,Text Justification,92.3,0.4781302783678551,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Kth Largest Element in an Array,71.2,0.6783403628844275,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Add Binary,71.2,0.5552446602703592,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+MEDIUM,Spiral Matrix,71.2,0.5357416328643486,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Block Placement Queries,71.2,0.165072909797025,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"

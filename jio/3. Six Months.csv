@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.47916032856708246,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
-HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.5377191429077386,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.4799820287539936,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
+HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.5383006535947712,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"

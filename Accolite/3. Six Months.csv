@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove Duplicates from Sorted Array II,100.0,0.6248689734573933,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
-MEDIUM,Replace the Substring for Balanced String,100.0,0.39249187112030737,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
-MEDIUM,Asteroid Collision,100.0,0.4520806548930627,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Remove Duplicates from Sorted Array II,100.0,0.626971083483035,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
+MEDIUM,Replace the Substring for Balanced String,100.0,0.39412348852152573,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
+EASY,Two Sum,100.0,0.5554788513767261,https://leetcode.com/problems/two-sum,"Array, Hash Table"

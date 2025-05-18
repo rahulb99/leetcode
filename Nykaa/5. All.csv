@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.40996476299201107,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Koko Eating Bananas,88.4,0.48954118060124796,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-HARD,Merge k Sorted Lists,88.4,0.5615821726452399,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Diagonal Traverse,88.4,0.6272114203456489,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
+MEDIUM,Largest Number,100.0,0.4111694230809192,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+MEDIUM,Koko Eating Bananas,88.6,0.4904342019866357,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Merge k Sorted Lists,88.6,0.5644476012965853,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Diagonal Traverse,88.6,0.6294572528614665,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"

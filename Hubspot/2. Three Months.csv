@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.49027551513461587,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Merge Sorted Array,88.5,0.5249710186702333,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Two Sum,79.3,0.553386231142238,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Merge Two Sorted Lists,79.3,0.6648982275795831,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Meeting Rooms II,79.3,0.5200583157902189,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Merge Intervals,100.0,0.49193463605661203,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Merge Sorted Array,90.3,0.5267886508592632,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Merge Two Sorted Lists,90.3,0.666531571236899,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"

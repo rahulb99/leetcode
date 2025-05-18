@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Number of Visible Points,100.0,0.37519292486342143,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
-MEDIUM,Number of Distinct Islands,100.0,0.6204410587801646,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
-EASY,Diameter of Binary Tree,100.0,0.6304825709201298,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-HARD,Word Search II,100.0,0.3711784573342058,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
-MEDIUM,LRU Cache,100.0,0.44718130112610305,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.44937371975712886,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Maximum Number of Visible Points,82.4,0.3759000782150834,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+MEDIUM,Number of Distinct Islands,82.4,0.6214748980673704,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+EASY,Diameter of Binary Tree,82.4,0.6330017764466755,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+HARD,Word Search II,82.4,0.3720030523717728,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"

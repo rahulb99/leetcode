@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4202425183201121,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Min Stack,94.7,0.5611085854420317,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Evaluate Reverse Polish Notation,78.2,0.543810011356291,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
-EASY,Best Time to Buy and Sell Stock,78.2,0.5492525541394158,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Reverse String,78.2,0.7957775809240385,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,0.42161222926372927,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Min Stack,94.7,0.562351158541286,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Evaluate Reverse Polish Notation,78.2,0.5463242704921796,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Reverse String,78.2,0.7965325687277915,https://leetcode.com/problems/reverse-string,"Two Pointers, String"

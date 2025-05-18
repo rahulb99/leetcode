@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Greatness of an Array,100.0,0.5798630918425556,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Maximum Subarray,83.2,0.5186405326038427,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Maximize Greatness of an Array,100.0,0.5816714845036408,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Maximum Subarray,100.0,0.519731110862124,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Asteroid Collision,100.0,0.45327874824731995,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"

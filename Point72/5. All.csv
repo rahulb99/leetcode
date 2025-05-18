@@ -1,8 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Top Travellers,100.0,0.5714136866801519,https://leetcode.com/problems/top-travellers,Database
-EASY,Weather Type in Each Country,100.0,0.6701875910921656,https://leetcode.com/problems/weather-type-in-each-country,Database
-MEDIUM,Evaluate Boolean Expression,100.0,0.7229349350187306,https://leetcode.com/problems/evaluate-boolean-expression,Database
-MEDIUM,Restaurant Growth,100.0,0.5601378583248813,https://leetcode.com/problems/restaurant-growth,Database
-EASY,Replace Employee ID With The Unique Identifier,100.0,0.8361156815477655,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
-MEDIUM,Advantage Shuffle,63.8,0.531984944848542,https://leetcode.com/problems/advantage-shuffle,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Generate Parentheses,63.8,0.7675047346401691,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Top Travellers,100.0,0.5710431245028611,https://leetcode.com/problems/top-travellers,Database
+EASY,Weather Type in Each Country,100.0,0.6703996760225537,https://leetcode.com/problems/weather-type-in-each-country,Database
+MEDIUM,Evaluate Boolean Expression,100.0,0.7218311308715161,https://leetcode.com/problems/evaluate-boolean-expression,Database
+MEDIUM,Restaurant Growth,100.0,0.5629872728728088,https://leetcode.com/problems/restaurant-growth,Database
+EASY,Replace Employee ID With The Unique Identifier,100.0,0.8362485347896902,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
+MEDIUM,Advantage Shuffle,63.8,0.5326684982081179,https://leetcode.com/problems/advantage-shuffle,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Generate Parentheses,63.8,0.7691606821698873,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+HARD,Sliding Window Median,63.8,0.38636822582873664,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"

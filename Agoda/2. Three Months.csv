@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Absolute Difference,100.0,0.7043592107357238,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
-MEDIUM,Unique Paths II,89.5,0.4288552344082237,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+MEDIUM,Unique Paths II,100.0,0.4300222904724482,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"

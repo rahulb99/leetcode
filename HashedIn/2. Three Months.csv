@@ -1,6 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Cost to Make Array Equal,100.0,0.4618022344114987,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
-MEDIUM,Next Permutation,100.0,0.4258681280335456,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-HARD,Chalkboard XOR Game,100.0,0.6237033195020747,https://leetcode.com/problems/chalkboard-xor-game,"Array, Math, Bit Manipulation, Brainteaser, Game Theory"
-MEDIUM,Jump Game II,100.0,0.41244774905478976,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Edit Distance,100.0,0.5838365181726686,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Edit Distance,100.0,0.5857277432733554,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Container With Most Water,100.0,0.5757793692022902,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

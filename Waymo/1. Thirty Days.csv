@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Max Points on a Line,100.0,0.2861492108315264,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+MEDIUM,Minimum Knight Moves,100.0,0.41261960578782236,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search

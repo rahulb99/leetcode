@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water II,100.0,0.5874033559651468,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
-MEDIUM,The Number of the Smallest Unoccupied Chair,82.7,0.6050328714673685,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair,"Array, Hash Table, Heap (Priority Queue)"
-HARD,Frog Jump,82.7,0.4644193455698241,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
-MEDIUM,Word Break,82.7,0.4802096554655149,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Flatten Deeply Nested Array,82.7,0.6414040309817526,https://leetcode.com/problems/flatten-deeply-nested-array,
+HARD,Trapping Rain Water II,100.0,0.5876493761879394,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+MEDIUM,The Number of the Smallest Unoccupied Chair,82.6,0.6045016393281458,https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair,"Array, Hash Table, Heap (Priority Queue)"
+HARD,Frog Jump,82.6,0.46488407355074335,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
+MEDIUM,Word Break,82.6,0.4813256769223422,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Flatten Deeply Nested Array,82.6,0.6430563755929719,https://leetcode.com/problems/flatten-deeply-nested-array,

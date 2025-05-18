@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Integer to English Words,100.0,0.34274368433674696,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
-MEDIUM,Number of Accounts That Did Not Stream,96.0,0.7228858663512713,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,Database
-MEDIUM,Game of Life,88.3,0.7110373055842727,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-MEDIUM,Product of Array Except Self,88.3,0.6750773214690503,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-HARD,Merge k Sorted Lists,84.9,0.5615811709050746,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Missing Number,81.0,0.6960318791132823,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
-EASY,Find the Index of the First Occurrence in a String,81.0,0.4465244321134611,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
-MEDIUM,Flatten Nested List Iterator,61.1,0.6524345545907242,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,3Sum,61.1,0.36665686432662953,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Integer to English Words,100.0,0.3430774001700852,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Number of Accounts That Did Not Stream,96.0,0.7230249359123746,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,Database
+MEDIUM,Game of Life,88.3,0.712407213443235,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,Product of Array Except Self,88.3,0.6762148655015808,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+HARD,Merge k Sorted Lists,84.9,0.5644435147495711,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Missing Number,81.0,0.6979167005473098,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+EASY,Find the Index of the First Occurrence in a String,81.0,0.4479357579670305,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+MEDIUM,Flatten Nested List Iterator,61.1,0.6517046554282608,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,3Sum,61.1,0.36841069468600934,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

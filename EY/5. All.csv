@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5533917057313129,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Fibonacci Number,100.0,0.7268324622458467,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-MEDIUM,Longest Happy String,100.0,0.6546502911075959,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+EASY,Two Sum,100.0,0.5554858980202204,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Fibonacci Number,100.0,0.7278326395756196,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+MEDIUM,Longest Happy String,100.0,0.6545383744445245,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"

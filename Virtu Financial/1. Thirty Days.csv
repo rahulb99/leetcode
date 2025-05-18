@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Hexspeak,100.0,0.5827324387565064,https://leetcode.com/problems/hexspeak,"Math, String"

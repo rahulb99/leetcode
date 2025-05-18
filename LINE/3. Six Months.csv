@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Cost to Cut a Stick,100.0,0.6179996901556402,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"
+HARD,Minimum Cost to Cut a Stick,100.0,0.6187268079186968,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"
+HARD,Sliding Window Maximum,100.0,0.47465733477691635,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

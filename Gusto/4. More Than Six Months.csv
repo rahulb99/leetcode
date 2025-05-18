@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.4939637607873984,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Add Bold Tag in String,88.2,0.5079299131094902,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching"
+MEDIUM,Time Based Key-Value Store,100.0,0.492950599802474,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Add Bold Tag in String,88.2,0.509185244660362,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching"

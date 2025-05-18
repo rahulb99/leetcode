@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Ways to Form a Target String Given a Dictionary,100.0,0.5718352423739561,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,"Array, String, Dynamic Programming"
-HARD,Minimum Edge Reversals So Every Node Is Reachable,89.0,0.552904073587385,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
-HARD,Count Subarrays With Fixed Bounds,89.0,0.6768140227683798,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
-HARD,Minimum Number of Taps to Open to Water a Garden,89.0,0.5070532166701458,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden,"Array, Dynamic Programming, Greedy"
-HARD,Number of Visible People in a Queue,89.0,0.7073950514317486,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
-MEDIUM,Number of Islands,89.0,0.6186224890470621,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Unique XOR Triplets I,100.0,0.24449059238439644,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
+MEDIUM,Number of Unique XOR Triplets II,100.0,0.28972836247663036,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
+HARD,Count Subarrays With Fixed Bounds,73.8,0.6940780346370282,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+HARD,Number of Ways to Form a Target String Given a Dictionary,73.8,0.571503882341378,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,"Array, String, Dynamic Programming"

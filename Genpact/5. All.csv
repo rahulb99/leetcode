@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Authentication Manager,100.0,0.5801654373338908,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Second Highest Salary,78.9,0.4324756158071878,https://leetcode.com/problems/second-highest-salary,Database
-EASY,Missing Number,78.9,0.6960344796596685,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+MEDIUM,Design Authentication Manager,100.0,0.5766856226096174,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Second Highest Salary,78.9,0.43528679400724796,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Missing Number,78.9,0.6979358375150607,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"

@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,100.0,0.6944162625192782,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
-MEDIUM,Find the Maximum Factor Score of Array,100.0,0.4017895028133936,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
-MEDIUM,Count Almost Equal Pairs I,95.0,0.3737179131784665,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
-EASY,Two Out of Three,84.6,0.7624569652464097,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
-HARD,Bus Routes,73.2,0.4698145949401772,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,Subrectangle Queries,73.2,0.8831894138103799,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
-MEDIUM,Longest Palindromic Substring,64.2,0.35491345938430885,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,100.0,0.6941583164853976,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
+MEDIUM,Find the Maximum Factor Score of Array,100.0,0.4025641025641026,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
+MEDIUM,Count Almost Equal Pairs I,95.0,0.3744713677627319,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
+EASY,Two Out of Three,84.6,0.7642281345142541,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+HARD,Bus Routes,73.2,0.46973237374209426,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,Subrectangle Queries,73.2,0.8592360952815136,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+MEDIUM,Longest Palindromic Substring,64.2,0.35649130864187356,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

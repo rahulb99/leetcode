@@ -1,9 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Check if an Original String Exists Given Two Encoded Strings,100.0,0.43022134405946416,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
-MEDIUM,Gas Station,84.7,0.46099827120381554,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Zigzag Conversion,73.5,0.510727999819932,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Number of Islands,73.5,0.6186228729821405,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Longest Substring with At Most K Distinct Characters,73.5,0.4938696567854459,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Game of Life,64.6,0.7110378449526219,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-HARD,Bus Routes,64.6,0.4698154078915757,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-HARD,Trapping Rain Water,64.6,0.6456501117969954,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Check if an Original String Exists Given Two Encoded Strings,100.0,0.43159451092732065,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+MEDIUM,Gas Station,88.7,0.4622462034537412,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Zigzag Conversion,73.4,0.513227252078982,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Number of Islands,73.4,0.6207007641912252,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Longest Substring with At Most K Distinct Characters,73.4,0.4942540826255029,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Game of Life,64.5,0.712407213443235,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+HARD,Bus Routes,64.5,0.4697290402983185,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+HARD,Trapping Rain Water,64.5,0.6481321568314116,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,LRU Cache,64.5,0.4493741077414478,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.639795831075879,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,Minimum Path Sum,78.3,0.6607199487532085,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.6410070612690997,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Minimum Path Sum,76.6,0.6624732535318242,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"

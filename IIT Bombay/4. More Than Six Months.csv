@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find the Index of the First Occurrence in a String,100.0,0.44652897677886694,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
-MEDIUM,Score After Flipping Matrix,100.0,0.8022304947717945,https://leetcode.com/problems/score-after-flipping-matrix,"Array, Greedy, Bit Manipulation, Matrix"
+EASY,Find the Index of the First Occurrence in a String,100.0,0.44794735203896946,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+MEDIUM,Score After Flipping Matrix,100.0,0.8022567270786725,https://leetcode.com/problems/score-after-flipping-matrix,"Array, Greedy, Bit Manipulation, Matrix"

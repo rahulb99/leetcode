@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Implement Trie (Prefix Tree),100.0,0.6768000016892998,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Insert Delete GetRandom O(1),88.6,0.5496806862736666,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Longest Substring Without Repeating Characters,88.6,0.36543971131516545,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Number of Atoms,88.6,0.6501173535195484,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
-MEDIUM,House Robber II,88.6,0.4328241572935419,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
-MEDIUM,Integer to Roman,88.6,0.6809719529890433,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.6770013699683806,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Longest Substring Without Repeating Characters,88.7,0.3671609396236639,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Number of Atoms,88.7,0.6500320140187703,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
+MEDIUM,House Robber II,88.7,0.4340099864174831,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+MEDIUM,Integer to Roman,88.7,0.6832939726049331,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Top K Frequent Elements,88.7,0.6438806807490871,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5533897762425797,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Accounts Merge,83.6,0.5908756882639241,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
-MEDIUM,3Sum,83.6,0.36665729620204934,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Two Sum,100.0,0.5554798408592168,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,89.9,0.36841335635907896,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

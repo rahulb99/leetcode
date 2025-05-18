@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Block Placement Queries,100.0,0.16084481034084788,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.6115876960902216,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.61572567210846,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
+MEDIUM,Candy Crush,88.7,0.7732019184745978,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+HARD,Block Placement Queries,79.7,0.16508500659533928,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"

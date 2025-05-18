@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Fair Candy Swap,100.0,0.6301618873243147,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
-EASY,Happy Number,89.2,0.5773616445190907,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Course Schedule,89.2,0.48714222217377773,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Minimum Number of Work Sessions to Finish the Tasks,100.0,0.336128006404768,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"

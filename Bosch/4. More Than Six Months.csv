@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Container With Most Water,100.0,0.5740139862388975,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-EASY,Middle of the Linked List,100.0,0.8027588370991378,https://leetcode.com/problems/middle-of-the-linked-list,"Linked List, Two Pointers"
-MEDIUM,3Sum,100.0,0.36665721033037424,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Container With Most Water,100.0,0.575788344158309,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Middle of the Linked List,100.0,0.8039955703123735,https://leetcode.com/problems/middle-of-the-linked-list,"Linked List, Two Pointers"
+MEDIUM,3Sum,100.0,0.3684131018822081,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

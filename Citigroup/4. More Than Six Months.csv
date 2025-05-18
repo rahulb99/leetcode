@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Pivot Index,100.0,0.601428864407598,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+EASY,Find Pivot Index,100.0,0.6035740354649918,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5506646886559803,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

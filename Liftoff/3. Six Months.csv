@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Diagonal Traverse II,100.0,0.5782297551789077,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
+HARD,N-Queens II,100.0,0.7648433421186712,https://leetcode.com/problems/n-queens-ii,Backtracking
+MEDIUM,Diagonal Traverse II,80.8,0.579385153853239,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
+MEDIUM,Diagonal Traverse,80.8,0.6294514537643616,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"

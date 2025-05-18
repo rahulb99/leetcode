@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Length of the Longest Common Prefix,100.0,0.562870302137067,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
-MEDIUM,Rotting Oranges,92.7,0.5618225085699567,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-HARD,Split Message Based on Limit,82.4,0.42962560198850397,https://leetcode.com/problems/split-message-based-on-limit,"String, Binary Search, Enumeration"
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,82.4,0.6116188338410561,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
+MEDIUM,Find the Length of the Longest Common Prefix,100.0,0.5634797412076732,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
+MEDIUM,Rotting Oranges,92.7,0.5635941648557551,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Split Message Based on Limit,82.4,0.42915144133170924,https://leetcode.com/problems/split-message-based-on-limit,"String, Binary Search, Enumeration"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,82.4,0.6156861740289024,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"

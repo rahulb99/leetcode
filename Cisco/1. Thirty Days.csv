@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Implement Router,100.0,0.21052631578947367,https://leetcode.com/problems/implement-router,"Array, Hash Table, Binary Search, Design, Queue, Ordered Set"
-MEDIUM,LRU Cache,67.3,0.4471777500820861,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,House Robber,100.0,0.5218919174397008,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"

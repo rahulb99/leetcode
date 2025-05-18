@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Summary Ranges,100.0,0.5289370799329934,https://leetcode.com/problems/summary-ranges,Array

@@ -1,8 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Scramble String,100.0,0.4183312190243076,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
-MEDIUM,Spiral Matrix,72.1,0.5330448087255908,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,House Robber II,58.7,0.43282299269254404,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
-MEDIUM,Generate Parentheses,58.7,0.7675113320027446,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Majority Element II,58.7,0.5392076258007972,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
-HARD,Number of Great Partitions,58.7,0.32245453492412834,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
-MEDIUM,Minimum Size Subarray Sum,58.7,0.4896588053316837,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Scramble String,100.0,0.42023065909839596,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+MEDIUM,Spiral Matrix,72.2,0.5357609966476942,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Majority Element II,58.9,0.5410231928050302,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
+HARD,Number of Great Partitions,58.9,0.3224659498207885,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+MEDIUM,Minimum Size Subarray Sum,58.9,0.4915420384911291,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"

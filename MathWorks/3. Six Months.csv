@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Pass the Pillow,100.0,0.5656510174151131,https://leetcode.com/problems/pass-the-pillow,"Math, Simulation"
-HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.552904073587385,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
-HARD,Count Subarrays With Fixed Bounds,89.1,0.6768140227683798,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
-MEDIUM,Number of Divisible Triplet Sums,89.1,0.6724581724581724,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+HARD,Binary Tree Cameras,100.0,0.47091557001503814,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.29938012816673654,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Shopping Offers,100.0,0.5184130924333524,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+EASY,Pass the Pillow,73.5,0.565416655135195,https://leetcode.com/problems/pass-the-pillow,"Math, Simulation"
+HARD,Count Subarrays With Fixed Bounds,64.6,0.694084085488472,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+HARD,Minimum Edge Reversals So Every Node Is Reachable,64.6,0.5528036661345965,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Number of Divisible Triplet Sums,64.6,0.6758857373574242,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"

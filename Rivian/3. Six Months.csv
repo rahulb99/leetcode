@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Flatten Deeply Nested Array,100.0,0.6414166823889483,https://leetcode.com/problems/flatten-deeply-nested-array,
-HARD,Merge k Sorted Lists,100.0,0.5615807047980972,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,LRU Cache,100.0,0.44718106958451903,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Merge k Sorted Lists,100.0,0.5644411544227029,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,LRU Cache,100.0,0.4493749780104242,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

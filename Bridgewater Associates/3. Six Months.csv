@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Knight Dialer,100.0,0.6106986920732594,https://leetcode.com/problems/knight-dialer,Dynamic Programming

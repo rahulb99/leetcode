@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Random Pick with Weight,100.0,0.4832735855032868,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-MEDIUM,Jump Game,100.0,0.3921423870281633,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Jump Game,100.0,0.3932927451830779,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"

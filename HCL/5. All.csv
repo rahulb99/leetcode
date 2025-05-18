@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42023729124278303,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Substring Without Repeating Characters,94.1,0.36544073209431116,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Two Sum,86.4,0.5533870790003536,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Merge Sorted Array,86.4,0.5249718470233306,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Roman to Integer,75.7,0.644157922738603,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Longest Common Prefix,75.7,0.4510231296081054,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Group Anagrams,75.7,0.7056715295862985,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,3Sum,75.7,0.3666566148639451,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Valid Parentheses,100.0,0.4216032589097401,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,94.0,0.3671677236446286,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,86.3,0.5554747723883633,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Merge Sorted Array,86.3,0.5267942827920047,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Longest Common Prefix,75.5,0.45269783181200896,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Group Anagrams,75.5,0.7072454076637498,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,3Sum,75.5,0.36840937222763787,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Palindrome Number,75.5,0.5903956753306833,https://leetcode.com/problems/palindrome-number,Math

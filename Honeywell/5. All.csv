@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Distance to the Target Element,100.0,0.5428571428571428,https://leetcode.com/problems/minimum-distance-to-the-target-element,Array
-MEDIUM,Count Zero Request Servers,75.5,0.32612325734922915,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
-MEDIUM,Maximum Matrix Sum,67.3,0.6594408550208322,https://leetcode.com/problems/maximum-matrix-sum,"Array, Greedy, Matrix"
+EASY,Minimum Distance to the Target Element,100.0,0.542506377226948,https://leetcode.com/problems/minimum-distance-to-the-target-element,Array
+MEDIUM,Count Zero Request Servers,75.5,0.3299138899288656,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Maximum Matrix Sum,67.3,0.6593996991332172,https://leetcode.com/problems/maximum-matrix-sum,"Array, Greedy, Matrix"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gray Code,100.0,0.6140221774012173,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"
+MEDIUM,3Sum,100.0,0.36840321829685435,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

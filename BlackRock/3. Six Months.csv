@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Happy Number,100.0,0.5773629612304118,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Valid Parentheses,72.9,0.42023674834814273,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Group Anagrams,72.9,0.7056700683870843,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Happy Number,100.0,0.5788775235540063,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Group Anagrams,79.9,0.7072453287209011,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

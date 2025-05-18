@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Circular Queue,100.0,0.5246753973192748,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,Design a Stack With Increment Operation,95.8,0.8045057722614238,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,3Sum,90.7,0.3666565290362654,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,4Sum,90.7,0.37807572629672115,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Number of Islands,84.1,0.6186224845685714,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,Reaching Points,84.1,0.33543937144719216,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Design Circular Queue,100.0,0.5247969755792885,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,Design a Stack With Increment Operation,92.5,0.8012215676785207,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,3Sum,87.5,0.36840933884855614,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,4Sum,87.5,0.3797963900277656,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+HARD,Reaching Points,81.1,0.33578200653079615,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Number of Islands,72.1,0.6207005883978056,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

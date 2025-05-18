@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Create Binary Tree From Descriptions,100.0,0.8164722306338118,https://leetcode.com/problems/create-binary-tree-from-descriptions,"Array, Hash Table, Tree, Binary Tree"
-MEDIUM,Group Employees of the Same Salary,100.0,0.6661468739340188,https://leetcode.com/problems/group-employees-of-the-same-salary,Database
-MEDIUM,Unique Binary Search Trees,85.6,0.622309565941501,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+MEDIUM,Create Binary Tree From Descriptions,100.0,0.8163022801568723,https://leetcode.com/problems/create-binary-tree-from-descriptions,"Array, Hash Table, Tree, Binary Tree"
+MEDIUM,Group Employees of the Same Salary,100.0,0.6654503552909545,https://leetcode.com/problems/group-employees-of-the-same-salary,Database
+MEDIUM,Unique Binary Search Trees,85.7,0.62340485720106,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"

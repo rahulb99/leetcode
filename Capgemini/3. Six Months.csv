@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Degree of a String,100.0,0.8875875067312871,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
-EASY,Best Time to Buy and Sell Stock,65.3,0.5492494409735325,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Two Sum,65.3,0.5533861191638707,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Remove Duplicates from Sorted Array,65.3,0.5980728520986037,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,Valid Anagram,65.3,0.6633041216009619,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Reverse Degree of a String,100.0,0.8678121102951366,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Remove Duplicates from Sorted Array,74.0,0.6004987278393384,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Best Time to Buy and Sell Stock,65.3,0.550662893217916,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Anagram,65.3,0.6647158059150765,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Trapping Rain Water,65.3,0.6481321954885327,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Add Two Numbers,65.3,0.4594212067071458,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
