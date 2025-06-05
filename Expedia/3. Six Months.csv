@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove Duplicate Letters,100.0,0.5118315587343711,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
-EASY,Roman to Integer,76.6,0.6462075186842547,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Find the Index of the First Occurrence in a String,76.6,0.4479304014265805,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
-EASY,Valid Parentheses,76.6,0.4215999497871301,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Remove Duplicate Letters,100.0,0.5125844372548704,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+EASY,Roman to Integer,81.6,0.6475828989449732,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Find the Index of the First Occurrence in a String,81.6,0.4488842230275102,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+EASY,Valid Parentheses,81.6,0.42245349914632546,https://leetcode.com/problems/valid-parentheses,"String, Stack"

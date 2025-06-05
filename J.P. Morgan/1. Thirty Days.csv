@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Rotate Image,100.0,0.7776112389547049,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"

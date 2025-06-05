@@ -1,9 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7072404124842196,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Button with Longest Push Time,97.9,0.4047227503982732,https://leetcode.com/problems/button-with-longest-push-time,Array
-EASY,Maximum Product of Two Elements in an Array,82.4,0.83176027108625,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array,"Array, Sorting, Heap (Priority Queue)"
-MEDIUM,Rotate Image,82.4,0.7762106658950572,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,Rearrange Array to Maximize Prefix Score,77.5,0.41330862492884224,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
-EASY,Find Resultant Array After Removing Anagrams,62.0,0.59324940104289,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Count Binary Substrings,62.0,0.6586154872361561,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
-MEDIUM,Merge Intervals,62.0,0.4919339547666934,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Group Anagrams,100.0,0.7083639355297109,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Button with Longest Push Time,97.8,0.4053769042143647,https://leetcode.com/problems/button-with-longest-push-time,Array
+MEDIUM,Rotate Image,92.7,0.7776112389547049,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+EASY,Maximum Product of Two Elements in an Array,81.9,0.8320837229402462,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array,"Array, Sorting, Heap (Priority Queue)"
+MEDIUM,Rearrange Array to Maximize Prefix Score,76.8,0.4143526866209881,https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score,"Array, Greedy, Sorting, Prefix Sum"
+EASY,Find Resultant Array After Removing Anagrams,60.9,0.5940244545821308,https://leetcode.com/problems/find-resultant-array-after-removing-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Count Binary Substrings,60.9,0.6588773995378299,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
+MEDIUM,Merge Intervals,60.9,0.49292509550155084,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,LRU Cache,60.9,0.45077420781595073,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Find Occurrences of an Element in an Array,60.9,0.7247460407596694,https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array,"Array, Hash Table"
+EASY,Intersection of Two Arrays,60.9,0.7638776187015333,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+MEDIUM,Set Matrix Zeroes,60.9,0.6055610632329255,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"

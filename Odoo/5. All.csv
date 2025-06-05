@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42161222926372927,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Min Stack,94.7,0.562351158541286,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Evaluate Reverse Polish Notation,78.2,0.5463242704921796,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
-EASY,Reverse String,78.2,0.7965325687277915,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,0.42245649961224435,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Min Stack,94.6,0.5634234259758891,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Evaluate Reverse Polish Notation,78.0,0.5478696484208195,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Reverse String,78.0,0.7970812584381296,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+EASY,Fair Candy Swap,78.0,0.6321700121326213,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"

@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Circular Queue,100.0,0.5247969755792885,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,3Sum,94.5,0.36840933884855614,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,4Sum,94.5,0.3797963900277656,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Design a Stack With Increment Operation,81.7,0.8012215676785207,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,Design Hit Counter,70.2,0.6913398050572394,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Number of Islands,70.2,0.6207005883978056,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,Reaching Points,70.2,0.33578200653079615,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,LRU Cache,64.2,0.4493746870197372,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Game of Life,55.9,0.7124068496425784,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-EASY,Fizz Buzz,55.9,0.7421995957443849,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+MEDIUM,Design Circular Queue,100.0,0.5256609260801247,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,3Sum,94.4,0.3695631394141532,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,4Sum,94.4,0.38091050297879725,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Design a Stack With Increment Operation,84.4,0.8013256028637272,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+HARD,Reaching Points,78.4,0.33607392872057157,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Design Hit Counter,74.6,0.6918615176111984,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Number of Islands,70.0,0.6219974592323763,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,LRU Cache,64.1,0.45077779714502947,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Game of Life,55.7,0.7134307884214612,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+EASY,Fizz Buzz,55.7,0.7430928060681762,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"

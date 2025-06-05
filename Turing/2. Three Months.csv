@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36716659427985104,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4328325807572074,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
-MEDIUM,Minimum Cost For Tickets,82.5,0.6740882476872088,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-MEDIUM,Sum of Digit Differences of All Pairs,82.5,0.4235819836097309,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
-MEDIUM,Minimum Length of Anagram Concatenation,82.5,0.39660964189828923,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.4331617869653591,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Longest Substring Without Repeating Characters,93.1,0.36822068899252003,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Length of Anagram Concatenation,83.3,0.39703642512326714,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"

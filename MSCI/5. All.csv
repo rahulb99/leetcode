@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7072445801231092,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,Word Ladder,89.6,0.42458358983658556,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Group Anagrams,100.0,0.7083671670282969,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

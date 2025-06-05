@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Total Distance Traveled,100.0,0.4009063214013709,https://leetcode.com/problems/total-distance-traveled,"Math, Simulation"
-MEDIUM,Camelcase Matching,89.4,0.6358528593786945,https://leetcode.com/problems/camelcase-matching,"Array, Two Pointers, String, Trie, String Matching"
-MEDIUM,Group Anagrams,89.4,0.7072439108700075,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Subtree of Another Tree,89.4,0.4978522491447848,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
-MEDIUM,Time Based Key-Value Store,89.4,0.4929474770170522,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+EASY,Total Distance Traveled,100.0,0.40115148626463,https://leetcode.com/problems/total-distance-traveled,"Math, Simulation"
+MEDIUM,Camelcase Matching,89.4,0.6366013071895424,https://leetcode.com/problems/camelcase-matching,"Array, Two Pointers, String, Trie, String Matching"
+MEDIUM,Group Anagrams,89.4,0.7083672529953695,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Subtree of Another Tree,89.4,0.49884209937789564,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+MEDIUM,Time Based Key-Value Store,89.4,0.493331151914824,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"

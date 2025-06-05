@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Spreadsheet,100.0,0.6779453872477128,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
-HARD,Design Excel Sum Formula,80.7,0.43163697901219483,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
-HARD,Number of Visible People in a Queue,66.1,0.7106654560991241,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
-HARD,Median of Two Sorted Arrays,66.1,0.4348817429426213,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Design Spreadsheet,100.0,0.6780301740285393,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
+HARD,Design Excel Sum Formula,66.6,0.4286713764035357,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+HARD,Median of Two Sorted Arrays,66.6,0.4365017639239047,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

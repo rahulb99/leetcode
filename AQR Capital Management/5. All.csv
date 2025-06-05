@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Jump Game VI,100.0,0.45941645187653235,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
-EASY,Missing Number,63.1,0.6979169812723467,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
-EASY,Best Time to Buy and Sell Stock,63.1,0.550664526236226,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Jump Game VI,100.0,0.4597789731051345,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
+EASY,Missing Number,63.1,0.6993093725585008,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+EASY,Best Time to Buy and Sell Stock,63.1,0.5515757559289555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

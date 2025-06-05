@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42160379606093523,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Accounts Merge,100.0,0.5928353063613894,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+EASY,Valid Parentheses,100.0,0.42245490539174374,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Accounts Merge,100.0,0.5941698529783025,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"

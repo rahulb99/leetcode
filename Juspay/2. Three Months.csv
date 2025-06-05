@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Operations on Tree,100.0,0.4310063386402663,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
-HARD,Largest Color Value in a Directed Graph,88.1,0.49462645693484286,https://leetcode.com/problems/largest-color-value-in-a-directed-graph,"Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"
-HARD,Shortest Path in a Weighted Tree,88.1,0.3079837618403248,https://leetcode.com/problems/shortest-path-in-a-weighted-tree,"Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree"
-HARD,Sliding Window Maximum,88.1,0.47465432736210095,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Operations on Tree,100.0,0.4326452615442767,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+HARD,Largest Color Value in a Directed Graph,93.0,0.5774574708790748,https://leetcode.com/problems/largest-color-value-in-a-directed-graph,"Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"
+HARD,Shortest Path in a Weighted Tree,93.0,0.31296361709643233,https://leetcode.com/problems/shortest-path-in-a-weighted-tree,"Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree"
+HARD,Sliding Window Maximum,93.0,0.4753694029904636,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

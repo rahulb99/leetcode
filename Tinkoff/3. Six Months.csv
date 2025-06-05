@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46567805978479543,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-EASY,Two Sum,89.6,0.5554737176148299,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Min Stack,89.6,0.5623468246185023,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46696754708838734,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Two Sum,89.6,0.556802595491062,https://leetcode.com/problems/two-sum,"Array, Hash Table"

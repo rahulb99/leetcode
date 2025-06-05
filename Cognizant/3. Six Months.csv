@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Subarrays of Length Three With a Condition,100.0,0.6201812776317159,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
-MEDIUM,Longest Palindromic Substring,74.5,0.35648970974434646,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Remove Duplicates from Sorted Array,65.9,0.6004991582475047,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Longest Substring Without Repeating Characters,65.9,0.3671677861819304,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.6198454124337529,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+MEDIUM,Longest Palindromic Substring,73.9,0.35744535772103936,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Remove Duplicates from Sorted Array,65.2,0.6020689286824115,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,65.2,0.36822139451336633,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Anagram,65.2,0.6657030534224448,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Second Highest Salary,65.2,0.43706212210537854,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Median of Two Sorted Arrays,65.2,0.43650347589333,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

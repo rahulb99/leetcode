@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Number of Work Sessions to Finish the Tasks,100.0,0.336128006404768,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Two City Scheduling,100.0,0.6765219598882966,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4919570926066378,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Word Abbreviation,92.6,0.618175428441486,https://leetcode.com/problems/word-abbreviation,"Array, String, Greedy, Trie, Sorting"
-MEDIUM,Minesweeper,87.7,0.6798234645090107,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Range Sum Query 2D - Immutable,72.4,0.5631341737737284,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
+MEDIUM,Merge Intervals,100.0,0.4929284955233587,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Word Abbreviation,92.6,0.6186000494682167,https://leetcode.com/problems/word-abbreviation,"Array, String, Greedy, Trie, Sorting"
+MEDIUM,Minesweeper,92.6,0.6805864871377354,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Range Sum Query 2D - Immutable,72.3,0.5641345424018839,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"

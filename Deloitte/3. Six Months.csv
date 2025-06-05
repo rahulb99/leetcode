@@ -1,7 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.43524261739296155,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Merge k Sorted Lists,100.0,0.564431969722915,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Valid Parentheses,100.0,0.4216003751863354,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Palindromic Substring,100.0,0.3564854305719919,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Minimum Time to Repair Cars,87.9,0.5995617097525889,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
-MEDIUM,Container With Most Water,87.9,0.5757717370134228,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Second Highest Salary,100.0,0.43706193034759183,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Merge k Sorted Lists,100.0,0.566080971602941,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,100.0,0.4224536615513174,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Palindromic Substring,100.0,0.357443993419623,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Minimum Time to Repair Cars,88.0,0.5995430414061292,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+MEDIUM,Container With Most Water,88.0,0.5768100368227159,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Merge Intervals,88.0,0.49292612125050733,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,88.0,0.5568026824077307,https://leetcode.com/problems/two-sum,"Array, Hash Table"

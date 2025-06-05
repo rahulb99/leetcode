@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reverse Integer,100.0,0.30007526162301373,https://leetcode.com/problems/reverse-integer,Math
-EASY,Valid Anagram,89.3,0.6633061297638335,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Reverse Integer,100.0,0.30224753332266946,https://leetcode.com/problems/reverse-integer,Math
+EASY,Valid Anagram,100.0,0.6657046728825979,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5515796547525499,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

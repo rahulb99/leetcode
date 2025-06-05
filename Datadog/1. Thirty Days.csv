@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Valid Word Abbreviation,100.0,0.36827098458779906,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"

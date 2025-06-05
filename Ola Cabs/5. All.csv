@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5506693309195219,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Decode String,100.0,0.6097692188787501,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36717471576499483,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5515766386318434,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Decode String,100.0,0.610754576774978,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36822447065436725,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

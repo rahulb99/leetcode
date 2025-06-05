@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Atoms,100.0,0.6500320140187703,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
-MEDIUM,Integer to Roman,100.0,0.6832939726049331,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Implement Trie (Prefix Tree),100.0,0.6770013699683806,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Implement Trie (Prefix Tree),100.0,0.6781136720731421,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+HARD,Number of Atoms,83.2,0.6499277274484427,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
+MEDIUM,Integer to Roman,83.2,0.6848160074727759,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Meeting Rooms II,83.2,0.5211671382522469,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"

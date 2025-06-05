@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Permutation Sequence,100.0,0.4967098839955908,https://leetcode.com/problems/permutation-sequence,"Math, Recursion"
+HARD,Permutation Sequence,100.0,0.49805142648516143,https://leetcode.com/problems/permutation-sequence,"Math, Recursion"
+EASY,Happy Number,100.0,0.5798143268298943,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"

@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reverse Integer,100.0,0.30007523882916076,https://leetcode.com/problems/reverse-integer,Math
-EASY,Best Time to Buy and Sell Stock,100.0,0.5492536265509649,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Two Sum,89.0,0.5533939981785445,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Anagram,89.0,0.6633061297638335,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5515796547525499,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Reverse Integer,89.0,0.30224753332266946,https://leetcode.com/problems/reverse-integer,Math
+EASY,Two Sum,89.0,0.5568054074959768,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Anagram,89.0,0.6657046728825979,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Count Primes,89.0,0.34704154233505724,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"

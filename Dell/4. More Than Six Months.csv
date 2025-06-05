@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4216030637585503,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-HARD,Merge k Sorted Lists,100.0,0.5644412428160542,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Longest Palindromic Substring,88.4,0.3564897968892773,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Parentheses,100.0,0.422454317366608,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Merge k Sorted Lists,100.0,0.5660822690450551,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Longest Palindromic Substring,88.3,0.35744535772103936,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Consecutive Numbers,100.0,0.458608707501533,https://leetcode.com/problems/consecutive-numbers,Database
-EASY,Best Time to Buy and Sell Stock,100.0,0.5506670895761967,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Find Closest Number to Zero,100.0,0.4704729847103684,https://leetcode.com/problems/find-closest-number-to-zero,Array
-MEDIUM,Top K Frequent Elements,100.0,0.6438916656336114,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Consecutive Numbers,100.0,0.45992906276158935,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Best Time to Buy and Sell Stock,100.0,0.5515760049975671,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Find Closest Number to Zero,100.0,0.4710056029845325,https://leetcode.com/problems/find-closest-number-to-zero,Array
+MEDIUM,Top K Frequent Elements,100.0,0.644788135680113,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

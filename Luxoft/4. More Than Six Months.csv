@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5554796205547322,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Regular Expression Matching,83.1,0.2918097227366803,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+EASY,Two Sum,100.0,0.556803981242544,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Regular Expression Matching,89.4,0.2923019517462308,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"

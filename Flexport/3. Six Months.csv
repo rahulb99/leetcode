@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.6097578788426532,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Clone Graph,100.0,0.6195441700895804,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Letter Combinations of a Phone Number,67.4,0.6359981466498627,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Validate IP Address,67.4,0.2776768443697236,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Decode String,100.0,0.6107549088557845,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Clone Graph,100.0,0.6217478908860529,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Letter Combinations of a Phone Number,67.4,0.6373032200940116,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Validate IP Address,67.4,0.2779692049104061,https://leetcode.com/problems/validate-ip-address,String

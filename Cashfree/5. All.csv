@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,House Robber IV,100.0,0.651803457613855,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search"
-MEDIUM,Maximum Erasure Value,100.0,0.5926074047142944,https://leetcode.com/problems/maximum-erasure-value,"Array, Hash Table, Sliding Window"
-MEDIUM,Non-decreasing Array,66.2,0.25042614715596495,https://leetcode.com/problems/non-decreasing-array,Array
+MEDIUM,House Robber IV,100.0,0.6516569280431496,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search"
+MEDIUM,Maximum Erasure Value,100.0,0.5933748725319373,https://leetcode.com/problems/maximum-erasure-value,"Array, Hash Table, Sliding Window"
+MEDIUM,Non-decreasing Array,66.3,0.25061863351820207,https://leetcode.com/problems/non-decreasing-array,Array

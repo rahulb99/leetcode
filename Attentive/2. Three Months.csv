@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5942563367817787,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-HARD,Parse Lisp Expression,88.3,0.5255875060922633,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.5951940016085541,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+HARD,Parse Lisp Expression,86.8,0.5262858227367622,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"

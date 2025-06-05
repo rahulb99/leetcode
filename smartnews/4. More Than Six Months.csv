@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Network Rank,100.0,0.6541422026416959,https://leetcode.com/problems/maximal-network-rank,Graph
-MEDIUM,Largest Palindromic Number,94.8,0.3635841514404301,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
-MEDIUM,LRU Cache,94.8,0.44938334436238486,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,3Sum,78.8,0.36841677287464697,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Maximal Network Rank,100.0,0.6544310238401094,https://leetcode.com/problems/maximal-network-rank,Graph
+MEDIUM,Largest Palindromic Number,94.9,0.3643553374307703,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
+MEDIUM,LRU Cache,94.9,0.45078248223575523,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,3Sum,79.0,0.36956587366663135,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

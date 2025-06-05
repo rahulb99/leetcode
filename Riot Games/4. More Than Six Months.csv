@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Sudoku,100.0,0.6206580971798,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-HARD,Sudoku Solver,90.2,0.637576738385991,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-EASY,Teemo Attacking,79.5,0.5690926598950082,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
+MEDIUM,Valid Sudoku,100.0,0.6216838721436975,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Sudoku Solver,90.2,0.6382480027614085,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+EASY,Teemo Attacking,79.5,0.5690923856868633,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"

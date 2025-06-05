@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Reaching Points,100.0,0.33607392872057157,https://leetcode.com/problems/reaching-points,Math

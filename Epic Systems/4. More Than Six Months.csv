@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Letter Combinations of a Phone Number,100.0,0.6359969514426389,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Additive Number,92.3,0.32448659365026666,https://leetcode.com/problems/additive-number,"String, Backtracking"
-EASY,Valid Parentheses,85.7,0.42160277617878283,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Spiral Matrix,85.7,0.5357416733497352,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-EASY,Self Dividing Numbers,76.0,0.7953533889503898,https://leetcode.com/problems/self-dividing-numbers,Math
-MEDIUM,Word Search,65.5,0.4502719872143545,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Longest Substring Without Repeating Characters,57.1,0.3671675564190091,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Stepping Numbers,57.1,0.4761926417754332,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
-MEDIUM,Bulls and Cows,57.1,0.512631573657377,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
-EASY,Two Sum,57.1,0.5554741474710736,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Angle Between Hands of a Clock,57.1,0.641458874645306,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6373023611739211,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Additive Number,92.9,0.324980749986751,https://leetcode.com/problems/additive-number,"String, Backtracking"
+EASY,Valid Parentheses,84.5,0.4224540287510629,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Spiral Matrix,84.5,0.5375524589433159,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+EASY,Self Dividing Numbers,74.9,0.7957965882393,https://leetcode.com/problems/self-dividing-numbers,Math
+MEDIUM,Word Search,70.3,0.4514571477094856,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Angle Between Hands of a Clock,64.4,0.641602014200495,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+MEDIUM,Longest Substring Without Repeating Characters,56.2,0.36822138898796486,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Stepping Numbers,56.2,0.4767821512787956,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
+MEDIUM,Bulls and Cows,56.2,0.5131936347959811,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+EASY,Two Sum,56.2,0.5568026200139274,https://leetcode.com/problems/two-sum,"Array, Hash Table"

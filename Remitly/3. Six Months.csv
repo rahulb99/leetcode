@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Isomorphic Strings,100.0,0.46684575340591733,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+EASY,Isomorphic Strings,100.0,0.46768790925020753,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Course Schedule II,79.9,0.5327061888279891,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

@@ -1,4 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.61572567210846,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"
-MEDIUM,Candy Crush,88.7,0.7732019184745978,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
-HARD,Block Placement Queries,79.7,0.16508500659533928,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Number of Black Blocks,100.0,0.38365169933019094,https://leetcode.com/problems/number-of-black-blocks,"Array, Hash Table, Enumeration"
+MEDIUM,Rotating the Box,100.0,0.7908581906964526,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+HARD,Block Placement Queries,92.8,0.167845246789334,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Candy Crush,82.6,0.7732829323279046,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+MEDIUM,Number of Adjacent Elements With the Same Color,82.6,0.5551425718406746,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+MEDIUM,Simple Bank System,82.6,0.6144167147469342,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Number of Subarrays That Match a Pattern I,82.6,0.6663886572143453,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i,"Array, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Simplify Path,82.6,0.47656741230230215,https://leetcode.com/problems/simplify-path,"String, Stack"

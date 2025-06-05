@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Integer to English Words,100.0,0.34307658550073183,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
-MEDIUM,Time Based Key-Value Store,82.7,0.492950599802474,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Add Bold Tag in String,75.1,0.509185244660362,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching"
+HARD,Integer to English Words,100.0,0.34328132656771154,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Time Based Key-Value Store,86.6,0.493329540820693,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Add Bold Tag in String,73.2,0.5095830292710614,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching"

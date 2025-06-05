@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.6438795014326872,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Longest Repeating Character Replacement,100.0,0.5705294160293823,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+HARD,Longest Increasing Path in a Matrix,100.0,0.5526953348263627,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"

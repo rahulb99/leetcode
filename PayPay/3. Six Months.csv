@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.5132273881265313,https://leetcode.com/problems/zigzag-conversion,String
-HARD,Block Placement Queries,100.0,0.165072909797025,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+HARD,Block Placement Queries,100.0,0.16785109983079527,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Zigzag Conversion,89.8,0.51464819495002,https://leetcode.com/problems/zigzag-conversion,String

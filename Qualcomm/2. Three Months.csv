@@ -1,2 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5554651398323349,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Linked List,100.0,0.7910864712713933,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,Two Sum,88.5,0.5568024985689113,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Merge Sorted Array,88.5,0.5280220585309233,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Remove Nth Node From End of List,88.5,0.4879397796349907,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Majority Element,88.5,0.6570106435621875,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Count the Number of Fair Pairs,88.5,0.5291407914817602,https://leetcode.com/problems/count-the-number-of-fair-pairs,"Array, Two Pointers, Binary Search, Sorting"

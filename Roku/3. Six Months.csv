@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,24 Game,100.0,0.4990685383790849,https://leetcode.com/problems/24-game,"Array, Math, Backtracking"
+HARD,24 Game,100.0,0.4996748282865162,https://leetcode.com/problems/24-game,"Array, Math, Backtracking"
+EASY,Valid Palindrome II,100.0,0.42944742160923466,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"

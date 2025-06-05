@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6207004942078951,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Longest Palindromic Substring,100.0,0.3564901454685113,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Sorting Three Groups,100.0,0.4172391233235198,https://leetcode.com/problems/sorting-three-groups,"Array, Binary Search, Dynamic Programming"
-HARD,Escape a Large Maze,100.0,0.3520278789080761,https://leetcode.com/problems/escape-a-large-maze,"Array, Hash Table, Depth-First Search, Breadth-First Search"
-MEDIUM,As Far from Land as Possible,100.0,0.517931890303382,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"
-HARD,Minimum Window Substring,100.0,0.4509921525236994,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Number of Islands,100.0,0.6219971863090143,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Longest Palindromic Substring,100.0,0.35744565593724187,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Sorting Three Groups,100.0,0.418046118259361,https://leetcode.com/problems/sorting-three-groups,"Array, Binary Search, Dynamic Programming"
+HARD,Escape a Large Maze,100.0,0.3524988382408855,https://leetcode.com/problems/escape-a-large-maze,"Array, Hash Table, Depth-First Search, Breadth-First Search"
+MEDIUM,As Far from Land as Possible,100.0,0.5181557506784396,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"

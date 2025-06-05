@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.481324287670611,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-EASY,Destination City,100.0,0.7943150029397884,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
-MEDIUM,House Robber,100.0,0.5219017150547425,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,0.7068307350085773,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path"
-MEDIUM,Rabbits in Forest,100.0,0.5830575093090609,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
+MEDIUM,Word Break,100.0,0.48202481694093274,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+EASY,Destination City,100.0,0.7943971329775791,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
+MEDIUM,House Robber,100.0,0.5224416866824387,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,0.7069170887263178,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path"
+MEDIUM,Rabbits in Forest,100.0,0.5827544951117796,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"

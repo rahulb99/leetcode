@@ -1,24 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Capture The Queen,100.0,0.21358501783590964,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
-EASY,Two Sum,94.5,0.5554742269675836,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Reverse Integer,83.0,0.3013923329977087,https://leetcode.com/problems/reverse-integer,Math
-HARD,Median of Two Sorted Arrays,77.5,0.4348890199512067,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Second Highest Salary,77.5,0.43525229118019554,https://leetcode.com/problems/second-highest-salary,Database
-EASY,Remove Duplicates from Sorted Array,77.5,0.6004987658540849,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,Palindrome Number,70.5,0.5903957276256079,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Count Primes,70.5,0.34629443287078177,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
-MEDIUM,Sort Characters By Frequency,70.5,0.739007233289408,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-MEDIUM,Longest Substring Without Repeating Characters,70.5,0.36716766216617897,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,70.5,0.42160278304345167,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Valid Palindrome,70.5,0.5066564331191887,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Kth Largest Element in an Array,70.5,0.6783403628844275,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Merge Sorted Array,60.6,0.5267947623819018,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Climbing Stairs,60.6,0.5347700591457006,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-MEDIUM,Rotate Array,60.6,0.42806641593758044,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-MEDIUM,Jump Game,60.6,0.39329278792598205,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-EASY,Linked List Cycle,60.6,0.5235479577447767,https://leetcode.com/problems/linked-list-cycle,"Hash Table, Linked List, Two Pointers"
-EASY,Roman to Integer,60.6,0.6462156149419457,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Binary Search,60.6,0.5939933815907438,https://leetcode.com/problems/binary-search,"Array, Binary Search"
-EASY,Article Views I,60.6,0.7718797734772486,https://leetcode.com/problems/article-views-i,Database
-EASY,Majority Element,60.6,0.6565316021415917,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-EASY,Create Hello World Function,60.6,0.8213060646374616,https://leetcode.com/problems/create-hello-world-function,
+MEDIUM,Minimum Moves to Capture The Queen,100.0,0.2139316627738615,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
+EASY,Two Sum,94.5,0.556802658377462,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Reverse Integer,83.1,0.3022445919527328,https://leetcode.com/problems/reverse-integer,Math
+EASY,Remove Duplicates from Sorted Array,77.6,0.6020687374758257,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Second Highest Salary,77.6,0.43706224061965265,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Median of Two Sorted Arrays,77.6,0.4365031694586019,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Palindrome Number,70.6,0.5914926969338737,https://leetcode.com/problems/palindrome-number,Math
+EASY,Valid Parentheses,70.6,0.42245405631476596,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Palindrome,70.6,0.5081537458681541,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Count Primes,70.6,0.34703985488492445,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+MEDIUM,Rotate Array,70.6,0.4291056172026858,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,70.6,0.36822138135342597,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Kth Largest Element in an Array,70.6,0.6790776251700382,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Climbing Stairs,60.7,0.5350788208979431,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Sort Characters By Frequency,60.7,0.7398638315871673,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Roman to Integer,60.7,0.6475835743253948,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Linked List Cycle,60.7,0.5246161566443739,https://leetcode.com/problems/linked-list-cycle,"Hash Table, Linked List, Two Pointers"
+MEDIUM,Jump Game,60.7,0.3940145256045411,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+EASY,Binary Search,60.7,0.5948293101039365,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+EASY,Majority Element,60.7,0.657009626807486,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Merge Sorted Array,60.7,0.5280226074861363,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Create Hello World Function,60.7,0.8215053086501795,https://leetcode.com/problems/create-hello-world-function,

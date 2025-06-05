@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.648143519759729,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Monotone Increasing Digits,90.6,0.48650767257351896,https://leetcode.com/problems/monotone-increasing-digits,"Math, Greedy"
-MEDIUM,Basic Calculator II,90.6,0.4562843214523553,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+HARD,Trapping Rain Water,100.0,0.6495043523818871,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Monotone Increasing Digits,90.5,0.4868915332456548,https://leetcode.com/problems/monotone-increasing-digits,"Math, Greedy"
+MEDIUM,Basic Calculator II,90.5,0.4572370594531735,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"

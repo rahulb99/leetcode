@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Letter Combinations of a Phone Number,100.0,0.6359969514426389,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Additive Number,89.5,0.32448659365026666,https://leetcode.com/problems/additive-number,"String, Backtracking"
-MEDIUM,Spiral Matrix,89.5,0.5357416733497352,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Palindromic Substrings,89.5,0.7152193264231066,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Letter Combinations of a Phone Number,100.0,0.6373023611739211,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Spiral Matrix,89.6,0.5375524589433159,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Palindromic Substrings,89.6,0.7160957606786588,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"

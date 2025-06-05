@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sliding Window Maximum,100.0,0.47465432736210095,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Operations on Tree,100.0,0.4310063386402663,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+Difficulty,Title,Frequency,Acceptance Rate,Link

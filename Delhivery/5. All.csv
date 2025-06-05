@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Integer to English Words,100.0,0.3430790294932928,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
-MEDIUM,Min Stack,100.0,0.5623497348457324,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Consecutive Numbers,100.0,0.4586149962865489,https://leetcode.com/problems/consecutive-numbers,Database
+HARD,Integer to English Words,100.0,0.34328249680690975,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Min Stack,100.0,0.5634216450394852,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Consecutive Numbers,100.0,0.4599314952351884,https://leetcode.com/problems/consecutive-numbers,Database

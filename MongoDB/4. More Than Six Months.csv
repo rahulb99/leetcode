@@ -1,11 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Interval,100.0,0.43273026812974213,https://leetcode.com/problems/insert-interval,Array
-EASY,Merge Two Binary Trees,92.1,0.7866254279643137,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,LRU Cache,92.1,0.4493691542889953,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Web Crawler Multithreaded,92.1,0.49972857433670353,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"
-HARD,Merge k Sorted Lists,92.1,0.5644316709792734,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Valid Sudoku,80.9,0.6206535329300849,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,Word Break,80.9,0.4813171092735824,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Search in Rotated Sorted Array,80.9,0.42648704966434975,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-MEDIUM,Stock Price Fluctuation ,80.9,0.4798714104015216,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-MEDIUM,Design Hit Counter,80.9,0.6913369047413036,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Insert Interval,100.0,0.43368219454787477,https://leetcode.com/problems/insert-interval,Array
+EASY,Merge Two Binary Trees,92.0,0.7868551467015213,https://leetcode.com/problems/merge-two-binary-trees,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,LRU Cache,92.0,0.45077483062844304,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Web Crawler Multithreaded,92.0,0.5006749881960192,https://leetcode.com/problems/web-crawler-multithreaded,"Depth-First Search, Breadth-First Search, Concurrency"
+HARD,Merge k Sorted Lists,92.0,0.5660806761129137,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Valid Sudoku,80.9,0.6216840416298782,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Word Break,80.9,0.482022439493283,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Search in Rotated Sorted Array,80.9,0.42739916015868074,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Stock Price Fluctuation ,80.9,0.480788256678094,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Design Hit Counter,80.9,0.6918596259464485,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+HARD,Sliding Window Maximum,80.9,0.47536901168416645,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

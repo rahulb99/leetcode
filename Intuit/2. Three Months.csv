@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Plus One,100.0,0.4738354127987212,https://leetcode.com/problems/plus-one,"Array, Math"
-EASY,Valid Parentheses,88.0,0.4215998146845859,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Coin Change,88.0,0.4623357503199545,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Coin Change,100.0,0.46365276924783977,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+EASY,Valid Parentheses,89.4,0.4224528761226487,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Plus One,89.4,0.47468714231302334,https://leetcode.com/problems/plus-one,"Array, Math"

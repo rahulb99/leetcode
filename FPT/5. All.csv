@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Three Consecutive Integers That Sum to a Given Number,100.0,0.6457578121415133,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number,"Math, Simulation"
-EASY,Two Sum,66.9,0.5554795266247659,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Find Three Consecutive Integers That Sum to a Given Number,100.0,0.6460350797525117,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number,"Math, Simulation"
+EASY,Two Sum,66.7,0.5568038716545041,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,66.7,0.5515758288281756,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gas Station,100.0,0.4622462034537412,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Number of Islands,89.8,0.6207007641912252,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,Trapping Rain Water,89.8,0.6481321568314116,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Gas Station,100.0,0.4630630919606255,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Number of Islands,100.0,0.6219978928052675,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Trapping Rain Water,89.5,0.6495039536255391,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Bus Routes,89.5,0.4696066792068827,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,LRU Cache,89.5,0.4507782126964994,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

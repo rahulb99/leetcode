@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Game of Life,100.0,0.7124165314261789,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-HARD,Design Excel Sum Formula,100.0,0.4316556799553556,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+MEDIUM,Game of Life,100.0,0.7134324120959668,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+HARD,Design Excel Sum Formula,100.0,0.4286713764035357,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"

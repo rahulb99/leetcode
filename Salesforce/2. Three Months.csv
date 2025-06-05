@@ -1,10 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Closest Equal Element Queries,100.0,0.3075836496865896,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
-EASY,Split a String in Balanced Strings,84.4,0.8674399858938512,https://leetcode.com/problems/split-a-string-in-balanced-strings,"String, Greedy, Counting"
-MEDIUM,Minimum Operations to Reduce an Integer to 0,77.4,0.5695584181082431,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
-MEDIUM,String Compression,70.8,0.5782713155821992,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Course Schedule II,60.7,0.5312872731612823,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Zigzag Conversion,60.7,0.5132151761053041,https://leetcode.com/problems/zigzag-conversion,String
-EASY,Backspace String Compare,52.7,0.49457029128191204,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Longest Palindromic Substring,52.7,0.35648361993621724,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Longest Common Subsequence,52.7,0.5815553790534619,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Closest Equal Element Queries,100.0,0.3105140835299015,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
+MEDIUM,Minimum Operations to Reduce an Integer to 0,92.3,0.5713762286333296,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
+MEDIUM,Minimum Time to Visit All Houses,84.2,0.7010463378176383,https://leetcode.com/problems/minimum-time-to-visit-all-houses,"Array, Prefix Sum"
+MEDIUM,String Compression,65.9,0.5795962019962896,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Count Subarrays With Median K,65.9,0.4528775703143465,https://leetcode.com/problems/count-subarrays-with-median-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Longest Common Subsequence,60.1,0.5820504152543147,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Course Schedule II,52.0,0.5327009689233477,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Longest Palindromic Substring,52.0,0.3574417356066926,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Zigzag Conversion,52.0,0.5146459427736891,https://leetcode.com/problems/zigzag-conversion,String
+EASY,Best Time to Buy and Sell Stock,52.0,0.551572006252925,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,LRU Cache,52.0,0.4507742410564095,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Maximum Number of Pairs in Array,100.0,0.7546589906680904,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
-EASY,Two Sum,80.3,0.5554799203465081,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,3Sum,74.1,0.3684135691069089,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Longest Palindromic Substring,65.4,0.3564941026128231,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Monthly Transactions I,65.4,0.5828712670691681,https://leetcode.com/problems/monthly-transactions-i,Database
-MEDIUM,Design a Food Rating System,65.4,0.44855486695958435,https://leetcode.com/problems/design-a-food-rating-system,"Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"
+EASY,Maximum Number of Pairs in Array,100.0,0.7552194565137345,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
+EASY,Two Sum,80.3,0.5568041920312244,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,74.2,0.369564859420053,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Longest Palindromic Substring,65.5,0.35744786666906764,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Design a Food Rating System,65.5,0.4489172279838021,https://leetcode.com/problems/design-a-food-rating-system,"Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"

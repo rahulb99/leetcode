@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sliding Window Maximum,100.0,0.47465733477691635,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-HARD,Sudoku Solver,89.9,0.637581598363865,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-HARD,Frog Jump,89.9,0.4648881767139665,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
-HARD,Minimum Cost to Cut a Stick,89.9,0.6187268079186968,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"
+HARD,Sliding Window Maximum,100.0,0.4753729726607068,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Sudoku Solver,83.7,0.6382511534133299,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+HARD,Frog Jump,83.7,0.46525526632057973,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
+HARD,Minimum Cost to Cut a Stick,83.7,0.6193978379084778,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"

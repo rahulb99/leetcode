@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Flower Planting With No Adjacent,100.0,0.5222009162829684,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Maximum Subarray,100.0,0.5197412315695791,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,3Sum,100.0,0.3684173193049909,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Min Stack,100.0,0.5623497189196848,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Flower Planting With No Adjacent,100.0,0.5230478646915159,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Maximum Subarray,100.0,0.5204005141016068,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,3Sum,100.0,0.3695653264869797,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Min Stack,100.0,0.5634216921466131,https://leetcode.com/problems/min-stack,"Stack, Design"

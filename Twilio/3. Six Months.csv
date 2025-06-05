@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Ways to Make a Fair Array,100.0,0.6436154295566924,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"
-MEDIUM,Top K Frequent Elements,100.0,0.6438883699626513,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Top K Frequent Elements,100.0,0.6447840325051792,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

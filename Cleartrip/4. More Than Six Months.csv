@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Destination City,100.0,0.7943150029397884,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
-MEDIUM,Word Break,100.0,0.481324287670611,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,House Robber,100.0,0.5219017150547425,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+EASY,Destination City,100.0,0.7943971329775791,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
+MEDIUM,Word Break,100.0,0.48202481694093274,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,House Robber,100.0,0.5224416866824387,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"

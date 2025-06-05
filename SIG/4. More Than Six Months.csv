@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Validate Binary Search Tree,100.0,0.34239545317807824,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
-HARD,Text Justification,87.6,0.4781302783678551,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Kth Largest Element in an Array,72.2,0.6783403628844275,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Validate Binary Search Tree,100.0,0.3430345502857438,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+HARD,Text Justification,87.5,0.47978814749570453,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Kth Largest Element in an Array,72.1,0.6790775610023112,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Add Binary,72.1,0.5560650940686486,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"

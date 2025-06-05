@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Window Substring,100.0,0.4509927489425268,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,88.4,0.4216035126537055,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Remove Duplicates from Sorted Array,88.4,0.6005004124267449,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Subarray Sum Equals K,88.4,0.4528306795576977,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Count Number of Ways to Place Houses,88.4,0.42669655594049316,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
-MEDIUM,Longest Substring Without Repeating Characters,88.4,0.3671675759996592,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Minimum Window Substring,100.0,0.45221343826300936,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36822206607492036,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,88.4,0.4224545933255779,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Subarray Sum Equals K,88.4,0.4538267091279249,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Count Number of Ways to Place Houses,88.4,0.42738191632928474,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming

@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reaching Points,100.0,0.3357849981533694,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,LRU Cache,100.0,0.4493741418747015,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Roman to Integer,88.6,0.6462174740715398,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-HARD,LFU Cache,88.6,0.4628013618796393,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Maximum Swap,88.6,0.5179956151568592,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
-EASY,Two Sum,88.6,0.5554756827170134,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Find Median from Data Stream,88.6,0.5311660541405977,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+HARD,Reaching Points,100.0,0.33607690995141487,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,LRU Cache,100.0,0.450778167259444,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Roman to Integer,88.6,0.6475854459398065,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+HARD,LFU Cache,88.6,0.4643845195026297,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximum Swap,88.6,0.5183297714943285,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
+EASY,Two Sum,88.6,0.5568033883149163,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Find Median from Data Stream,88.6,0.5319562664712789,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

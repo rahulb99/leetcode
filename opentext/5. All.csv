@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Largest 3-Same-Digit Number in String,100.0,0.6906820405369658,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-MEDIUM,Longest Substring Without Repeating Characters,74.1,0.3671715823089914,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,74.1,0.42160766531503485,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Two Sum,65.4,0.5554797903004879,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Best Time to Buy and Sell Stock,65.4,0.5506673599943395,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Largest 3-Same-Digit Number in String,100.0,0.6908369061982075,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+MEDIUM,Longest Substring Without Repeating Characters,74.2,0.36822385863706913,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,65.6,0.5568040049979548,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,65.6,0.5515763305566341,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Parentheses,65.6,0.42245532286652837,https://leetcode.com/problems/valid-parentheses,"String, Stack"

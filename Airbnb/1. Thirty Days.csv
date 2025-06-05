@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4781181746104651,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-HARD,Design Excel Sum Formula,60.1,0.43163697901219483,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
-HARD,Maximum Profit in Job Scheduling,60.1,0.5438722159974303,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Text Justification,100.0,0.4797825799928578,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Design Excel Sum Formula,100.0,0.42867869148990634,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"

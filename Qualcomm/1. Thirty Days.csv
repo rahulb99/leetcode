@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Reverse Linked List,100.0,0.7910864712713933,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"

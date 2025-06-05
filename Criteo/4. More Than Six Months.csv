@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Intersection of Two Arrays,100.0,0.7630386745957395,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
-EASY,Flood Fill,89.7,0.6619773838969474,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"
-EASY,Valid Parentheses,89.7,0.42160845767489924,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Merge Sorted Array,89.7,0.5268037995467652,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Intersection of Two Arrays,100.0,0.7638755680635515,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+EASY,Flood Fill,89.6,0.6633141010846988,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Valid Parentheses,89.6,0.4224555537628639,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Merge Sorted Array,89.6,0.5280257544590374,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

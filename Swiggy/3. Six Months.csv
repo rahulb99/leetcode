@@ -1,11 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6832938458342389,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Count Good Meals,100.0,0.3145253061666847,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
-EASY,Next Greater Element I,100.0,0.742726095968887,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-EASY,Happy Number,100.0,0.5788711712270688,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Fair Candy Swap,100.0,0.6313947928891207,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
-MEDIUM,Immediate Food Delivery II,87.4,0.5412008512133967,https://leetcode.com/problems/immediate-food-delivery-ii,Database
-MEDIUM,Daily Temperatures,87.4,0.6721551198956474,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Course Schedule,87.4,0.48945588785460686,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Sort Colors,87.4,0.668327815110245,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
-MEDIUM,Minimum Number of Work Sessions to Finish the Tasks,87.4,0.336128006404768,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Integer to Roman,100.0,0.6848160074727759,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Count Good Meals,100.0,0.31532884062556804,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+EASY,Next Greater Element I,100.0,0.7439667212517673,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+EASY,Happy Number,100.0,0.579814854171405,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Fair Candy Swap,100.0,0.6321700121326213,https://leetcode.com/problems/fair-candy-swap,"Array, Hash Table, Binary Search, Sorting"
+MEDIUM,Immediate Food Delivery II,87.6,0.5423790549752433,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+MEDIUM,Daily Temperatures,87.6,0.6729791448895175,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Course Schedule,87.6,0.49079016703842065,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Sort Colors,87.6,0.674537744176932,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Minimum Number of Work Sessions to Finish the Tasks,87.6,0.33682851182658025,https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Two City Scheduling,87.6,0.6765219598882966,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting"

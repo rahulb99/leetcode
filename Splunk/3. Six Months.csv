@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Median from Data Stream,100.0,0.5311618528382884,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.46567413118773937,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-MEDIUM,Minimum Height Trees,100.0,0.41944748533732273,https://leetcode.com/problems/minimum-height-trees,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Find All Anagrams in a String,100.0,0.5206897316100869,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+HARD,Find Median from Data Stream,100.0,0.5319547687959963,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.4669670340255794,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Minimum Height Trees,100.0,0.4197074445744604,https://leetcode.com/problems/minimum-height-trees,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Find All Anagrams in a String,100.0,0.5213961495840903,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"

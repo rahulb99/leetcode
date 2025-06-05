@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Moving Average from Data Stream,100.0,0.7985217316384555,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Longest Substring Without Repeating Characters,96.8,0.3671607480234838,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,88.8,0.42160007582544085,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Analyze User Website Visit Pattern,88.8,0.43579655354316865,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
-EASY,Two Sum,83.5,0.5554659308057724,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Palindrome,83.5,0.5066483970866904,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-HARD,Find Median from Data Stream,67.1,0.5311618528382884,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-HARD,Leetcodify Similar Friends,67.1,0.4252751375687843,https://leetcode.com/problems/leetcodify-similar-friends,Database
-HARD,Leetcodify Friends Recommendations,67.1,0.27852612073266336,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
-MEDIUM,Kth Largest Element in an Array,67.1,0.6783373305379957,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Ransom Note,67.1,0.6431949265941798,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Moving Average from Data Stream,100.0,0.7990809405993423,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Longest Substring Without Repeating Characters,96.2,0.3682201263613696,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,91.8,0.4224537888952126,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Analyze User Website Visit Pattern,91.8,0.4366796530352157,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, Sorting"
+EASY,Two Sum,86.3,0.5568026308806859,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Palindrome,86.3,0.5081523000887513,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+HARD,Find Median from Data Stream,69.4,0.5319547687959963,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+HARD,Leetcodify Similar Friends,69.4,0.42620108964834075,https://leetcode.com/problems/leetcodify-similar-friends,Database
+HARD,Leetcodify Friends Recommendations,69.4,0.27889959895869976,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
+MEDIUM,Kth Largest Element in an Array,69.4,0.6790764416716373,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Ransom Note,69.4,0.644286145434243,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"

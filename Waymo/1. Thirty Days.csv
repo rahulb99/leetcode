@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Knight Moves,100.0,0.41261960578782236,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Meeting Rooms II,100.0,0.521166879041716,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"

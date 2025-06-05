@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.6481367255379713,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Group Anagrams,100.0,0.7072429805803432,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Two Sum,100.0,0.5554797939054971,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Parentheses,100.0,0.42160766531503485,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Trapping Rain Water,100.0,0.6495041434274698,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Group Anagrams,100.0,0.708367510138054,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,100.0,0.5568039907527419,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,100.0,0.4224553120669605,https://leetcode.com/problems/valid-parentheses,"String, Stack"

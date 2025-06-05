@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42161218857222865,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Min Stack,94.8,0.562351158541286,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Evaluate Reverse Polish Notation,78.6,0.5463242704921796,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Valid Parentheses,100.0,0.42245649961224435,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Min Stack,94.8,0.5634234259758891,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Evaluate Reverse Polish Notation,78.5,0.5478696484208195,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"

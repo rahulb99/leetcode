@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Minimum Time to Break Locks I,100.0,0.3017454433117084,https://leetcode.com/problems/minimum-time-to-break-locks-i,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Depth-First Search, Bitmask"

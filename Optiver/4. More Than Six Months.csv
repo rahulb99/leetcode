@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Number of Days Between Two Dates,100.0,0.5119272117724804,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"
-MEDIUM,LRU Cache,83.5,0.44936905456508597,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Best Time to Buy and Sell Stock,83.5,0.5506581231343427,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Number of Days Between Two Dates,100.0,0.5127572280274376,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"
+MEDIUM,LRU Cache,83.6,0.4507752705608495,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,83.6,0.5515739628175002,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

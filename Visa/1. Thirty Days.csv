@@ -1,9 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Adjacent Elements With the Same Color,100.0,0.5511582186511668,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
-EASY,Two Sum,92.5,0.5554649447450056,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Reverse Linked List,92.5,0.7900447980593179,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-HARD,Block Placement Queries,92.5,0.16508500659533928,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-MEDIUM,3Sum,81.9,0.3684032224799348,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Longest Substring Without Repeating Characters,81.9,0.36716067551319403,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Length of Longest V-Shaped Diagonal Segment,81.9,0.3348780873137079,https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment,"Array, Dynamic Programming, Memoization, Matrix"
-MEDIUM,Rotating the Box,81.9,0.7905035762111885,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Rotating the Box,100.0,0.7908581906964526,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+HARD,Length of Longest V-Shaped Diagonal Segment,87.3,0.3371881968573355,https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment,"Array, Dynamic Programming, Memoization, Matrix"
+HARD,Block Placement Queries,87.3,0.167845246789334,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Simplify Path,87.3,0.47656726363941276,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,77.2,0.36821889158407584,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,LRU Cache,77.2,0.45077411140642554,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

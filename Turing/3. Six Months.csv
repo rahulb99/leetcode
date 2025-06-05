@@ -1,14 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36716660749839103,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Cost For Tickets,81.2,0.6740882476872088,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-MEDIUM,Minimum Length of Anagram Concatenation,81.2,0.39660964189828923,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,81.2,0.4328325807572074,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
-MEDIUM,Validate IP Address,74.5,0.2776768443697236,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,Koko Eating Bananas,74.5,0.49042981667905833,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-EASY,Valid Parentheses,65.1,0.42160258102575676,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Best Time to Buy and Sell Stock,65.1,0.5506628245507285,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Find First and Last Position of Element in Sorted Array,65.1,0.4656781543679404,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-HARD,Race Car,65.1,0.4406120851311741,https://leetcode.com/problems/race-car,Dynamic Programming
-MEDIUM,Jump Game,65.1,0.3932922452738928,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Sum of Digit Differences of All Pairs,65.1,0.4235819836097309,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
-MEDIUM,Minimum Number of Operations to Satisfy Conditions,65.1,0.401980198019802,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions,"Array, Dynamic Programming, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36822068899252003,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,86.6,0.4331617869653591,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Minimum Cost For Tickets,79.7,0.674196700939511,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Validate IP Address,79.7,0.2779692049104061,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Minimum Length of Anagram Concatenation,79.7,0.39703642512326714,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+MEDIUM,Koko Eating Bananas,70.0,0.49052821092090826,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Race Car,70.0,0.44070047269217,https://leetcode.com/problems/race-car,Dynamic Programming
+MEDIUM,Jump Game,70.0,0.39401450303883384,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Sum of Digit Differences of All Pairs,70.0,0.4241632050809129,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
+MEDIUM,Minimum Number of Operations to Satisfy Conditions,70.0,0.40291945982706695,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions,"Array, Dynamic Programming, Matrix"

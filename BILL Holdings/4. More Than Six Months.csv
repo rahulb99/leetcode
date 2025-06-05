@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Basic Calculator,100.0,0.4535325063304011,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Number of Islands,100.0,0.6207161410342884,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Islands,100.0,0.6220011800973283,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

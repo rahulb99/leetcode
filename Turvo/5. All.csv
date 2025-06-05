@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Difficulty of a Job Schedule,100.0,0.596529284164859,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,"Array, Dynamic Programming"
-EASY,Count Good Triplets,100.0,0.8546919363068991,https://leetcode.com/problems/count-good-triplets,"Array, Enumeration"
-HARD,Trapping Rain Water,67.0,0.6481469706233441,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Minimum Difficulty of a Job Schedule,100.0,0.5964941860138366,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,"Array, Dynamic Programming"
+EASY,Count Good Triplets,100.0,0.8547427621410296,https://leetcode.com/problems/count-good-triplets,"Array, Enumeration"
+HARD,Trapping Rain Water,67.0,0.649506420894292,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

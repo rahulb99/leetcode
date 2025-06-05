@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove Duplicates from Sorted Array II,100.0,0.626971083483035,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
-MEDIUM,Replace the Substring for Balanced String,100.0,0.39412348852152573,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
-EASY,Two Sum,100.0,0.5554788513767261,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Replace the Substring for Balanced String,100.0,0.3949348965890843,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
+EASY,Two Sum,89.4,0.5568038832910583,https://leetcode.com/problems/two-sum,"Array, Hash Table"

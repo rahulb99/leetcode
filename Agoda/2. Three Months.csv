@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Unique Paths II,100.0,0.4300222904724482,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+EASY,Backspace String Compare,100.0,0.4947541585398143,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Daily Temperatures,100.0,0.6729784813970366,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,3Sum,100.0,0.369562237612865,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5635877306050295,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Min Stack,88.8,0.562345524820347,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Jump Game,88.8,0.39329712629490454,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Rotting Oranges,100.0,0.5647351229749534,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Min Stack,88.8,0.5634192873883139,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Jump Game,88.8,0.3940150231397249,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"

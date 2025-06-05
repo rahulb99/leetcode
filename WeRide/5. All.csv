@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Edges in Shortest Paths,100.0,0.45410831279677827,https://leetcode.com/problems/find-edges-in-shortest-paths,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
-MEDIUM,Maximize Greatness of an Array,85.4,0.5817020965204347,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-HARD,Maximum Profit in Job Scheduling,80.7,0.5438699929429222,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Longest Increasing Path in a Matrix,74.6,0.5517958911542431,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+HARD,Find Edges in Shortest Paths,100.0,0.4546374869733512,https://leetcode.com/problems/find-edges-in-shortest-paths,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+MEDIUM,Maximize Greatness of an Array,85.4,0.584339303088177,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+HARD,Maximum Profit in Job Scheduling,80.7,0.5439791014083833,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Longest Increasing Path in a Matrix,74.6,0.552696632083057,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"

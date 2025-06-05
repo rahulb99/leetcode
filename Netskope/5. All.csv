@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.4813215414894533,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Merge Intervals,100.0,0.4919450322184633,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Word Break,100.0,0.48202476135477906,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Merge Intervals,100.0,0.49292736492491057,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Palindromic Substrings,100.0,0.7160956451990146,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"

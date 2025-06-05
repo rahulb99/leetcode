@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.5132419281673013,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Rotate Image,100.0,0.7762302258259272,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,Coin Change,92.2,0.462356982375676,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-HARD,Candy,92.2,0.4466225186268332,https://leetcode.com/problems/candy,"Array, Greedy"
-EASY,Transpose Matrix,81.2,0.7409539787824753,https://leetcode.com/problems/transpose-matrix,"Array, Matrix, Simulation"
-MEDIUM,Count and Say,81.2,0.6023716986570977,https://leetcode.com/problems/count-and-say,String
-MEDIUM,Minimum Deletions to Make Character Frequencies Unique,81.2,0.612786600841731,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,"Hash Table, String, Greedy, Sorting"
-MEDIUM,Jump Game II,81.2,0.4135726132839648,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Group Anagrams,81.2,0.707244677141567,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Merge Intervals,81.2,0.491953495843754,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Valid Anagram,81.2,0.6647252044583399,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Zigzag Conversion,100.0,0.5146496502250654,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Rotate Image,100.0,0.7776152914665312,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,Coin Change,92.2,0.4636592861616327,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+HARD,Candy,92.2,0.44794451216469566,https://leetcode.com/problems/candy,"Array, Greedy"
+EASY,Transpose Matrix,81.2,0.7421287513818187,https://leetcode.com/problems/transpose-matrix,"Array, Matrix, Simulation"
+MEDIUM,Count and Say,81.2,0.6037159719686161,https://leetcode.com/problems/count-and-say,String
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,81.2,0.6128642567121161,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,"Hash Table, String, Greedy, Sorting"
+MEDIUM,Jump Game II,81.2,0.41425005184732877,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Group Anagrams,81.2,0.7083669644150903,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Merge Intervals,81.2,0.49292759413633935,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Valid Anagram,81.2,0.6657038718299247,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42160248859768,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Fizz Buzz,88.2,0.7422000461100599,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
-MEDIUM,Subsets,88.2,0.8063831265079425,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
-EASY,Two Sum,88.2,0.5554735984407368,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Anagram,88.2,0.6647149496856971,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Container With Most Water,88.2,0.5757788473627377,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Valid Parentheses,100.0,0.42245378518751414,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Fizz Buzz,88.3,0.7430924983141616,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+MEDIUM,Subsets,88.3,0.8076135070846644,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+EASY,Two Sum,88.3,0.5568026531949779,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Anagram,88.3,0.6657017458952396,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Container With Most Water,88.3,0.5768100314837381,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

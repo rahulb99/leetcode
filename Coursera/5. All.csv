@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.478144242559358,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-HARD,Reaching Points,97.8,0.3357834526865739,https://leetcode.com/problems/reaching-points,Math
-HARD,Number of Music Playlists,97.8,0.5996786772482501,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"
-MEDIUM,Highest Grade For Each Student,97.8,0.7110590198454478,https://leetcode.com/problems/highest-grade-for-each-student,Database
-MEDIUM,Minimum Moves to Equal Array Elements,97.8,0.5764355003026769,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
-EASY,N-th Tribonacci Number,97.8,0.6360459579331175,https://leetcode.com/problems/n-th-tribonacci-number,"Math, Dynamic Programming, Memoization"
-MEDIUM,Minimum Increment to Make Array Unique,97.8,0.6029663757251901,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
-HARD,Special Binary String,97.8,0.6328239019688834,https://leetcode.com/problems/special-binary-string,"String, Recursion"
-MEDIUM,Rank Teams by Votes,86.0,0.5929102381121523,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
-MEDIUM,Search Suggestions System,70.1,0.6504650698535258,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
-HARD,Wildcard Matching,60.8,0.2968831762238455,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+HARD,Text Justification,100.0,0.47979513353536435,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Reaching Points,97.8,0.33607690995141487,https://leetcode.com/problems/reaching-points,Math
+HARD,Number of Music Playlists,97.8,0.5997281931276286,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"
+MEDIUM,Highest Grade For Each Student,97.8,0.7110718620186093,https://leetcode.com/problems/highest-grade-for-each-student,Database
+MEDIUM,Minimum Moves to Equal Array Elements,97.8,0.5767442955152571,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
+EASY,N-th Tribonacci Number,97.8,0.6359666577181933,https://leetcode.com/problems/n-th-tribonacci-number,"Math, Dynamic Programming, Memoization"
+MEDIUM,Minimum Increment to Make Array Unique,97.8,0.6032197215006841,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
+HARD,Special Binary String,97.8,0.6344780594167349,https://leetcode.com/problems/special-binary-string,"String, Recursion"
+MEDIUM,Rank Teams by Votes,89.6,0.5933492871951064,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
+MEDIUM,Search Suggestions System,70.0,0.650544554953288,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+HARD,Wildcard Matching,60.7,0.2978652088703454,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"

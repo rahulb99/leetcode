@@ -1,26 +1,28 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Value of the Rearranged Number,100.0,0.5258541661504919,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
-EASY,Count Subarrays of Length Three With a Condition,100.0,0.6201812776317159,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
-EASY,Palindrome Number,97.4,0.5903957286868953,https://leetcode.com/problems/palindrome-number,Math
-EASY,Fibonacci Number,87.2,0.7278209180605181,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-MEDIUM,Longest Palindromic Substring,77.0,0.3564897700095908,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Two Sum,77.0,0.5554744580805819,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Managers with at Least 5 Direct Reports,69.8,0.48959741317135635,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-MEDIUM,Maximum Subarray,69.8,0.5197366644495418,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Longest Common Prefix,69.8,0.45269682963005076,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Reverse Integer,69.8,0.3013921879450723,https://leetcode.com/problems/reverse-integer,Math
-EASY,Remove Duplicates from Sorted Array,69.8,0.6004991582475047,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,Valid Anagram,69.8,0.6647155797472684,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-EASY,Valid Parentheses,69.8,0.42160305272611676,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Product Sales Analysis I,69.8,0.8440857157076737,https://leetcode.com/problems/product-sales-analysis-i,Database
-EASY,Merge Sorted Array,59.7,0.5267947800139087,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Fizz Buzz,59.7,0.742199820926551,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
-EASY,Students and Examinations,59.7,0.6044330775788577,https://leetcode.com/problems/students-and-examinations,Database
-MEDIUM,Count Primes,59.7,0.34629420278926015,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
-MEDIUM,Consecutive Numbers,59.7,0.4586052897003019,https://leetcode.com/problems/consecutive-numbers,Database
-MEDIUM,3Sum,59.7,0.3684087881714738,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Move Zeroes,59.7,0.6272159557786989,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Binary Search,59.7,0.5939933815907438,https://leetcode.com/problems/binary-search,"Array, Binary Search"
-EASY,Merge Two Sorted Lists,59.7,0.666536285244076,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Happy Number,59.7,0.5788772763892253,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Longest Substring Without Repeating Characters,59.7,0.36716784915615297,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Smallest Value of the Rearranged Number,100.0,0.5266167192429022,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
+EASY,Palindrome Number,100.0,0.591492877478065,https://leetcode.com/problems/palindrome-number,Math
+EASY,Count Subarrays of Length Three With a Condition,100.0,0.6198454124337529,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+EASY,Fibonacci Number,87.1,0.7286208052989811,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Two Sum,76.9,0.5568026598644353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Palindromic Substring,76.9,0.35744535772103936,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Anagram,76.9,0.6657030534224448,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Valid Parentheses,69.7,0.4224543762022572,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Second Highest Salary,69.7,0.43706212210537854,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Reverse Integer,69.7,0.3022449918999205,https://leetcode.com/problems/reverse-integer,Math
+EASY,Product Sales Analysis I,69.7,0.8450646032671655,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Maximum Subarray,69.7,0.5203998972699446,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Managers with at Least 5 Direct Reports,69.7,0.48944722690698056,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Remove Duplicates from Sorted Array,69.7,0.602069005968574,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Longest Common Prefix,69.7,0.45372603627580604,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Students and Examinations,59.5,0.6052514427519513,https://leetcode.com/problems/students-and-examinations,Database
+EASY,Rising Temperature,59.5,0.5013474528391506,https://leetcode.com/problems/rising-temperature,Database
+MEDIUM,Longest Substring Without Repeating Characters,59.5,0.3682214256116925,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,59.5,0.5280226644846822,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Fizz Buzz,59.5,0.7430931587433584,https://leetcode.com/problems/fizz-buzz,"Math, String, Simulation"
+EASY,Happy Number,59.5,0.5798147184952775,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Count Primes,59.5,0.3470400566006073,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+MEDIUM,3Sum,59.5,0.36956301326606217,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Merge Two Sorted Lists,59.5,0.6675286727033827,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Move Zeroes,59.5,0.6276405263352555,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Binary Search,59.5,0.5948287549484518,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+HARD,Median of Two Sorted Arrays,59.5,0.43650347589333,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

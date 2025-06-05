@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Palindromic Substrings,100.0,0.7160954415106143,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"

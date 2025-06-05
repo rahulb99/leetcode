@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Square,100.0,0.4421963166435898,https://leetcode.com/problems/valid-square,"Math, Geometry"
-MEDIUM,Longest Increasing Subsequence,71.1,0.5755304893051483,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-EASY,Maximum Repeating Substring,71.1,0.394765693364581,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
-MEDIUM,Longest Palindromic Substring,63.1,0.35648924542520966,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-HARD,Design Skiplist,63.1,0.57986668312554,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
+MEDIUM,Valid Square,100.0,0.44244633665128835,https://leetcode.com/problems/valid-square,"Math, Geometry"
+MEDIUM,Longest Increasing Subsequence,71.1,0.576771070091834,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+EASY,Maximum Repeating Substring,71.1,0.39543087602126514,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
+MEDIUM,Longest Palindromic Substring,63.1,0.3574445626071691,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+HARD,Design Skiplist,63.1,0.5807907527672262,https://leetcode.com/problems/design-skiplist,"Linked List, Design"

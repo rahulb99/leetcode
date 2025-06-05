@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Regular Expression Matching,100.0,0.29180797826199706,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-HARD,Minimum Number of Visited Cells in a Grid,100.0,0.22721306369440922,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
-HARD,Find Median from Data Stream,100.0,0.5311655523817372,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Meeting Rooms II,100.0,0.5211667592579238,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Regular Expression Matching,89.7,0.2923024294431443,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Minimum Number of Visited Cells in a Grid,89.7,0.22729677305589843,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
+HARD,Find Median from Data Stream,89.7,0.531956052519706,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

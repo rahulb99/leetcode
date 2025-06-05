@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Palindromic Substring,100.0,0.356489682864636,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Second Highest Salary,100.0,0.43706212210537854,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Median of Two Sorted Arrays,100.0,0.43650347589333,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

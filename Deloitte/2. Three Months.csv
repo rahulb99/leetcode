@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Time to Repair Cars,100.0,0.5995617097525889,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
-MEDIUM,Longest Palindromic Substring,100.0,0.3564854305719919,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Container With Most Water,100.0,0.5757717370134228,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Longest Palindromic Substring,100.0,0.357443993419623,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Container With Most Water,100.0,0.5768100368227159,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Merge Intervals,100.0,0.49292612125050733,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Ladder,100.0,0.42456163459999624,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
-MEDIUM,LRU Cache,81.0,0.44936897942302617,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Design Hit Counter,67.7,0.6913361416832299,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Number of Islands,59.8,0.6206911435676878,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Number of Ways to Buy Pens and Pencils,59.8,0.5582557085153739,https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils,"Math, Enumeration"
-EASY,Logger Rate Limiter,59.8,0.7656117987104425,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Word Ladder,100.0,0.42628566882308944,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,LRU Cache,81.0,0.4507752705608495,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design Hit Counter,67.7,0.6918588721120256,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Number of Islands,59.8,0.621996783765543,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Ways to Buy Pens and Pencils,59.8,0.5586965056929721,https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils,"Math, Enumeration"
+EASY,Logger Rate Limiter,59.8,0.7658714299536825,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

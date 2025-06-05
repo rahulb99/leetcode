@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.49194512177190114,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Minimum Total Cost to Make Arrays Unequal,100.0,0.4032742565334935,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal,"Array, Hash Table, Greedy, Counting"
-MEDIUM,Most Beautiful Item for Each Query,100.0,0.6204523402254699,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
-MEDIUM,Two Best Non-Overlapping Events,100.0,0.6089022788543514,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
-EASY,Excel Sheet Column Number,100.0,0.6556318450612781,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"
-MEDIUM,Container With Most Water,100.0,0.575788205024581,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Merge Intervals,100.0,0.4929275304081727,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Minimum Total Cost to Make Arrays Unequal,100.0,0.40400296515937734,https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal,"Array, Hash Table, Greedy, Counting"
+MEDIUM,Most Beautiful Item for Each Query,100.0,0.6204042559556455,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
+MEDIUM,Two Best Non-Overlapping Events,100.0,0.6085076652597942,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
+EASY,Excel Sheet Column Number,100.0,0.6566658879106864,https://leetcode.com/problems/excel-sheet-column-number,"Math, String"
+MEDIUM,Container With Most Water,100.0,0.5768121652159802,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

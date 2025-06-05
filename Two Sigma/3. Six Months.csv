@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Search II,100.0,0.3720008563884198,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
-HARD,Merge k Sorted Lists,78.6,0.5644309332494434,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-HARD,Parallel Courses III,78.6,0.667584907798204,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
-MEDIUM,Multiply Strings,78.6,0.4214938469181812,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+HARD,Word Search II,100.0,0.37263275964873993,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+HARD,Parallel Courses III,83.2,0.6675586315111098,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"

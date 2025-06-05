@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize the Number of Partitions After Operations,100.0,0.2732809962100704,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations,"String, Dynamic Programming, Bit Manipulation, Bitmask"
-HARD,Maximum GCD-Sum of a Subarray,100.0,0.364010989010989,https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray,"Array, Math, Binary Search, Number Theory"
-HARD,Number of Subarrays That Match a Pattern II,100.0,0.3191904664064105,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii,"Array, Rolling Hash, String Matching, Hash Function"
-MEDIUM,Longest Substring Without Repeating Characters,64.5,0.36717077797615266,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Best Time to Buy and Sell Stock,64.5,0.5506670487114047,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Valid Parentheses,64.5,0.42160721302870724,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Palindromic Substring,64.5,0.3564945258572695,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Number of Bit Changes to Make Two Integers Equal,64.5,0.6254352579156207,https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal,Bit Manipulation
+HARD,Maximize the Number of Partitions After Operations,100.0,0.2739054525919957,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations,"String, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Maximum GCD-Sum of a Subarray,100.0,0.35949027498323277,https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray,"Array, Math, Binary Search, Number Theory"
+HARD,Number of Subarrays That Match a Pattern II,100.0,0.32032408117364414,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii,"Array, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Longest Substring Without Repeating Characters,64.5,0.3682227173952262,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,64.5,0.5515755743039622,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Parentheses,64.5,0.4224548074653916,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Palindromic Substring,64.5,0.3574469803292566,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Number of Bit Changes to Make Two Integers Equal,64.5,0.6259096157460863,https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal,Bit Manipulation

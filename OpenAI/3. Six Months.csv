@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design SQL,100.0,0.706932883784638,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
-MEDIUM,Flatten Nested List Iterator,82.2,0.6516974806734883,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Time Based Key-Value Store,60.8,0.49294801402067745,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-EASY,Largest Local Values in a Matrix,60.8,0.877645839086474,https://leetcode.com/problems/largest-local-values-in-a-matrix,"Array, Matrix"
-MEDIUM,Asteroid Collision,60.8,0.4532791828136865,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Design Memory Allocator,60.8,0.4825474586650337,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
+MEDIUM,Design SQL,100.0,0.7033649959579629,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
+MEDIUM,Flatten Nested List Iterator,80.2,0.6521016401222325,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Time Based Key-Value Store,59.3,0.4933282654497034,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Asteroid Collision,59.3,0.45406867593684375,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Design Memory Allocator,59.3,0.48458753119078435,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"

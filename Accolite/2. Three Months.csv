@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5554788549816904,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Two Sum,100.0,0.5568038690457632,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Replace the Substring for Balanced String,100.0,0.3949348965890843,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"

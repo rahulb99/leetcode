@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.5132419281673013,https://leetcode.com/problems/zigzag-conversion,String
-HARD,Trapping Rain Water,92.4,0.6481431056775623,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Best Time to Buy and Sell Stock,92.4,0.5506699835646648,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Minimum Time Difference,81.7,0.6232718625416734,https://leetcode.com/problems/minimum-time-difference,"Array, Math, String, Sorting"
+MEDIUM,Zigzag Conversion,100.0,0.5146497922092055,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Trapping Rain Water,92.4,0.6495057963324722,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Best Time to Buy and Sell Stock,92.4,0.5515772032074344,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minimum Time Difference,81.7,0.6233611626768047,https://leetcode.com/problems/minimum-time-difference,"Array, Math, String, Sorting"

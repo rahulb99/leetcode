@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.4111659157880762,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Remove K Digits,84.0,0.3472623672746348,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Largest Number,100.0,0.41195171717136914,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+MEDIUM,Remove K Digits,83.6,0.34811553609784346,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

@@ -1,10 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Hit Counter,100.0,0.691337270675372,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,House Robber,88.3,0.5218918934701332,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-MEDIUM,Design Tic-Tac-Toe,88.3,0.5855414829692378,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,House Robber II,85.9,0.43400961994037984,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
-MEDIUM,IP to CIDR,83.2,0.5518210518210518,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"
-MEDIUM,Snapshot Array,80.1,0.36676722694550806,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
-MEDIUM,String to Integer (atoi),57.8,0.19028076080095974,https://leetcode.com/problems/string-to-integer-atoi,String
-EASY,Number of Recent Calls,57.8,0.7716580674966904,https://leetcode.com/problems/number-of-recent-calls,"Design, Queue, Data Stream"
-MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,57.8,0.5627491205216808,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another,"String, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Design Hit Counter,100.0,0.6918584880503577,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,IP to CIDR,95.8,0.5507489743345101,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"
+MEDIUM,House Robber II,83.2,0.43477593113507657,https://leetcode.com/problems/house-robber-ii,"Array, Dynamic Programming"
+MEDIUM,House Robber,83.2,0.5224410855771533,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Design Tic-Tac-Toe,83.2,0.58576965737978,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Snapshot Array,80.0,0.3666383300841386,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,57.7,0.562885650009944,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another,"String, Tree, Depth-First Search, Binary Tree"
+EASY,Number of Recent Calls,57.7,0.7724765766437451,https://leetcode.com/problems/number-of-recent-calls,"Design, Queue, Data Stream"

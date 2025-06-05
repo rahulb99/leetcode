@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.49194512177190114,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Max Area of Island,100.0,0.7306326440018981,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Merge Intervals,100.0,0.4929274520389243,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Max Area of Island,100.0,0.731092402169231,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

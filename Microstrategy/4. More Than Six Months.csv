@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.513233510016565,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Airplane Seat Assignment Probability,79.6,0.6662333219295244,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+MEDIUM,Zigzag Conversion,100.0,0.5146477995608922,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Airplane Seat Assignment Probability,79.3,0.666150018354611,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+EASY,Backspace String Compare,79.3,0.49475576849642505,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"

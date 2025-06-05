@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,"Pow(x, n)",100.0,0.36855425764473254,https://leetcode.com/problems/powx-n,"Math, Recursion"
-MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6317219628099612,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
-MEDIUM,Broken Calculator,100.0,0.5504507965652644,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.21550860332065555,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
-EASY,Valid Parentheses,100.0,0.4216028389414116,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,"Pow(x, n)",100.0,0.36941114934113595,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6337877865274065,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
+MEDIUM,Broken Calculator,100.0,0.550903234144935,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.21659350446087447,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+EASY,Valid Parentheses,100.0,0.4224540797688317,https://leetcode.com/problems/valid-parentheses,"String, Stack"

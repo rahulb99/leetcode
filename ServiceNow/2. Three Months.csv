@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Container With Most Water,100.0,0.5757714978909403,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Number of Distinct Islands,88.4,0.6214571122826652,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
-MEDIUM,Next Permutation,88.4,0.42792963515945026,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-HARD,Trapping Rain Water,88.4,0.6481189113860532,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Container With Most Water,100.0,0.5768095886075546,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Next Permutation,88.8,0.4292065716051464,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Trapping Rain Water,88.8,0.649501837566537,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Optimal Account Balancing,100.0,0.4984078498047635,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Number of Divisible Triplet Sums,100.0,0.675882946518668,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
-MEDIUM,Minimum Increment to Make Array Unique,100.0,0.6029659596765438,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
-HARD,Word Ladder,100.0,0.4245699268549539,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Number of Divisible Triplet Sums,100.0,0.6776315789473685,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
+MEDIUM,Minimum Increment to Make Array Unique,100.0,0.6032187870909399,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
+HARD,Word Ladder,100.0,0.42628798199185153,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

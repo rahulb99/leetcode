@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7072496603949403,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Longest Common Subsequence,94.7,0.581550945332048,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
-MEDIUM,LRU Cache,78.2,0.4493855473979622,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Diagonal Traverse II,78.2,0.5793836637960047,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
+MEDIUM,Group Anagrams,100.0,0.7083662864115154,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Common Subsequence,94.7,0.5820521009351348,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,LRU Cache,78.2,0.4507827980123421,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Diagonal Traverse II,78.2,0.579914556984298,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"

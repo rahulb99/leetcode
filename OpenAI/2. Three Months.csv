@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design SQL,100.0,0.706932883784638,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
-MEDIUM,Flatten Nested List Iterator,82.9,0.6516974806734883,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Asteroid Collision,65.1,0.4532791828136865,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Design Memory Allocator,65.1,0.4825474586650337,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
+MEDIUM,Design SQL,100.0,0.7033649959579629,https://leetcode.com/problems/design-sql,"Array, Hash Table, String, Design"
+MEDIUM,Flatten Nested List Iterator,83.2,0.6521016401222325,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

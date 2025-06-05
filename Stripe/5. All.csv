@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Penalty for a Shop,100.0,0.6755553117972908,https://leetcode.com/problems/minimum-penalty-for-a-shop,"String, Prefix Sum"
-MEDIUM,Evaluate Division,67.2,0.6298750931546463,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-MEDIUM,Cheapest Flights Within K Stops,55.6,0.4025037239463752,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
-HARD,Optimal Account Balancing,50.7,0.49840544071313303,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Brace Expansion,50.7,0.6667840228958216,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"
-HARD,Parallel Courses III,43.9,0.667584907798204,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"
+MEDIUM,Minimum Penalty for a Shop,100.0,0.6757898754191315,https://leetcode.com/problems/minimum-penalty-for-a-shop,"String, Prefix Sum"
+MEDIUM,Evaluate Division,67.9,0.6307151736453642,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,Cheapest Flights Within K Stops,56.1,0.4031438732722129,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+HARD,Optimal Account Balancing,51.2,0.49873988086146326,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Brace Expansion,51.2,0.6669603723284081,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"
+HARD,Parallel Courses III,44.4,0.6675586315111098,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph, Topological Sort"

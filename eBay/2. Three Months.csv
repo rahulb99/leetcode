@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.44936796981227217,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Matchsticks to Square,82.2,0.40822860419553686,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Time Based Key-Value Store,82.2,0.49294715208755124,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,"Pow(x, n)",100.0,0.3694083809464792,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Matchsticks to Square,88.7,0.40879829484718194,https://leetcode.com/problems/matchsticks-to-square,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Time Based Key-Value Store,88.7,0.4933274040014599,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Rotting Oranges,88.7,0.5647295322304309,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Open the Lock,88.7,0.6070573545410402,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"

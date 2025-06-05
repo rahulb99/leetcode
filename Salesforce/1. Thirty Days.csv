@@ -1,3 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Closest Equal Element Queries,100.0,0.3075836496865896,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
-MEDIUM,Minimum Operations to Reduce an Integer to 0,84.0,0.5695584181082431,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
+MEDIUM,Minimum Operations to Reduce an Integer to 0,100.0,0.5713762286333296,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
+MEDIUM,Closest Equal Element Queries,97.9,0.3105140835299015,https://leetcode.com/problems/closest-equal-element-queries,"Array, Hash Table, Binary Search"
+MEDIUM,Minimum Time to Visit All Houses,97.9,0.7010463378176383,https://leetcode.com/problems/minimum-time-to-visit-all-houses,"Array, Prefix Sum"
+HARD,Count Subarrays With Median K,78.1,0.4528775703143465,https://leetcode.com/problems/count-subarrays-with-median-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Longest Common Subsequence,63.1,0.5820504152543147,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,String Compression,63.1,0.5795962019962896,https://leetcode.com/problems/string-compression,"Two Pointers, String"

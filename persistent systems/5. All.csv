@@ -1,10 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Bit Flips to Convert Number,100.0,0.8751840488026665,https://leetcode.com/problems/minimum-bit-flips-to-convert-number,Bit Manipulation
-MEDIUM,Group Anagrams,84.6,0.7072439108700075,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Valid Parentheses,79.7,0.4216082708943754,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Palindrome Number,73.3,0.5904066390914808,https://leetcode.com/problems/palindrome-number,Math
-EASY,Valid Anagram,64.3,0.6647232986261942,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Maximum Subarray,64.3,0.5197412482924266,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Two Sum,64.3,0.5554847421954018,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,64.3,0.36717421395494343,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Palindromic Substring,64.3,0.3564954114127489,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Minimum Bit Flips to Convert Number,100.0,0.8754474148540248,https://leetcode.com/problems/minimum-bit-flips-to-convert-number,Bit Manipulation
+MEDIUM,Group Anagrams,84.6,0.708367362049082,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Palindrome Number,73.2,0.5914952924566691,https://leetcode.com/problems/palindrome-number,Math
+EASY,Valid Parentheses,73.2,0.42245535155346386,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Anagram,64.2,0.66570275003546,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Maximum Subarray,64.2,0.5204002629372809,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Two Sum,64.2,0.5568044228830702,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,64.2,0.3682242216892833,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Substring,64.2,0.35744793934492436,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Merge Sorted Array,64.2,0.5280255281788343,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

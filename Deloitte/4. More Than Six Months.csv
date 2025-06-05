@@ -1,16 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5554662594643603,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Palindrome Number,75.5,0.5903912432039777,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Reverse Integer,75.5,0.30138660809960166,https://leetcode.com/problems/reverse-integer,Math
-HARD,Merge k Sorted Lists,75.5,0.564431969722915,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Valid Parentheses,65.5,0.4216003751863354,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Pascal's Triangle,65.5,0.7679884205805333,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-EASY,Climbing Stairs,65.5,0.5347680137509864,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-MEDIUM,Maximum Subarray,65.5,0.51973145719788,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Change Null Values in a Table to the Previous Value,65.5,0.514088973452931,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
-EASY,Majority Element,65.5,0.6565324700626286,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-MEDIUM,Managers with at Least 5 Direct Reports,65.5,0.48960022895113214,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-EASY,Best Time to Buy and Sell Stock,65.5,0.5506578187390433,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Find Customer Referee,65.5,0.717295760380334,https://leetcode.com/problems/find-customer-referee,Database
-EASY,Article Views I,65.5,0.7718781785082633,https://leetcode.com/problems/article-views-i,Database
-EASY,Longest Common Prefix,65.5,0.4526924720833879,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Two Sum,100.0,0.5568026966533387,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Palindrome Number,75.4,0.5914920794434303,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Reverse Integer,75.4,0.30224377456897683,https://leetcode.com/problems/reverse-integer,Math
+HARD,Merge k Sorted Lists,75.4,0.566080971602941,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,65.2,0.4224536615513174,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Pascal's Triangle,65.2,0.7691376883109343,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Climbing Stairs,65.2,0.5350786269942202,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Change Null Values in a Table to the Previous Value,65.2,0.5144570763584281,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
+EASY,Majority Element,65.2,0.6570100828115656,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Managers with at Least 5 Direct Reports,65.2,0.4894481642978776,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,Best Time to Buy and Sell Stock,65.2,0.5515738378517399,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Find Customer Referee,65.2,0.7174969928620937,https://leetcode.com/problems/find-customer-referee,Database
+EASY,Article Views I,65.2,0.7720152313628765,https://leetcode.com/problems/article-views-i,Database
+EASY,Longest Common Prefix,65.2,0.45372664196734414,https://leetcode.com/problems/longest-common-prefix,"String, Trie"

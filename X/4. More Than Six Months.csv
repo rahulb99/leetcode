@@ -1,50 +1,50 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5492714631126066,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Flatten Nested List Iterator,91.0,0.6516991969156504,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Merge Intervals,91.0,0.4919332722268555,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-HARD,Trapping Rain Water,85.0,0.6481190753359953,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Implement Trie (Prefix Tree),85.0,0.6770012182141728,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Tweet Counts Per Frequency,85.0,0.45202121775856,https://leetcode.com/problems/tweet-counts-per-frequency,"Hash Table, Binary Search, Design, Sorting, Ordered Set"
-MEDIUM,Design Twitter,85.0,0.42370677360358394,https://leetcode.com/problems/design-twitter,"Hash Table, Linked List, Design, Heap (Priority Queue)"
-MEDIUM,Investments in 2016,77.4,0.4996269075267139,https://leetcode.com/problems/investments-in-2016,Database
-HARD,Best Meeting Point,77.4,0.6124298145240693,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"
-HARD,The Skyline Problem,66.6,0.43848070697541375,https://leetcode.com/problems/the-skyline-problem,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
-MEDIUM,Rectangles Area,66.6,0.6870726029390368,https://leetcode.com/problems/rectangles-area,Database
-EASY,Happy Number,66.6,0.5788713195201745,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Customer Placing the Largest Number of Orders,66.6,0.6439268295447246,https://leetcode.com/problems/customer-placing-the-largest-number-of-orders,Database
-MEDIUM,Number of Black Blocks,66.6,0.38025149585639784,https://leetcode.com/problems/number-of-black-blocks,"Array, Hash Table, Enumeration"
-EASY,Reverse Linked List,66.6,0.790045117021991,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-MEDIUM,Validate IP Address,66.6,0.277671821849418,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,Tree Node,66.6,0.7373133409516774,https://leetcode.com/problems/tree-node,Database
-MEDIUM,Masking Personal Information,66.6,0.5039316909538435,https://leetcode.com/problems/masking-personal-information,String
-MEDIUM,Process Tasks Using Servers,66.6,0.4095165572454671,https://leetcode.com/problems/process-tasks-using-servers,"Array, Heap (Priority Queue)"
-MEDIUM,Number of Connected Components in an Undirected Graph,66.6,0.6409943179534988,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,Remove All Occurrences of a Substring,66.6,0.7803061530390467,https://leetcode.com/problems/remove-all-occurrences-of-a-substring,"String, Stack, Simulation"
-MEDIUM,Lowest Common Ancestor of a Binary Search Tree,66.6,0.6798330215317399,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
-MEDIUM,Design Authentication Manager,66.6,0.5766618911174786,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Count Sub Islands,66.6,0.7279401584083898,https://leetcode.com/problems/count-sub-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Pascal's Triangle,66.6,0.7679881007126811,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-MEDIUM,Minimum Elements to Add to Form a Given Sum,66.6,0.4423901922421066,https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum,"Array, Greedy"
-MEDIUM,Kth Smallest Element in a Sorted Matrix,66.6,0.6344292856918246,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
-MEDIUM,Count Student Number in Departments,66.6,0.5971886864548019,https://leetcode.com/problems/count-student-number-in-departments,Database
-MEDIUM,Minimum Genetic Mutation,66.6,0.5530613193810553,https://leetcode.com/problems/minimum-genetic-mutation,"Hash Table, String, Breadth-First Search"
-MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,66.6,0.821256554282131,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,"Hash Table, String, Counting"
-HARD,Permutation Sequence,66.6,0.4967040442778241,https://leetcode.com/problems/permutation-sequence,"Math, Recursion"
-EASY,Binary Gap,66.6,0.6452825604233177,https://leetcode.com/problems/binary-gap,Bit Manipulation
-HARD,Regular Expression Matching,66.6,0.2917983113714329,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-MEDIUM,Integer to Roman,66.6,0.6832934854876588,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-HARD,Word Break II,66.6,0.5339045700377414,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
-HARD,Alien Dictionary,66.6,0.36595287601625176,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,LRU Cache,66.6,0.4493678413873448,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Time Needed to Buy Tickets,66.6,0.7056449901384577,https://leetcode.com/problems/time-needed-to-buy-tickets,"Array, Queue, Simulation"
-EASY,Valid Parentheses,66.6,0.4216001209163637,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-HARD,Max Points on a Line,66.6,0.28776474860230267,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
-HARD,Merge k Sorted Lists,66.6,0.564431021632472,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-HARD,Trapping Rain Water II,66.6,0.5876456485491875,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
-MEDIUM,Finding the Users Active Minutes,66.6,0.8044113606274823,https://leetcode.com/problems/finding-the-users-active-minutes,"Array, Hash Table"
-MEDIUM,One Edit Distance,66.6,0.3446347886943496,https://leetcode.com/problems/one-edit-distance,"Two Pointers, String"
-EASY,Invalid Tweets,66.6,0.8557267849118447,https://leetcode.com/problems/invalid-tweets,Database
-MEDIUM,Multiply Strings,66.6,0.4214940307686939,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
-HARD,Wildcard Matching,66.6,0.29686751218315705,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
-HARD,Design Skiplist,66.6,0.5798580392963687,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
-MEDIUM,Flatten 2D Vector,66.6,0.5009147536699046,https://leetcode.com/problems/flatten-2d-vector,"Array, Two Pointers, Design, Iterator"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5496112153346678,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Trapping Rain Water,91.0,0.649501837566537,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Flatten Nested List Iterator,91.0,0.6521016401222325,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Implement Trie (Prefix Tree),85.1,0.6781135061433737,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Design Twitter,85.1,0.4251606341015654,https://leetcode.com/problems/design-twitter,"Hash Table, Linked List, Design, Heap (Priority Queue)"
+MEDIUM,Merge Intervals,85.1,0.4929252719289677,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Tweet Counts Per Frequency,77.4,0.4524653399626786,https://leetcode.com/problems/tweet-counts-per-frequency,"Hash Table, Binary Search, Design, Sorting, Ordered Set"
+MEDIUM,Investments in 2016,77.4,0.500296100745603,https://leetcode.com/problems/investments-in-2016,Database
+HARD,Best Meeting Point,77.4,0.6125179073592614,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"
+HARD,The Skyline Problem,66.6,0.4391094604410213,https://leetcode.com/problems/the-skyline-problem,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
+MEDIUM,Rectangles Area,66.6,0.6869653472524287,https://leetcode.com/problems/rectangles-area,Database
+EASY,Happy Number,66.6,0.5798138097232562,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Customer Placing the Largest Number of Orders,66.6,0.6436436288293621,https://leetcode.com/problems/customer-placing-the-largest-number-of-orders,Database
+MEDIUM,Number of Black Blocks,66.6,0.3836398027845825,https://leetcode.com/problems/number-of-black-blocks,"Array, Hash Table, Enumeration"
+EASY,Reverse Linked List,66.6,0.7910863702559198,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Validate IP Address,66.6,0.27796853848947534,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Tree Node,66.6,0.7380817501264157,https://leetcode.com/problems/tree-node,Database
+MEDIUM,Masking Personal Information,66.6,0.5044462759727584,https://leetcode.com/problems/masking-personal-information,String
+MEDIUM,Process Tasks Using Servers,66.6,0.410118913608547,https://leetcode.com/problems/process-tasks-using-servers,"Array, Heap (Priority Queue)"
+MEDIUM,Number of Connected Components in an Undirected Graph,66.6,0.6415612754718487,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Remove All Occurrences of a Substring,66.6,0.7804078186895252,https://leetcode.com/problems/remove-all-occurrences-of-a-substring,"String, Stack, Simulation"
+MEDIUM,Lowest Common Ancestor of a Binary Search Tree,66.6,0.6814191813284787,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Design Authentication Manager,66.6,0.5776455588610285,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Count Sub Islands,66.6,0.7280918265592622,https://leetcode.com/problems/count-sub-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Pascal's Triangle,66.6,0.7691357334850482,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+MEDIUM,Minimum Elements to Add to Form a Given Sum,66.6,0.4429845730323019,https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum,"Array, Greedy"
+MEDIUM,Kth Smallest Element in a Sorted Matrix,66.6,0.6350706210533917,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
+MEDIUM,Count Student Number in Departments,66.6,0.597368442347686,https://leetcode.com/problems/count-student-number-in-departments,Database
+MEDIUM,Minimum Genetic Mutation,66.6,0.5538966762046192,https://leetcode.com/problems/minimum-genetic-mutation,"Hash Table, String, Breadth-First Search"
+MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,66.6,0.8213810926648728,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,"Hash Table, String, Counting"
+HARD,Permutation Sequence,66.6,0.4980493198698156,https://leetcode.com/problems/permutation-sequence,"Math, Recursion"
+EASY,Binary Gap,66.6,0.6459132210037137,https://leetcode.com/problems/binary-gap,Bit Manipulation
+HARD,Regular Expression Matching,66.6,0.2923015787257291,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+MEDIUM,Integer to Roman,66.6,0.6848149043894045,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+HARD,Word Break II,66.6,0.5352407286175332,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+HARD,Alien Dictionary,66.6,0.366366215011456,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,66.6,0.4507745480288218,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Time Needed to Buy Tickets,66.6,0.7064465753270756,https://leetcode.com/problems/time-needed-to-buy-tickets,"Array, Queue, Simulation"
+EASY,Valid Parentheses,66.6,0.4224531125981477,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Max Points on a Line,66.6,0.28867082561118274,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+HARD,Merge k Sorted Lists,66.6,0.5660783036768393,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Trapping Rain Water II,66.6,0.5879952483645801,https://leetcode.com/problems/trapping-rain-water-ii,"Array, Breadth-First Search, Heap (Priority Queue), Matrix"
+MEDIUM,Finding the Users Active Minutes,66.6,0.8042530463189537,https://leetcode.com/problems/finding-the-users-active-minutes,"Array, Hash Table"
+MEDIUM,One Edit Distance,66.6,0.34476565225107253,https://leetcode.com/problems/one-edit-distance,"Two Pointers, String"
+EASY,Invalid Tweets,66.6,0.8555911748677907,https://leetcode.com/problems/invalid-tweets,Database
+MEDIUM,Multiply Strings,66.6,0.4221902541748633,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+HARD,Wildcard Matching,66.6,0.2978585204338158,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+HARD,Design Skiplist,66.6,0.5807907527672262,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
+MEDIUM,Flatten 2D Vector,66.6,0.5011091128183045,https://leetcode.com/problems/flatten-2d-vector,"Array, Two Pointers, Design, Iterator"

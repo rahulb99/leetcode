@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize Sum of Weights after Edge Removals,100.0,0.28697590671353856,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search"
-HARD,IPO,65.5,0.5300567055497201,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
-HARD,LFU Cache,65.5,0.4628004876814428,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Sliding Window Maximum,65.5,0.4746574341360032,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Maximize Sum of Weights after Edge Removals,100.0,0.28901782711066265,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search"
+HARD,IPO,65.5,0.5300661655312818,https://leetcode.com/problems/ipo,"Array, Greedy, Sorting, Heap (Priority Queue)"
+HARD,LFU Cache,65.5,0.4643853336799111,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Sliding Window Maximum,65.5,0.4753723866141206,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

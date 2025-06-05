@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Common Words With One Occurrence,100.0,0.7222213690046534,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
-EASY,Add Two Integers,95.5,0.8817956332144754,https://leetcode.com/problems/add-two-integers,Math
-MEDIUM,Walking Robot Simulation,82.8,0.58186435130401,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-HARD,Stream of Characters,72.8,0.5114948298363619,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
-MEDIUM,Evaluate Division,72.8,0.6298750931546463,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-HARD,Minimum Time to Make Array Sum At Most x,72.8,0.25189366526752544,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
-HARD,Design a Text Editor,72.8,0.46934753191739714,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
-EASY,Add Strings,72.8,0.5186184787726443,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+EASY,Count Common Words With One Occurrence,100.0,0.723155532643964,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
+EASY,Add Two Integers,95.5,0.8817635069203305,https://leetcode.com/problems/add-two-integers,Math
+HARD,Stream of Characters,82.8,0.511929774674439,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
+MEDIUM,Walking Robot Simulation,82.8,0.5819631236831809,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+MEDIUM,Evaluate Division,72.8,0.6307161119133232,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Minimum Time to Make Array Sum At Most x,72.8,0.2526360990505272,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
+HARD,Design a Text Editor,72.8,0.4702069708842507,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Add Strings,72.8,0.5188343427564588,https://leetcode.com/problems/add-strings,"Math, String, Simulation"

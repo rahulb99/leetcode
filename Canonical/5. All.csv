@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Divide a String Into Groups of Size k,100.0,0.6740353895305973,https://leetcode.com/problems/divide-a-string-into-groups-of-size-k,"String, Simulation"
-MEDIUM,Evaluate Reverse Polish Notation,73.9,0.5463153940759375,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
-EASY,Merge Sorted Array,65.7,0.526798881503493,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Divide a String Into Groups of Size k,100.0,0.6744682929211535,https://leetcode.com/problems/divide-a-string-into-groups-of-size-k,"String, Simulation"
+MEDIUM,Evaluate Reverse Polish Notation,79.6,0.5478684832539782,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Merge Sorted Array,65.6,0.5280246763074785,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum,100.0,0.36840321829685435,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6337894434823174,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7178997632129654,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
-HARD,Trapping Rain Water,100.0,0.6481312292939236,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Count Univalue Subtrees,100.0,0.5712596488902686,https://leetcode.com/problems/count-univalue-subtrees,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5492731584126498,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Split Array Largest Sum,100.0,0.5776957840648795,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7194571880675983,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+HARD,Trapping Rain Water,100.0,0.6495034572407369,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Count Univalue Subtrees,100.0,0.5715468709769455,https://leetcode.com/problems/count-univalue-subtrees,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5496095902759305,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Split Array Largest Sum,100.0,0.5792513457637697,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"

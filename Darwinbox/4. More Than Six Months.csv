@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Scramble String,100.0,0.42023065909839596,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
-MEDIUM,Spiral Matrix,73.1,0.5357609966476942,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Minimum Size Subarray Sum,59.6,0.4915420384911291,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Majority Element II,59.6,0.5410231928050302,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
-HARD,Number of Great Partitions,59.6,0.3224659498207885,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+HARD,Scramble String,100.0,0.42104948045911816,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+MEDIUM,Spiral Matrix,73.2,0.5375550441264164,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Minimum Size Subarray Sum,59.8,0.49269448845173786,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Majority Element II,59.8,0.5424130263881531,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
+HARD,Number of Great Partitions,59.8,0.322541181825941,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"

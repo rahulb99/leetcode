@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Monotonic Array,100.0,0.6162686288187628,https://leetcode.com/problems/monotonic-array,Array
-HARD,Department Top Three Salaries,90.1,0.5743799473560562,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Monotonic Array,100.0,0.6166670916059914,https://leetcode.com/problems/monotonic-array,Array
+MEDIUM,Merge Intervals,90.1,0.49292646131728324,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

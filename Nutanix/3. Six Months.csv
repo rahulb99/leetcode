@@ -1,15 +1,17 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Valid Number,100.0,0.21410757466141983,https://leetcode.com/problems/valid-number,String
-MEDIUM,Group Anagrams,87.4,0.707241685954302,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Boundary of Binary Tree,87.4,0.47031082721786616,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,LRU Cache,87.4,0.44936913927461214,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Spiral Matrix,87.4,0.5357356062991769,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Binary Tree Maximum Path Sum,87.4,0.4111835301715405,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
-HARD,Maximum Frequency Stack,87.4,0.6610471197167989,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
-MEDIUM,Decode String,87.4,0.6097526238524069,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Merge Intervals,87.4,0.4919334438128869,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Reverse Linked List II,87.4,0.49417689327121406,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Clone Graph,87.4,0.6195343940232211,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Surrounded Regions,87.4,0.4255738870347844,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Search a 2D Matrix,87.4,0.5208708621239933,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
-HARD,Sliding Window Maximum,87.4,0.4746532159133141,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+HARD,Maximum Frequency Stack,100.0,0.6615933159491246,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+HARD,Valid Number,100.0,0.21492470962082688,https://leetcode.com/problems/valid-number,String
+MEDIUM,Reverse Linked List II,100.0,0.49505718549792843,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Group Anagrams,87.2,0.7083630471470812,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Boundary of Binary Tree,87.2,0.471050028663338,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,LRU Cache,87.2,0.45077547556519987,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Spiral Matrix,87.2,0.5375509840181855,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Binary Tree Maximum Path Sum,87.2,0.41163604800582904,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Decode String,87.2,0.6107531642210202,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,87.2,0.4929257640301584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Clone Graph,87.2,0.6217427102059856,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Surrounded Regions,87.2,0.42717550787156633,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Search a 2D Matrix,87.2,0.5218691895512093,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+HARD,Sliding Window Maximum,87.2,0.47536765011198573,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Increasing Triplet Subsequence,87.2,0.3912536443148688,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
+HARD,Trapping Rain Water,87.2,0.6495017924045547,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

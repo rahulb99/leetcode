@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Unique Paths III,100.0,0.8227980247876865,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
-MEDIUM,Merge Intervals,92.4,0.4919415381183464,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Unique Paths II,92.4,0.43002583215993767,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
-MEDIUM,LRU Cache,81.7,0.4493748810134866,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Number of Islands,81.7,0.6207005193213928,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Synonymous Sentences,81.7,0.5654441382234471,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"
+MEDIUM,Merge Intervals,100.0,0.4929261259707364,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Unique Paths II,100.0,0.43072601819625084,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+HARD,Unique Paths III,100.0,0.8231066371808495,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
+MEDIUM,LRU Cache,88.6,0.4507772098295442,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Synonymous Sentences,88.6,0.5655571940172741,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"

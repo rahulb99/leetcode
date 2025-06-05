@@ -1,11 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Common Words With One Occurrence,100.0,0.7222213690046534,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
-MEDIUM,Walking Robot Simulation,93.4,0.58186435130401,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-HARD,Minimum Time to Make Array Sum At Most x,91.4,0.25189366526752544,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
-EASY,Add Two Integers,76.7,0.8817956332144754,https://leetcode.com/problems/add-two-integers,Math
-EASY,Add Strings,65.9,0.5186184787726443,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
-HARD,Design a Text Editor,65.9,0.46934753191739714,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
-EASY,Longest Common Prefix,57.3,0.45269143895363,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-HARD,Stream of Characters,57.3,0.5114948298363619,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
-MEDIUM,Evaluate Division,57.3,0.6298750931546463,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-HARD,Trapping Rain Water,57.3,0.6481199770579473,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Count Common Words With One Occurrence,100.0,0.723155532643964,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
+MEDIUM,Walking Robot Simulation,93.4,0.5819631236831809,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+HARD,Minimum Time to Make Array Sum At Most x,91.3,0.2526360990505272,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
+EASY,Add Two Integers,76.5,0.8817635069203305,https://leetcode.com/problems/add-two-integers,Math
+HARD,Stream of Characters,65.6,0.511929774674439,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
+EASY,Add Strings,65.6,0.5188343427564588,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+HARD,Design a Text Editor,65.6,0.4702069708842507,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Longest Common Prefix,56.9,0.45372541337673034,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Evaluate Division,56.9,0.6307161119133232,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Trapping Rain Water,56.9,0.6495016308942074,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Orders in the Backlog,56.9,0.5169924016179639,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"

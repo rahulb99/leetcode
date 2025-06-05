@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Almost Equal Pairs I,100.0,0.3744713677627319,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
-EASY,Two Out of Three,89.9,0.7642281345142541,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
-HARD,Bus Routes,79.0,0.46973237374209426,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,Subrectangle Queries,79.0,0.8592360952815136,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+MEDIUM,Count Almost Equal Pairs I,100.0,0.3748421457200901,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
+EASY,Two Out of Three,89.9,0.7653751537515376,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+HARD,Bus Routes,79.0,0.4696069135117217,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,Subrectangle Queries,79.0,0.8594507384611011,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"

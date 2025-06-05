@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Unique XOR Triplets I,100.0,0.24449059238439644,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
-MEDIUM,Number of Unique XOR Triplets II,100.0,0.28972836247663036,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
-HARD,Number of Ways to Form a Target String Given a Dictionary,74.4,0.571503882341378,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,"Array, String, Dynamic Programming"
+MEDIUM,Number of Unique XOR Triplets I,100.0,0.24730212645508265,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
+MEDIUM,Number of Unique XOR Triplets II,100.0,0.2921254317789292,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
+MEDIUM,Next Permutation,65.7,0.42920801996358177,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"

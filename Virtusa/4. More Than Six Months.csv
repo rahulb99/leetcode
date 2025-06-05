@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Pascal's Triangle,100.0,0.768005206757785,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-EASY,Merge Sorted Array,89.4,0.5268033418796026,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Apply Operations to Make String Empty,89.4,0.5604231057188381,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"
+EASY,Pascal's Triangle,100.0,0.7691369097507189,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Merge Sorted Array,89.4,0.528025799583762,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Apply Operations to Make String Empty,89.4,0.5613475245065255,https://leetcode.com/problems/apply-operations-to-make-string-empty,"Array, Hash Table, Sorting, Counting"
+MEDIUM,Longest Substring Without Repeating Characters,89.4,0.3682242787323384,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

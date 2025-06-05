@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.62069058463715,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Leftmost Column with at Least a One,88.5,0.5491888682406876,https://leetcode.com/problems/leftmost-column-with-at-least-a-one,"Array, Binary Search, Matrix, Interactive"
-MEDIUM,Longest Palindromic Substring,88.5,0.3564846258479955,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Container With Most Water,88.5,0.5757717196934435,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Number of Islands,100.0,0.6219964097440521,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Leftmost Column with at Least a One,89.0,0.5493211483040822,https://leetcode.com/problems/leftmost-column-with-at-least-a-one,"Array, Binary Search, Matrix, Interactive"
+MEDIUM,Group Anagrams,89.0,0.7083630627841125,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

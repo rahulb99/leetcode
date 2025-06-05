@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Shopping Offers,100.0,0.5184130924333524,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
-MEDIUM,Find K Closest Elements,94.5,0.4853959589088461,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
-MEDIUM,Course Schedule,87.5,0.4894562124188843,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Remove K Digits,77.5,0.34725492692140314,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Remove K Digits,100.0,0.34811436657995065,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Shopping Offers,88.9,0.5186833920490559,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+MEDIUM,Course Schedule,88.9,0.4907905817559506,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Wildcard Matching,88.9,0.2978588131607176,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
+MEDIUM,Shortest Bridge,88.9,0.5858006577404176,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Snapshot Array,88.9,0.3666383300841386,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+HARD,Design In-Memory File System,88.9,0.48150185020780467,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"

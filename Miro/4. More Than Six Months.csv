@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,House Robber,100.0,0.5219012462450627,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5492664966020756,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Meeting Rooms II,100.0,0.5208003878169836,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,89.6,0.4120137329924842,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts,"Array, Greedy, Sorting"
-MEDIUM,Container With Most Water,89.6,0.5757941820968387,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.5496077341657696,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Meeting Rooms II,100.0,0.5211670671181963,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Container With Most Water,89.8,0.5768140363806433,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

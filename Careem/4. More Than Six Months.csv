@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5554798408592168,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,3Sum,89.9,0.36841335635907896,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Two Sum,100.0,0.556804022533604,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,89.9,0.3695650094267926,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Koko Eating Bananas,100.0,0.49042550376839844,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,3Sum Closest,100.0,0.4680127987481498,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
-MEDIUM,Gas Station,100.0,0.46224300533215656,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Course Schedule II,100.0,0.5312873834793632,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Sum of Subarray Minimums,100.0,0.37498786517455734,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Course Schedule II,100.0,0.5327022929680192,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Sum of Subarray Minimums,100.0,0.3755073726821109,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.7194541925366036,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+MEDIUM,Gas Station,100.0,0.4630595846371632,https://leetcode.com/problems/gas-station,"Array, Greedy"

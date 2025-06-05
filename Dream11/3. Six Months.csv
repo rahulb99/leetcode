@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Asteroid Collision,100.0,0.45328552888849927,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-HARD,Minimum Number of Increments on Subarrays to Form a Target Array,82.8,0.7224943172497832,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
-MEDIUM,Partition Equal Subset Sum,82.8,0.482732985113292,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"
+MEDIUM,Asteroid Collision,100.0,0.4540689558702248,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+HARD,Minimum Number of Increments on Subarrays to Form a Target Array,82.9,0.7234678450982672,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+MEDIUM,Partition Equal Subset Sum,82.9,0.4834620145688848,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"

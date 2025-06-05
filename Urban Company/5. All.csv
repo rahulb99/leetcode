@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Profit in Job Scheduling,100.0,0.5438693840131725,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-MEDIUM,Surrounded Regions,92.3,0.4255929026218502,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Number of Islands,92.3,0.6207104842638161,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Search in Rotated Sorted Array,81.5,0.4265048203156928,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-HARD,Candy,81.5,0.4466227871603442,https://leetcode.com/problems/candy,"Array, Greedy"
+HARD,Maximum Profit in Job Scheduling,100.0,0.5439762925237165,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,Surrounded Regions,92.3,0.42718657375178526,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Islands,92.3,0.6220004389777595,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Search in Rotated Sorted Array,81.4,0.42740219375873145,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+HARD,Candy,81.4,0.4479449825115006,https://leetcode.com/problems/candy,"Array, Greedy"
