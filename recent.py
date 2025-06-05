@@ -9,7 +9,7 @@ output_filename = "recent.csv"
 dataframes = []
 
 # Top tech companies
-companies = ["Meta", "Apple", "Amazon", "Google", "Microsoft", "Netflix", "Nvidia"]
+companies = ["Meta", "Apple", "Amazon", "Google", "Microsoft", "Uber", "Tesla", "Lyft", "Databricks", "Block", "Datadog", "DoorDash"]
 
 # Walk through all subdirectories
 for root, dirs, files in os.walk("."):
@@ -20,6 +20,7 @@ for root, dirs, files in os.walk("."):
         # Read the CSV file and append it to the list
         try:
             df = pd.read_csv(file_path)
+            df['company'] = os.path.basename(root)  # Add a new column with the company name
             dataframes.append(df)
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
@@ -27,10 +28,13 @@ for root, dirs, files in os.walk("."):
 # Combine all dataframes
 if dataframes:
     combined_df = pd.concat(dataframes, ignore_index=True)
-    # Remove duplicates
-    deduplicated_df = combined_df.drop_duplicates()
-    # Save the result to a new CSV file
-    deduplicated_df.to_csv(output_filename, index=False)
-    print(f"Deduplicated file saved as {output_filename}")
+    if 'Acceptance Rate' in combined_df.columns:
+        combined_df = combined_df.drop(columns=['Acceptance Rate'])
+    combined_df['Companies'] = combined_df.groupby('Title')['company'].transform(lambda x: ', '.join(x))
+    if 'company' in combined_df.columns:
+        combined_df = combined_df.drop(columns=['company'])
+    combined_df = combined_df.drop_duplicates(subset="Title", keep='first')
+    combined_df.to_csv(output_filename, index=False)
+
 else:
     print("No files found to process.")
