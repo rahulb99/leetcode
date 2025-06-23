@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Basic Calculator II,100.0,0.4572369634557751,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-HARD,Basic Calculator,100.0,0.45475321358163595,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+HARD,Basic Calculator,100.0,0.4559254553283655,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"

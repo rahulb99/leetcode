@@ -1,7 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.6447871556514159,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-EASY,Backspace String Compare,100.0,0.49475576849642505,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Battleships in a Board,100.0,0.7650767895905703,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
-MEDIUM,Number of Ways to Build Sturdy Brick Wall,100.0,0.49435057530838605,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Permutations,100.0,0.8057473033431036,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,100.0,0.7796338444954806,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+EASY,Backspace String Compare,100.0,0.49481803728999,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"

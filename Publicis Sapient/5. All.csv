@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.6495041434274698,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Two Sum,88.2,0.5568040049979548,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Group Anagrams,88.2,0.708367510138054,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Valid Parentheses,88.2,0.4224553120669605,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Substring Without Repeating Characters,88.2,0.3682237342460803,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Trapping Rain Water,100.0,0.6510222145708986,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Two Sum,88.4,0.5577708772826631,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Group Anagrams,88.4,0.709289925227846,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Valid Parentheses,88.4,0.42322927482455164,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,88.4,0.3693619526562289,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

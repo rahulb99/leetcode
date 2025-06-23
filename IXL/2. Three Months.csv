@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Basic Calculator II,100.0,0.45723347493674654,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Course Schedule,100.0,0.49079087959054457,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Merge Intervals,100.0,0.49292596266983035,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Merge Intervals,100.0,0.4939525764689584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

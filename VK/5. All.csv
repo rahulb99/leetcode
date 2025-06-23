@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Distance to Closest Person,100.0,0.48921312646475135,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Move Zeroes,95.6,0.6276417766277067,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Valid Parentheses,90.2,0.42245635736400416,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Merge Sorted Array,83.3,0.5280250403129395,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Summary Ranges,83.3,0.5296584317301178,https://leetcode.com/problems/summary-ranges,Array
-EASY,Merge Two Sorted Lists,73.5,0.667530778988282,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Valid Palindrome,73.5,0.5081572337937903,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Maximize Distance to Closest Person,100.0,0.4898931447175697,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Move Zeroes,95.6,0.6280482534248885,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Valid Parentheses,90.2,0.42328396016340586,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Merge Sorted Array,83.2,0.5292466143644876,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Summary Ranges,83.2,0.5302431124795074,https://leetcode.com/problems/summary-ranges,Array
+EASY,Valid Palindrome,73.3,0.5096809657578885,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Longest Subarray of 1's After Deleting One Element,73.3,0.6923692019165307,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"

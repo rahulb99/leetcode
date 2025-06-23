@@ -1,8 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove K Digits,100.0,0.34811436657995065,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Shopping Offers,88.9,0.5186833920490559,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
-MEDIUM,Course Schedule,88.9,0.4907905817559506,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-HARD,Wildcard Matching,88.9,0.2978588131607176,https://leetcode.com/problems/wildcard-matching,"String, Dynamic Programming, Greedy, Recursion"
-MEDIUM,Shortest Bridge,88.9,0.5858006577404176,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Snapshot Array,88.9,0.3666383300841386,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
-HARD,Design In-Memory File System,88.9,0.48150185020780467,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Shortest Bridge,100.0,0.5864849244498144,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Course Schedule,92.8,0.49234407208177816,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Remove K Digits,92.8,0.3494044611317414,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Shopping Offers,82.6,0.5190263317700597,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+MEDIUM,Snapshot Array,82.6,0.36665375389245647,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"

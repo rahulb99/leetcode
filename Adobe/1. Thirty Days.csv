@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Repeating Character Replacement,100.0,0.5705294160293823,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
-HARD,Longest Increasing Path in a Matrix,100.0,0.5526953348263627,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+Difficulty,Title,Frequency,Acceptance Rate,Link

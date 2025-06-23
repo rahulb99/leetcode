@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Increasing Subsequence,100.0,0.5767693674044662,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Rotting Oranges,100.0,0.5647293122921103,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Rotting Oranges,100.0,0.5661841672935807,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

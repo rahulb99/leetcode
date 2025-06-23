@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Browser History,100.0,0.7771034816247581,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
-EASY,Reformat Phone Number,100.0,0.6688806814797165,https://leetcode.com/problems/reformat-phone-number,String
+EASY,Reformat Phone Number,100.0,0.669332106934101,https://leetcode.com/problems/reformat-phone-number,String

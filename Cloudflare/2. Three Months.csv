@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reaching Points,100.0,0.33607392872057157,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Design a Stack With Increment Operation,93.4,0.8013256028637272,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,Design Hit Counter,84.1,0.6918615176111984,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+HARD,Reaching Points,100.0,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Design a Stack With Increment Operation,76.6,0.8013123593723671,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,Design Hit Counter,76.6,0.6920831928267657,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

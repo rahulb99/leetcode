@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Search,100.0,0.4514570699973844,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.4283724679402803,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

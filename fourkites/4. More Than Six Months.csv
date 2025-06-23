@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.6495045731970724,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Longest Subarray With Maximum Bitwise AND,89.4,0.6180022826964451,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and,"Array, Bit Manipulation, Brainteaser"
-MEDIUM,Longest Unequal Adjacent Groups Subsequence II,89.4,0.5132328886162654,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii,"Array, String, Dynamic Programming"
-EASY,Longest Unequal Adjacent Groups Subsequence I,89.4,0.6769329903394532,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"
+MEDIUM,Longest Subarray With Maximum Bitwise AND,100.0,0.6181425057525985,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and,"Array, Bit Manipulation, Brainteaser"
+MEDIUM,Longest Unequal Adjacent Groups Subsequence II,100.0,0.5135262321144675,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii,"Array, String, Dynamic Programming"
+EASY,Longest Unequal Adjacent Groups Subsequence I,100.0,0.6756708309889311,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"

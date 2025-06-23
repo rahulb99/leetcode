@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.708363615558373,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Longest Substring Without Repeating Characters,90.1,0.3682214385848849,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Group Anagrams,100.0,0.709289019979725,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

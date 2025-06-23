@@ -1,7 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Coin Change,100.0,0.4636593640445978,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-MEDIUM,Best Time to Buy and Sell Stock with Cooldown,100.0,0.6023384811467852,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,78.4,0.6138713694612944,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"
-MEDIUM,Largest Palindromic Number,78.4,0.3643553374307703,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
-MEDIUM,Maximum Number of Potholes That Can Be Fixed,78.4,0.5369028006589786,https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed,"String, Greedy, Sorting"
-MEDIUM,Number of Spaces Cleaning Robot Cleaned,78.4,0.6206623162773678,https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned,"Array, Matrix, Simulation"
+MEDIUM,Coin Change,100.0,0.46499890780536696,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Best Time to Buy and Sell Stock with Cooldown,100.0,0.6040194963747181,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
+MEDIUM,Largest Palindromic Number,79.6,0.36473298587506603,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"

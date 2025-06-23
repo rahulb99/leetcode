@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.4820252741765205,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,LRU Cache,100.0,0.45078268055418325,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Gas Station,100.0,0.46306574666383615,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Minimum Moves to Make Array Complementary,100.0,0.42042140565762615,https://leetcode.com/problems/minimum-moves-to-make-array-complementary,"Array, Hash Table, Prefix Sum"
+MEDIUM,Word Break,100.0,0.4827562706373493,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Gas Station,100.0,0.46387397955199466,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Minimum Moves to Make Array Complementary,100.0,0.4216836919510251,https://leetcode.com/problems/minimum-moves-to-make-array-complementary,"Array, Hash Table, Prefix Sum"

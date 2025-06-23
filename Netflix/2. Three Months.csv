@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reconstruct Itinerary,100.0,0.4356684310598137,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-MEDIUM,Word Search,75.1,0.451456308579138,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Koko Eating Bananas,75.1,0.49052657929691434,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-EASY,Logger Rate Limiter,66.7,0.7658714299536825,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-MEDIUM,Longest Substring Without Repeating Characters,66.7,0.3682190266608425,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Cache With Time Limit,66.7,0.7578135709389993,https://leetcode.com/problems/cache-with-time-limit,
+EASY,Logger Rate Limiter,100.0,0.766103057053701,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Cache With Time Limit,100.0,0.7578738827979018,https://leetcode.com/problems/cache-with-time-limit,
+HARD,Contains Duplicate III,100.0,0.23633360996542796,https://leetcode.com/problems/contains-duplicate-iii,"Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
+MEDIUM,Koko Eating Bananas,89.2,0.49067282582685684,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+EASY,Contains Duplicate,89.2,0.6323637027239968,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+EASY,Contains Duplicate II,89.2,0.49049882675581746,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"

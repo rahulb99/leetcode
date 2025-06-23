@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6219964097440521,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Leftmost Column with at Least a One,89.0,0.5493211483040822,https://leetcode.com/problems/leftmost-column-with-at-least-a-one,"Array, Binary Search, Matrix, Interactive"
-MEDIUM,Group Anagrams,89.0,0.7083630627841125,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Group Anagrams,100.0,0.7092884459081183,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

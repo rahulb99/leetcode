@@ -1,13 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reorganize String,100.0,0.5613764389466123,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Task Scheduler,88.1,0.6142509554277709,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Maximize Distance to Closest Person,80.9,0.489201006263359,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Valid Parentheses,74.0,0.4224529487418841,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Rotating the Box,69.5,0.7908581906964526,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-MEDIUM,Number of Adjacent Elements With the Same Color,63.7,0.5551425718406746,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
-MEDIUM,Implement Trie (Prefix Tree),63.7,0.6781135061433737,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Design Hit Counter,55.5,0.6918584880503577,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Spiral Matrix,55.5,0.5375499678422696,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Block Placement Queries,55.5,0.1678362781419208,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-EASY,Image Smoother,55.5,0.6832460732984293,https://leetcode.com/problems/image-smoother,"Array, Matrix"
-HARD,Trapping Rain Water,55.5,0.64950151454514,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Reorganize String,100.0,0.5619634145417838,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Task Scheduler,87.1,0.615393301547845,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,78.8,0.4898732183487074,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,75.1,0.42322848183425277,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Rotating the Box,70.6,0.7909813050714205,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Number of Adjacent Elements With the Same Color,64.8,0.5575544433923982,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+HARD,Trapping Rain Water,64.8,0.6510198658123436,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Implement Trie (Prefix Tree),64.8,0.6793477899842462,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Spiral Matrix,56.5,0.539397306376751,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

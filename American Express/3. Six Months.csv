@@ -1,6 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5568026659974973,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Rotate Array,89.2,0.42910616985155725,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-EASY,Valid Anagram,89.2,0.6657018857719319,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Permutations,89.2,0.8057460553585652,https://leetcode.com/problems/permutations,"Array, Backtracking"
-EASY,Best Time to Buy and Sell Stock,89.2,0.5515737097853952,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Rotate Array,100.0,0.43021387791691784,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Two Sum,100.0,0.5577699846438562,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5525964769624077,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

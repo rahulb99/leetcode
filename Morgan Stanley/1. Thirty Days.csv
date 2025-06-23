@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Make K-Subarray Sums Equal,100.0,0.36489730594825287,https://leetcode.com/problems/make-k-subarray-sums-equal,"Array, Math, Greedy, Sorting, Number Theory"
-MEDIUM,Minimum Operations to Reduce X to Zero,100.0,0.4003906841515491,https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero,"Array, Hash Table, Binary Search, Sliding Window, Prefix Sum"
+Difficulty,Title,Frequency,Acceptance Rate,Link

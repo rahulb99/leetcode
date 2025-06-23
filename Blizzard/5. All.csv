@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Parenthesis String,100.0,0.38840940761969867,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5515757003891657,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Roman to Integer,100.0,0.647586416984351,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Valid Parenthesis String,100.0,0.3890950919002989,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
+EASY,Best Time to Buy and Sell Stock,100.0,0.5525969157019779,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

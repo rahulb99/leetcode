@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Read N Characters Given read4 II - Call Multiple Times,100.0,0.42874906350289055,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
-MEDIUM,Rotting Oranges,76.2,0.5647288398765853,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Sort List,76.2,0.6161500136573403,https://leetcode.com/problems/sort-list,"Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort"
+MEDIUM,Rotting Oranges,100.0,0.5661841837717154,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Time Based Key-Value Store,90.3,0.49366304491851065,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Minimum Window Substring,90.3,0.45350682478059534,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

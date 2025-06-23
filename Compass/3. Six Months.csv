@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Total Distance Traveled,100.0,0.40115148626463,https://leetcode.com/problems/total-distance-traveled,"Math, Simulation"
-MEDIUM,Camelcase Matching,90.2,0.6366013071895424,https://leetcode.com/problems/camelcase-matching,"Array, Two Pointers, String, Trie, String Matching"
+MEDIUM,Decode String,100.0,0.6115276408838193,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

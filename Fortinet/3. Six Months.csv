@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Percentage of Users Attended a Contest,100.0,0.5886990618643609,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
-HARD,Number of Ways to Paint N × 3 Grid,100.0,0.6494727189362678,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming
-MEDIUM,Construct String With Repeat Limit,100.0,0.7087103941490962,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+MEDIUM,Construct String With Repeat Limit,100.0,0.7087778142775636,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"

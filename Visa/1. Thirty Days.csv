@@ -1,7 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotating the Box,100.0,0.7908581906964526,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-HARD,Length of Longest V-Shaped Diagonal Segment,87.3,0.3371881968573355,https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment,"Array, Dynamic Programming, Memoization, Matrix"
-HARD,Block Placement Queries,87.3,0.167845246789334,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-MEDIUM,Simplify Path,87.3,0.47656726363941276,https://leetcode.com/problems/simplify-path,"String, Stack"
-MEDIUM,Longest Substring Without Repeating Characters,77.2,0.36821889158407584,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,LRU Cache,77.2,0.45077411140642554,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Rotating the Box,100.0,0.7909813050714205,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Minimum Operations to Write the Letter Y on a Grid,100.0,0.6194290206869442,https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid,"Array, Hash Table, Matrix, Counting"

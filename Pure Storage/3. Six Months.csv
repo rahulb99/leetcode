@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Palindromic Substrings,100.0,0.7160957606786588,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Valid Square,67.9,0.44244633665128835,https://leetcode.com/problems/valid-square,"Math, Geometry"
-MEDIUM,Longest Palindromic Substring,67.9,0.3574445626071691,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Insert Delete GetRandom O(1),67.9,0.5496092168637935,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gray Code,100.0,0.6174812179635658,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"
-MEDIUM,3Sum,100.0,0.3695617483518406,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Rotate Image,100.0,0.7776112389547049,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,Minimum Swaps to Group All 1's Together II,100.0,0.654950198149041,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii,"Array, Sliding Window"
-MEDIUM,Group Anagrams,100.0,0.7083640602282043,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6337894434823174,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
+MEDIUM,Gray Code,100.0,0.6187231456205623,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"
+MEDIUM,3Sum,100.0,0.3707096536037866,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Rotate Image,100.0,0.7790165261990751,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6364613847469199,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"

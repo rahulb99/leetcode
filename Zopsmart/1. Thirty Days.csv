@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.6495056348298491,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Reverse Words in a String,100.0,0.515961982707412,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+Difficulty,Title,Frequency,Acceptance Rate,Link

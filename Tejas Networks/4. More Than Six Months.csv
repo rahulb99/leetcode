@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Add Two Numbers,100.0,0.4608999320807786,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-EASY,Majority Element,90.6,0.6570090265798513,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Add Two Numbers,100.0,0.46230652939384476,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Majority Element,100.0,0.6573846807727424,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"

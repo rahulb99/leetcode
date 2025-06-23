@@ -1,11 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36822068899252003,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,86.6,0.4331617869653591,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
-MEDIUM,Minimum Cost For Tickets,79.7,0.674196700939511,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-MEDIUM,Validate IP Address,79.7,0.2779692049104061,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,Minimum Length of Anagram Concatenation,79.7,0.39703642512326714,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-MEDIUM,Koko Eating Bananas,70.0,0.49052821092090826,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-HARD,Race Car,70.0,0.44070047269217,https://leetcode.com/problems/race-car,Dynamic Programming
-MEDIUM,Jump Game,70.0,0.39401450303883384,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Sum of Digit Differences of All Pairs,70.0,0.4241632050809129,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"
-MEDIUM,Minimum Number of Operations to Satisfy Conditions,70.0,0.40291945982706695,https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions,"Array, Dynamic Programming, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.36936129661119277,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Length of Anagram Concatenation,86.8,0.39725376355135383,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,86.8,0.43382458559567927,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Minimum Cost For Tickets,80.0,0.6741376633860101,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
+MEDIUM,Validate IP Address,70.5,0.27817524620453365,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Koko Eating Bananas,70.5,0.4906727505946439,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Race Car,70.5,0.4412431163672474,https://leetcode.com/problems/race-car,Dynamic Programming
+MEDIUM,Jump Game,70.5,0.3947918488639545,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Sum of Digit Differences of All Pairs,70.5,0.4247694418738233,https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs,"Array, Hash Table, Math, Counting"

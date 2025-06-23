@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Number of Steps to Make Two Strings Anagram,100.0,0.8213829923001659,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,"Hash Table, String, Counting"
-HARD,Maximum Number of Non-overlapping Palindrome Substrings,79.2,0.41511111111111115,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,"Two Pointers, String, Dynamic Programming, Greedy"
-MEDIUM,Longest Mountain in Array,79.2,0.4104811556145934,https://leetcode.com/problems/longest-mountain-in-array,"Array, Two Pointers, Dynamic Programming, Enumeration"
-HARD,Minimum Window Substring,79.2,0.4522130974482748,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Maximum Number of Non-overlapping Palindrome Substrings,100.0,0.4156976135101724,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,"Two Pointers, String, Dynamic Programming, Greedy"
+HARD,Minimum Window Substring,100.0,0.45350671702442985,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
